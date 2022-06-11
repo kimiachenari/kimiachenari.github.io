@@ -22,7 +22,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://drive.google.com/file/d/1-3OmuWk-0YWJ_u68yr8AQK7VR_aZnqH2/view?usp=sharing)
+![Image](https://github.com/kimiachenari/kimiachenari/blob/main/LST%20from%202013%20to%202021%20(Mashhad).png?raw=true)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
