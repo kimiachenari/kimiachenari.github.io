@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/kimiachenari/kimiachenari.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+## Kimia Chenari
+#Urban Spatial Planner & analyzer | Urban Data Scientist
+As an urban planner, my interests lie in urban sustainable development, particularly in:
+1) Spatial development explains patterns of human behavior through mathematics and geometry, so I enjoy solving problems through spatial analysis.
+2) Due to data's importance for addressing challenges, I became a data scientist.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
