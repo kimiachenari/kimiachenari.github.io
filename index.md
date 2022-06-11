@@ -1,5 +1,5 @@
 ## Kimia Chenari
-#Urban Spatial Planner & analyzer | Urban Data Scientist
+# Urban Spatial Planner & analyzer | Urban Data Scientist
 As an urban planner, my interests lie in urban sustainable development, particularly in:
 1) Spatial development explains patterns of human behavior through mathematics and geometry, so I enjoy solving problems through spatial analysis.
 2) Due to data's importance for addressing challenges, I became a data scientist.
