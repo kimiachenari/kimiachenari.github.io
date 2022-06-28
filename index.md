@@ -13,7 +13,7 @@
 #### 3) Developing GIS
 
 ### Programming Skills :
-#### 1) Python     |**** |
+#### 1) Python |**** |
 #### 2) SQL        |***  |
 #### 3) JavaScript |***  |
 
