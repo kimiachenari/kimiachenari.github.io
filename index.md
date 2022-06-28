@@ -22,12 +22,19 @@
 #### Google Earth Engine (GEE) | Spyder & Jupiter Notebook | JOSM 
 
 ### 5) Software Skills :
-#### ArcGIS | Autocad | Photoshop | SketchUp 
+#### ArcGIS | AutoCAD | Photoshop | SketchUp 
 
 # self Projects
-### Urban Spatial Analyse Projects
-### Urban Data Science Projects
-### University Projects
+## open-source tools projects
+### Google Earth Engine (GEE) 
+### Python 
+### SQL 
+### JOSM 
+## Software Projects
+### Arcgis
+### AutoCAD
+### SketchUp 
+
 
 
 # Publication
