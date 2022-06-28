@@ -7,21 +7,26 @@
 #### Linkdin : Kimia Chenari
 
 
-#### As an urban planner, my interests lie in urban sustainable development, particularly in:
+### As an urban planner, my interests lie in urban sustainable development, particularly in :
 #### 1) Urban Spatial Planning & analyzing
 #### 2) Urban Data Science
 #### 3) Developing GIS
 
-## Programming Skills
+### Programming Skills :
 #### 1) Python 
 #### 2) SQL
 #### 3) JavaScript
 
-## Open-source tools
+### Open-source tools :
 #### 1) Google Earth Engine (GEE)
 #### 2) Spyder & Jupiter Notebook
 #### 3) JOSM
-## Software Skills
+
+### Software Skills
+#### 1) ArcGIS 
+#### 2) Photoshop
+#### 3) SketchUp
+#### 4) Autocad
 
 ### Urban Spatial Analyse Projects
 ### Urban Data Science Projects
