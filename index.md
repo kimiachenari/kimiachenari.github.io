@@ -13,9 +13,9 @@
 #### 3) Developing GIS
 
 ### Programming Skills :
-#### 1) Python    |.... |
-#### 2) SQL    |...  |
-#### 3) JavaScript|...  |
+#### 1) Python    |==== |
+#### 2) SQL    |===  |
+#### 3) JavaScript|===  |
 
 ### Open-source tools :
 #### 1) Google Earth Engine (GEE)  |...  |
