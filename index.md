@@ -14,9 +14,7 @@
 
 
 ### As an urban planner, my interests lie in urban sustainable development, particularly in :
-#### 1) Urban Spatial Planning & analyzing
-#### 2) Urban Data Science
-#### 3) Developing GIS
+#### Urban Spatial Planning & analyzing | Urban Data Science | Developing GIS
 
 ### Programming Skills :
 #### Python | SQL | JavaScript
