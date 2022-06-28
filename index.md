@@ -6,22 +6,22 @@
 #### Website : https://kimiachenari.github.io/
 #### Linkdin : Kimia Chenari
 
-### EDUCATION
+### 1) EDUCATION :
 #### B.Sc. in Urban Planning from Art Department, Bojnourd university, Bojnourd, Iran
 #### Thesis Title: “The Role of Urban Street Patterns to Mitigate Urban Heat Island: Using G.E.E., and Python libraries in Mashhad, Iran“
 #### GPA: 17.17 /20  or 3.6/4
 
 
-### As an urban planner, my interests lie in urban sustainable development, particularly in :
+### 2) As an urban planner, my interests lie in urban sustainable development, particularly in :
 #### Urban Spatial Planning & analyzing | Urban Data Science | Developing GIS
 
-### Programming Skills :
+### 3) Programming Skills :
 #### Python | SQL | JavaScript
 
-### Open-source tools :
+### 4) Open-source tools :
 #### Google Earth Engine (GEE) | Spyder & Jupiter Notebook | JOSM 
 
-### Software Skills :
+### 5) Software Skills :
 #### ArcGIS | Autocad | Photoshop | SketchUp 
 
 # self Projects
