@@ -1,5 +1,5 @@
 
-<img src="https://user-images.githubusercontent.com/104256716/173216840-98e57dd1-00e5-4b01-b6c9-47e1b78bc15f.jpg" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/104256716/173216840-98e57dd1-00e5-4b01-b6c9-47e1b78bc15f.jpg" width="150" height="150">
 ## Kimia Chenari
 #### E_mail : kimia.chenari@gmail.com
 ### Urban Spatial Planner & analyzer | Urban Data Scientist
