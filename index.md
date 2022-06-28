@@ -6,7 +6,7 @@
 #### Website : https://kimiachenari.github.io/
 #### Linkdin : Kimia Chenari
 
-# EDUCATION
+### EDUCATION
 #### Art Department, Bojnourd university, Bojnourd, Iran
 #### B.Sc. in Urban Planning
 #### Thesis Title: “The Role of Urban Street Patterns to Mitigate Urban Heat Island: Using G.E.E., and Python libraries in Mashhad, Iran“
