@@ -1,17 +1,21 @@
 
 <img src="https://user-images.githubusercontent.com/104256716/173216840-98e57dd1-00e5-4b01-b6c9-47e1b78bc15f.jpg" width="150" height="150">
-# Kimia Chenari
-#### G_mail : kimia.chenari@gmail.com
+# About
+#### G-mail Address : kimia.chenari@gmail.com
+#### Website : https://kimiachenari.github.io/
+#### Linkdin : Kimia Chenari
 
-As an urban planner, my interests lie in urban sustainable development, particularly in:
-1) Urban Spatial Planning & analyzing
-2) Urban Data Science
-3) Developing GIS
+
+###### As an urban planner, my interests lie in urban sustainable development, particularly in:
+###### 1) Urban Spatial Planning & analyzing
+###### 2) Urban Data Science
+###### 3) Developing GIS
 
 ## Programming Skills
 1) Python
 2) SQL
 3) JavaScript
+
 ## Open-source tools
 1) Google Earth Engine (GEE)
 2) 
