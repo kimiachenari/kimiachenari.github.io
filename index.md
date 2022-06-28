@@ -5,11 +5,17 @@
 
 ### Urban Spatial Planner & analyzer | Urban Data Scientist | GIS Developer
 As an urban planner, my interests lie in urban sustainable development, particularly in:
-1) Spatial development explains patterns of human behavior through mathematics and geometry, so I enjoy solving problems through spatial analysis.
-2) Due to data's importance for addressing challenges, I became a data scientist.
+1) Urban Spatial Planning & analyzing
+2) Urban Data Science
+3) Developing GIS
 
 ## Programming Skills
-
+1) Python
+2) SQL
+3) JavaScript
+## Open-source tools
+1) Google Earth Engine (GEE)
+2) 
 ## Software Skills
 
 ### Urban Spatial Analyse Projects
