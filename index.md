@@ -7,9 +7,9 @@
 #### Linkdin : Kimia Chenari
 
 ### 1) EDUCATION :
-#### B.Sc. in Urban Planning from Art Department, Bojnourd university, Bojnourd, Iran
+#### B.Sc. in Urban Planning from Art Department, Bojnourd university, Bojnourd, Iran with GPA of 17.17 /20  or 3.6/4.
 #### Thesis Title: “The Role of Urban Street Patterns to Mitigate Urban Heat Island: Using G.E.E., and Python libraries in Mashhad, Iran“
-#### GPA: 17.17 /20  or 3.6/4
+
 
 
 ### 2) As an urban planner, my interests lie in urban sustainable development, particularly in :
