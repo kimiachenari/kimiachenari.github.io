@@ -1,11 +1,19 @@
 
 <img src="https://user-images.githubusercontent.com/104256716/173216840-98e57dd1-00e5-4b01-b6c9-47e1b78bc15f.jpg" width="150" height="150">
 ## Kimia Chenari
-#### E_mail : kimia.chenari@gmail.com
-### Urban Spatial Planner & analyzer | Urban Data Scientist
+#### G_mail : kimia.chenari@gmail.com
+
+### Urban Spatial Planner & analyzer | Urban Data Scientist | GIS Developer
 As an urban planner, my interests lie in urban sustainable development, particularly in:
 1) Spatial development explains patterns of human behavior through mathematics and geometry, so I enjoy solving problems through spatial analysis.
 2) Due to data's importance for addressing challenges, I became a data scientist.
+
+## Programming Skills
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+## Software Skills
 
 ### Urban Spatial Analyse Projects
 ### Urban Data Science Projects
