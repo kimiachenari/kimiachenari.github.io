@@ -6,6 +6,12 @@
 #### Website : https://kimiachenari.github.io/
 #### Linkdin : Kimia Chenari
 
+# EDUCATION
+#### Art Department, Bojnourd university, Bojnourd, Iran
+#### B.Sc. in Urban Planning
+#### Thesis Title: “The Role of Urban Street Patterns to Mitigate Urban Heat Island: Using G.E.E., and Python libraries in Mashhad, Iran“
+#### GPA: 17.17 /20  or 3.6/4
+
 
 ### As an urban planner, my interests lie in urban sustainable development, particularly in :
 #### 1) Urban Spatial Planning & analyzing
@@ -18,12 +24,17 @@
 ### Open-source tools :
 #### Google Earth Engine (GEE) | Spyder & Jupiter Notebook | JOSM 
 
-### Software Skills
+### Software Skills :
 #### ArcGIS | Autocad | Photoshop | SketchUp 
 
+# self Projects
 ### Urban Spatial Analyse Projects
 ### Urban Data Science Projects
 ### University Projects
+
+
+# Publication
+Kimia Chenari; S.Mohammad Reza Moussavi.A; Azadeh Lak. 2022. 'The Role of Urban Street Patterns to Mitigate Urban Heat Island: Using G.E.E., and Python libraries in Mashhad, Iran'. Journal of the Urban Planning and Development Division. (Under-review)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
