@@ -9,10 +9,7 @@ As an urban planner, my interests lie in urban sustainable development, particul
 2) Due to data's importance for addressing challenges, I became a data scientist.
 
 ## Programming Skills
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+
 ## Software Skills
 
 ### Urban Spatial Analyse Projects
@@ -26,7 +23,10 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
-
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 - Bulleted
 - List
 
