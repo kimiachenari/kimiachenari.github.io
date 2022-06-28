@@ -13,18 +13,13 @@
 #### 3) Developing GIS
 
 ### Programming Skills :
-#### 1) Python | SQL | JavaScript
+#### Python | SQL | JavaScript
 
 ### Open-source tools :
-#### 1) Google Earth Engine (GEE)  |...  |
-#### 2) Spyder & Jupiter Notebook  |.... |
-#### 3) JOSM                       |.... |
+#### Google Earth Engine (GEE) | Spyder & Jupiter Notebook | JOSM 
 
 ### Software Skills
-#### 1) ArcGIS       |**** |
-#### 2) Photoshop    |**** |
-#### 3) SketchUp     |**** |
-#### 4) Autocad      |**** |
+#### ArcGIS | Autocad | Photoshop | SketchUp 
 
 ### Urban Spatial Analyse Projects
 ### Urban Data Science Projects
