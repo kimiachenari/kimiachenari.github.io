@@ -44,24 +44,32 @@
 ![Straightnessn](https://user-images.githubusercontent.com/104256716/176389262-f966f94c-6b88-427b-a978-8ca3b3299a63.png)
 ![Closenessn](https://user-images.githubusercontent.com/104256716/176389458-251bece2-051e-4f2e-8ecd-7369699eb506.png)
 ![edge](https://user-images.githubusercontent.com/104256716/176389728-714e7d7e-649b-4c74-b297-cec7ea989e6a.png)
-
-#### SQL 
-#### JOSM 
-## Software Projects
-#### Arcgis
-
-![site analysis3](https://user-images.githubusercontent.com/104256716/176394727-40da3f75-2e0e-40f8-880e-8444600e3e0e.png)
-![site selection](https://user-images.githubusercontent.com/104256716/176395207-ee15e693-2114-455d-bf5e-cd76e056c4bb.png)
-
-
-#### AutoCAD
-#### SketchUp 
-
 #### pacesyntax
 
 ![depth map3](https://user-images.githubusercontent.com/104256716/176394698-3a0a8fa2-544c-4b31-8897-33807922dbf9.png)
 
 
+
+#### SQL 
+#### JOSM
+
+## Spatial Analyse using Software 
+#### Arcgis
+
+![site analysis3](https://user-images.githubusercontent.com/104256716/176394727-40da3f75-2e0e-40f8-880e-8444600e3e0e.png)
+![site selection](https://user-images.githubusercontent.com/104256716/176395207-ee15e693-2114-455d-bf5e-cd76e056c4bb.png)
+
+## Designe
+
+#### AutoCAD & SketchUp 
+
+![des](https://user-images.githubusercontent.com/104256716/176472099-40927fa8-0262-498e-aa45-84f47f9e7bd7.png)
+
+![des2](https://user-images.githubusercontent.com/104256716/176472597-aa74f062-3948-4b92-a83b-36dc4dc65d61.png)
+
+![des4](https://user-images.githubusercontent.com/104256716/176473157-daeb6f82-f552-4dbc-8374-dd9b1ef6849a.png)
+
+![dis3](https://user-images.githubusercontent.com/104256716/176473178-29b1042b-5761-4d00-99db-12c725d346ee.png)
 
 
 # Publication
