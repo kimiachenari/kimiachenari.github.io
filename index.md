@@ -67,9 +67,7 @@
 
 ![des2](https://user-images.githubusercontent.com/104256716/176472597-aa74f062-3948-4b92-a83b-36dc4dc65d61.png)
 
-![des4](https://user-images.githubusercontent.com/104256716/176473157-daeb6f82-f552-4dbc-8374-dd9b1ef6849a.png)
-
-![dis3](https://user-images.githubusercontent.com/104256716/176473178-29b1042b-5761-4d00-99db-12c725d346ee.png)
+![house des](https://user-images.githubusercontent.com/104256716/176484529-0a874034-e43f-4b83-a1e7-2ce1eee650a0.png)
 
 
 # Publication
