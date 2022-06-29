@@ -39,6 +39,12 @@
 
 ![NDVI Distributionn](https://user-images.githubusercontent.com/104256716/176388306-6e3c475e-652a-4513-9a62-b47fbddfd69b.png)
 
+![lst](https://user-images.githubusercontent.com/104256716/176497543-33b3dafa-fea5-41a9-bfff-16dcdc6697bd.png)
+
+![ndvi2c](https://user-images.githubusercontent.com/104256716/176497555-93bb6106-03e3-4bad-819d-d1f98ee98bb3.png)
+![vizc](https://user-images.githubusercontent.com/104256716/176497581-33b62462-2768-4fc5-bcb7-ada8630c4017.png)
+
+
 ## Network Analyse using Open-source Tools 
 #### Python
 ![Straightnessn](https://user-images.githubusercontent.com/104256716/176389262-f966f94c-6b88-427b-a978-8ca3b3299a63.png)
