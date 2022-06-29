@@ -25,13 +25,24 @@
 #### ArcGIS | AutoCAD | Photoshop | SketchUp 
 
 # self Projects
-## open-source tools projects
+## Spatial Analyse using Open-source Tools 
 #### Google Earth Engine (GEE) 
+
+![LST](https://user-images.githubusercontent.com/104256716/176388471-13c63749-f8eb-4915-8bd1-fdeeeb36fc32.png)
+![NDVI](https://user-images.githubusercontent.com/104256716/176388635-6a30bb8e-c91f-45d3-9c1b-a7e8c31d2e53.png)
+
 #### Python 
 
 
 ![176381924-6818dc57-2997-4746-9522-5fc832b3831d](https://user-images.githubusercontent.com/104256716/176382083-f54f431e-3c75-4725-b7b1-50a1d8cdd458.png)
 
+![NDVI Distributionn](https://user-images.githubusercontent.com/104256716/176388306-6e3c475e-652a-4513-9a62-b47fbddfd69b.png)
+
+## Network Analyse using Open-source Tools 
+#### Python
+![Straightnessn](https://user-images.githubusercontent.com/104256716/176389262-f966f94c-6b88-427b-a978-8ca3b3299a63.png)
+![Closenessn](https://user-images.githubusercontent.com/104256716/176389458-251bece2-051e-4f2e-8ecd-7369699eb506.png)
+![edge](https://user-images.githubusercontent.com/104256716/176389728-714e7d7e-649b-4c74-b297-cec7ea989e6a.png)
 
 #### SQL 
 #### JOSM 
