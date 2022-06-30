@@ -104,6 +104,8 @@ Distrivbution of vegetated area in city can be calculate by black and white imag
 # Publication
 Kimia Chenari; S.Mohammad Reza Moussavi.A; Azadeh Lak. 2022. 'The Role of Urban Street Patterns to Mitigate Urban Heat Island: Using G.E.E., and Python libraries in Mashhad, Iran'. Journal of the Urban Planning and Development Division. (Under-review)
 # Hobbies
+#### I have lifeguard certificate from Iran lifesaving and diving federation. I play guitar and Keyboard in my free time. I enjoye learning new thing and be master in them :)
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
