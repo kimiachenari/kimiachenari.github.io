@@ -4,11 +4,11 @@
 
 ![photo_2022-06-30_11-29-46](https://user-images.githubusercontent.com/104256716/176730777-1b6b79d6-be63-4311-9d6a-7233bf3f1cd2.jpg)
 
-#### G-mail Address : kimia.chenari@gmail.com
+#### G-mail Address : kimia.chenaari@gmail.com
 #### Website : https://kimiachenari.github.io/
 #### Linkdin : Kimia Chenari
 
-### EDUCATION :
+### EDUCATION 
 #### B.Sc. in Urban Planning from Art Department, Bojnourd university, Bojnourd, Iran with GPA of 17.17 /20  or 3.6/4.
 #### Thesis Title: “The Role of Urban Street Patterns to Mitigate Urban Heat Island: Using G.E.E., and Python libraries in Mashhad, Iran“
 
@@ -17,13 +17,13 @@
 #### As an urban planner, my interests lie in urban sustainable development, particularly in :
 #### Urban Spatial Planning & analyzing | Urban Data Science | Developing GIS
 
-### Programming Skills :
+### Programming Skills 
 #### Python | SQL | JavaScript
 
-### Open-source tools :
+### Open-source tools 
 #### Google Earth Engine (GEE) | Spyder & Jupiter Notebook | JOSM | PostgreSQL
 
-### Software Skills :
+### Software Skills 
 #### ArcGIS | AutoCAD | Photoshop | SketchUp 
 
 # self Projects
@@ -33,16 +33,16 @@
 ##### The map shows the mean temperature of Mashhad city in Iran between the years 2013 to 2021 using Google Earth Engine (GEE) image collection of Landsat-8 top-of-the-atmosphere (TOA) with scale of 100 m.
 ![LST](https://user-images.githubusercontent.com/104256716/176388471-13c63749-f8eb-4915-8bd1-fdeeeb36fc32.png)
 
-##### The same range of the L.S.T. value was adopted for all chosen districts from 10℃ to 26℃. Table 1 represents the median temperature values of the boxplot. The lowest average temperature belonged to district 1, while 6 reflected almost the same temperature 
+##### The same range of the L.S.T. value was adopted for all chosen districts from 10℃ to 26℃. The lowest average temperature belonged to district 1 (b), while district 10 (d) reflected the highest average temperature. 
 
 
 ![NDVI](https://user-images.githubusercontent.com/104256716/176388635-6a30bb8e-c91f-45d3-9c1b-a7e8c31d2e53.png)
-##### The map represents NDVI and LST compration between four districts of Mashhad city in Iran. all N.D.V.I. values presented the same range from -0.5 to 0.7. Typically, built-up and bare soil areas indicated low N.D.V.I. values, while the vegetated area indicated moderate. According to Table 3, the most significant value of median N.D.V.I. belonged to districts 6 and 10, while districts 11 and 1 showed lower median N.D.V.I.
+##### All N.D.V.I. values presented the same range from -0.5 to 0.7. Typically, built-up and bare soil areas indicated low N.D.V.I. values, while the vegetated area indicated moderate. According to boxplot, the most significant value of median N.D.V.I. belonged to districts 6 (c) and 10 (d), while districts 11 (e) and 1 (b) showed lower median N.D.V.I.
 
-#### visualizing Temperature's Data using Altair Python library 
-#### Land Surface Temperature
+#### Visualizing Temperature's Data using Altair Python library 
+#### Land Surface Temperature (LST)
 ![lst2](https://user-images.githubusercontent.com/104256716/176609541-74284575-5554-4804-bb4b-9fbf8ba76659.png)
-##### The data was gathered and export from GEE then was visualized using Altair Python library. As we can see in chart, between 2020 and 2021 which was the Corona pandamic the maximum temperature was lower than years before.
+##### The data was gathered and export from GEE then was visualized using Altair Python library. As we can see, between 2020 and 2021 which was the Corona pandamic the maximum temperature was lower than years before.
 
 #### Air Temperature
 
