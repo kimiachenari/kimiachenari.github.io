@@ -1,6 +1,8 @@
 
-<img src="https://user-images.githubusercontent.com/104256716/173216840-98e57dd1-00e5-4b01-b6c9-47e1b78bc15f.jpg" width="150" height="150">
+<img src="https://user-images.githubusercontent.com/104256716/176730777-1b6b79d6-be63-4311-9d6a-7233bf3f1cd2.jpg" width="150" height="150">
 # About
+
+![photo_2022-06-30_11-29-46](https://user-images.githubusercontent.com/104256716/176730777-1b6b79d6-be63-4311-9d6a-7233bf3f1cd2.jpg)
 
 #### G-mail Address : kimia.chenari@gmail.com
 #### Website : https://kimiachenari.github.io/
