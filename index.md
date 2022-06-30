@@ -29,6 +29,14 @@
 #### Urban Heat Island using Google Earth Engine (GEE) 
 ![LST from 2013 to 2021 (Mashhad)](https://user-images.githubusercontent.com/104256716/173180442-6d1f4537-8b47-4a04-b46d-029930684e73.png)
 ##### The map shows the mean temperature of Mashhad city in Iran between the years 2013 to 2021 using Google Earth Engine (GEE) image collection of Landsat-8 top-of-the-atmosphere (TOA) with scale of 100 m.
+![LST](https://user-images.githubusercontent.com/104256716/176388471-13c63749-f8eb-4915-8bd1-fdeeeb36fc32.png)
+
+##### The same range of the L.S.T. value was adopted for all chosen districts from 10℃ to 26℃. Table 1 represents the median temperature values of the boxplot. The lowest average temperature belonged to district 1, while 6 reflected almost the same temperature 
+
+
+![NDVI](https://user-images.githubusercontent.com/104256716/176388635-6a30bb8e-c91f-45d3-9c1b-a7e8c31d2e53.png)
+##### The map represents NDVI and LST compration between four districts of Mashhad city in Iran. all N.D.V.I. values presented the same range from -0.5 to 0.7. Typically, built-up and bare soil areas indicated low N.D.V.I. values, while the vegetated area indicated moderate. According to Table 3, the most significant value of median N.D.V.I. belonged to districts 6 and 10, while districts 11 and 1 showed lower median N.D.V.I.
+
 #### visualizing Temperature's Data using Altair Python library 
 #### Land Surface Temperature
 ![lst2](https://user-images.githubusercontent.com/104256716/176609541-74284575-5554-4804-bb4b-9fbf8ba76659.png)
@@ -39,7 +47,6 @@
 ![vizc](https://user-images.githubusercontent.com/104256716/176497581-33b62462-2768-4fc5-bcb7-ada8630c4017.png)
 ##### The data was gathered from free air data source and was visualized using Altair Python library. For more informations please visit : https://www.meteoblue.com/ 
 
-![LST](https://user-images.githubusercontent.com/104256716/176388471-13c63749-f8eb-4915-8bd1-fdeeeb36fc32.png)
 
 #### Python 
 
@@ -53,8 +60,6 @@
 
 Distrivbution of vegetated area in city can be calculate by black and white image range. Acording to the map image with higher rage of black area has higher distribution in green areas. (c) and (d) represented the high and least vegetation distribution.
 
-![ndvi2c](https://user-images.githubusercontent.com/104256716/176497555-93bb6106-03e3-4bad-819d-d1f98ee98bb3.png)
-![NDVI](https://user-images.githubusercontent.com/104256716/176388635-6a30bb8e-c91f-45d3-9c1b-a7e8c31d2e53.png)
 
 
 ## Network Analyse using Open-source Tools 
