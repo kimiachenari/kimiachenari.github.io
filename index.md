@@ -47,8 +47,11 @@
 ![176381924-6818dc57-2997-4746-9522-5fc832b3831d](https://user-images.githubusercontent.com/104256716/176382083-f54f431e-3c75-4725-b7b1-50a1d8cdd458.png)
 
 ##### The shows how Corona viruse my spread in Iran. It began in Qum provice and then spread in the capital city of Iran, Tehran. The map Created using Geopandas and Matplotlib library. 
+
+#### NDVI Distribution
 ![NDVI Distributionn](https://user-images.githubusercontent.com/104256716/176388306-6e3c475e-652a-4513-9a62-b47fbddfd69b.png)
 
+Distrivbution of vegetated area in city can be calculate by black and white image range. Acording to the map image with higher rage of black area has higher distribution in green areas. (c) and (d) represented the high and least vegetation distribution.
 
 ![ndvi2c](https://user-images.githubusercontent.com/104256716/176497555-93bb6106-03e3-4bad-819d-d1f98ee98bb3.png)
 ![NDVI](https://user-images.githubusercontent.com/104256716/176388635-6a30bb8e-c91f-45d3-9c1b-a7e8c31d2e53.png)
