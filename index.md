@@ -49,18 +49,15 @@
 ![vizc](https://user-images.githubusercontent.com/104256716/176497581-33b62462-2768-4fc5-bcb7-ada8630c4017.png)
 ##### The data was gathered from free air data source and was visualized using Altair Python library. For more informations please visit : https://www.meteoblue.com/ 
 
+#### NDVI Distribution
+![NDVI Distributionn](https://user-images.githubusercontent.com/104256716/176388306-6e3c475e-652a-4513-9a62-b47fbddfd69b.png)
 
-#### Python 
+Distrivbution of vegetated area in city can be calculate by black and white image range. Acording to the map image with higher rage of black area has higher distribution in green areas. (c) and (d) represented the high and least vegetation distribution.
 
 #### Covid-19
 ![176381924-6818dc57-2997-4746-9522-5fc832b3831d](https://user-images.githubusercontent.com/104256716/176382083-f54f431e-3c75-4725-b7b1-50a1d8cdd458.png)
 
 ##### The shows how Corona viruse my spread in Iran. It began in Qum provice and then spread in the capital city of Iran, Tehran. The map Created using Geopandas and Matplotlib library. 
-
-#### NDVI Distribution
-![NDVI Distributionn](https://user-images.githubusercontent.com/104256716/176388306-6e3c475e-652a-4513-9a62-b47fbddfd69b.png)
-
-Distrivbution of vegetated area in city can be calculate by black and white image range. Acording to the map image with higher rage of black area has higher distribution in green areas. (c) and (d) represented the high and least vegetation distribution.
 
 
 
