@@ -110,37 +110,6 @@ Distrivbution of vegetated area in city can be calculate by black and white imag
 #### Kimia Chenari; S.Mohammad Reza Moussavi.A; Azadeh Lak. 2022. 'The Role of Urban Street Patterns to Mitigate Urban Heat Island: Using G.E.E., and Python libraries in Mashhad, Iran'. Journal of the Urban Planning and Development Division. (Under-review)
 
 # Hobbies
-#### I have [lifeguard certificate](https://drive.google.com/file/d/1-5OWfm4TUT4oiEl5B1yroG0FV7lg_3n2/view) from Iran lifesaving and diving federation. I play guitar and Keyboard in my free time. I enjoye learning new thing and be master in them :)
+#### I have [lifeguard certificate](https://drive.google.com/file/d/1-5OWfm4TUT4oiEl5B1yroG0FV7lg_3n2/view) from Iran lifesaving and diving federation. I play guitar and Keyboard in my free time. I am curious and enjoy learning new thing and be master in them :)
 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-![Image](https://github.com/kimiachenari/kimiachenari/blob/main/LST%20from%202013%20to%202021%20(Mashhad).png?raw=true)
-```
-
-
-
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kimiachenari/kimiachenari.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
