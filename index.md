@@ -43,9 +43,10 @@
 
 #### Python 
 
-
+#### Covid-19
 ![176381924-6818dc57-2997-4746-9522-5fc832b3831d](https://user-images.githubusercontent.com/104256716/176382083-f54f431e-3c75-4725-b7b1-50a1d8cdd458.png)
 
+##### The shows how Corona viruse my spread in Iran. It began in Qum provice and then spread in the capital city of Iran, Tehran. The map Created using Geopandas and Matplotlib library. 
 ![NDVI Distributionn](https://user-images.githubusercontent.com/104256716/176388306-6e3c475e-652a-4513-9a62-b47fbddfd69b.png)
 
 
