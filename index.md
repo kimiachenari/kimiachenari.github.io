@@ -19,7 +19,7 @@
 #### Python | SQL | JavaScript
 
 ### Open-source tools :
-#### Google Earth Engine (GEE) | Spyder & Jupiter Notebook | JOSM 
+#### Google Earth Engine (GEE) | Spyder & Jupiter Notebook | JOSM | PostgreSQL
 
 ### Software Skills :
 #### ArcGIS | AutoCAD | Photoshop | SketchUp 
