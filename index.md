@@ -83,20 +83,22 @@ Distrivbution of vegetated area in city can be calculate by black and white imag
 #### JOSM
 
 ## Spatial Analyse using Software 
-#### Arcgis
+#### Site Analysis using ArcGIS and SketchUp softwares
 
 ![site analysis3](https://user-images.githubusercontent.com/104256716/176394727-40da3f75-2e0e-40f8-880e-8444600e3e0e.png)
+#### Site Analysis using ArcGIS
 ![site selection](https://user-images.githubusercontent.com/104256716/176395207-ee15e693-2114-455d-bf5e-cd76e056c4bb.png)
 
 ## Designe
 
-#### AutoCAD & SketchUp 
+#### House designe using AutoCAD  
+![house des](https://user-images.githubusercontent.com/104256716/176484529-0a874034-e43f-4b83-a1e7-2ce1eee650a0.png)
 
+#### Neibourhood design and analyse using SketchUp
 ![des](https://user-images.githubusercontent.com/104256716/176472099-40927fa8-0262-498e-aa45-84f47f9e7bd7.png)
 
 ![des2](https://user-images.githubusercontent.com/104256716/176472597-aa74f062-3948-4b92-a83b-36dc4dc65d61.png)
 
-![house des](https://user-images.githubusercontent.com/104256716/176484529-0a874034-e43f-4b83-a1e7-2ce1eee650a0.png)
 
 
 # Publication
