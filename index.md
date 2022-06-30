@@ -48,7 +48,7 @@
 ##### The data was gathered from free air data source and was visualized using Altair Python library. For more informations please visit : https://www.meteoblue.com/ 
 
 #### NDVI Distribution
-![NDVI Distributionn](https://user-images.githubusercontent.com/104256716/176388306-6e3c475e-652a-4513-9a62-b47fbddfd69b.png)
+![ndvi dis2](https://user-images.githubusercontent.com/104256716/176740202-0e4ab348-8a85-488e-b115-3c2ab1257c41.png)
 
 Distrivbution of vegetated area in city can be calculate by black and white image range. Acording to the map image with higher rage of black area has higher distribution in green areas. (c) and (d) represented the high and least vegetation distribution.
 
