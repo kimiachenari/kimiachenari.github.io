@@ -29,10 +29,10 @@
 #### Google Earth Engine (GEE) 
 ![LST from 2013 to 2021 (Mashhad)](https://user-images.githubusercontent.com/104256716/173180442-6d1f4537-8b47-4a04-b46d-029930684e73.png)
 ![lst](https://user-images.githubusercontent.com/104256716/176497543-33b3dafa-fea5-41a9-bfff-16dcdc6697bd.png)
-![LST](https://user-images.githubusercontent.com/104256716/176388471-13c63749-f8eb-4915-8bd1-fdeeeb36fc32.png)
 ##### The map shows the mean temperature of Mashhad city in Iran between the years 2013 to 2021 using Google Earth Engine (GEE) with scale of 100 m. The data was gathered and export from GEE then was visualized using Altair Python library. As we can see in chart, between 2020 and 2021 which was the Corona pandamic the maximum temperature was lower than years before.
 
 ![NDVI](https://user-images.githubusercontent.com/104256716/176388635-6a30bb8e-c91f-45d3-9c1b-a7e8c31d2e53.png)
+![LST](https://user-images.githubusercontent.com/104256716/176388471-13c63749-f8eb-4915-8bd1-fdeeeb36fc32.png)
 
 #### Python 
 
