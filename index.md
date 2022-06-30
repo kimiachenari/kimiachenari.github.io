@@ -65,8 +65,13 @@ Distrivbution of vegetated area in city can be calculate by black and white imag
 ## Network Analyse using Open-source Tools 
 #### Python
 ![Straightnessn](https://user-images.githubusercontent.com/104256716/176389262-f966f94c-6b88-427b-a978-8ca3b3299a63.png)
+#### (b) and (e) had grid structures, but (e) was reflected a lower temperature because (b) represented a more balance in the bell curve than (e), which emphasized that (b) had a moderate-grid type while (e) had a pure-grid form. (c) skewed to the right, while (d) skewed to the left, but both included a  low curve. Therefore, grid patterns with more straight streets reflected a lower temperature than the tree and organic urban patterns.
+
 ![Closenessn](https://user-images.githubusercontent.com/104256716/176389458-251bece2-051e-4f2e-8ecd-7369699eb506.png)
+#### The brighter color represented the higher closeness value. The highest curve of district d among all chosen districts resulted from a comparison between the four districts in terms of local closeness_centrality frequencies. (b) provided an almost normal curve which presented a symmetrical distribution. (c) and (e) had nearly identical skew distributions. 
+
 ![edge](https://user-images.githubusercontent.com/104256716/176389728-714e7d7e-649b-4c74-b297-cec7ea989e6a.png)
+#### Street Edge Bearing was calculated to classify urban patterns reasonably in this study. The chart represents how every district of Mashhad's street orientations were scattered in different directions
 #### pacesyntax
 
 ![depth map3](https://user-images.githubusercontent.com/104256716/176394698-3a0a8fa2-544c-4b31-8897-33807922dbf9.png)
