@@ -2,8 +2,6 @@
 <img src="https://user-images.githubusercontent.com/104256716/176730777-1b6b79d6-be63-4311-9d6a-7233bf3f1cd2.jpg" width="150" height="150">
 # About
 
-![photo_2022-06-30_11-29-46](https://user-images.githubusercontent.com/104256716/176730777-1b6b79d6-be63-4311-9d6a-7233bf3f1cd2.jpg)
-
 #### G-mail Address : kimia.chenaari@gmail.com
 #### Website : https://kimiachenari.github.io/
 #### Linkdin : Kimia Chenari
@@ -57,24 +55,29 @@ Distrivbution of vegetated area in city can be calculate by black and white imag
 #### Covid-19
 ![176381924-6818dc57-2997-4746-9522-5fc832b3831d](https://user-images.githubusercontent.com/104256716/176382083-f54f431e-3c75-4725-b7b1-50a1d8cdd458.png)
 
-##### The shows how Corona viruse my spread in Iran. It began in Qum provice and then spread in the capital city of Iran, Tehran. The map Created using Geopandas and Matplotlib library. 
+##### The map shows how Corona virus my spread in Iran. It began in Qum provice and then spread in the capital city of Iran, Tehran. The map Created using Geopandas and Matplotlib libraries. 
 
 
 
 ## Network Analyse using Open-source Tools 
-#### Python
-![Straightnessn](https://user-images.githubusercontent.com/104256716/176389262-f966f94c-6b88-427b-a978-8ca3b3299a63.png)
-#### (b) and (e) had grid structures, but (e) was reflected a lower temperature because (b) represented a more balance in the bell curve than (e), which emphasized that (b) had a moderate-grid type while (e) had a pure-grid form. (c) skewed to the right, while (d) skewed to the left, but both included a  low curve. Therefore, grid patterns with more straight streets reflected a lower temperature than the tree and organic urban patterns.
 
+#### Network Closeness
 ![Closenessn](https://user-images.githubusercontent.com/104256716/176389458-251bece2-051e-4f2e-8ecd-7369699eb506.png)
-#### The brighter color represented the higher closeness value. The highest curve of district d among all chosen districts resulted from a comparison between the four districts in terms of local closeness_centrality frequencies. (b) provided an almost normal curve which presented a symmetrical distribution. (c) and (e) had nearly identical skew distributions. 
+#### The brighter color represented the higher closeness value. The highest curve of (d) among all chosen districts resulted from a comparison between the four districts in terms of local closeness_centrality frequencies. (b) provided an almost normal curve which presented a symmetrical distribution. (c) and (e) had nearly identical skew distributions. 
+
+#### Network Straightness
+![Straightnessn](https://user-images.githubusercontent.com/104256716/176389262-f966f94c-6b88-427b-a978-8ca3b3299a63.png)
+#### (b) represented a more balance in the bell curve than (e), which emphasized that (b) had a moderate-grid type while (e) had a pure-grid form. (c) skewed to the right, while (d) skewed to the left, but both included a  low curve. 
+
+#### Network Edge Bearing
 
 ![edge](https://user-images.githubusercontent.com/104256716/176389728-714e7d7e-649b-4c74-b297-cec7ea989e6a.png)
-#### Street Edge Bearing was calculated to classify urban patterns reasonably in this study. The chart represents how every district of Mashhad's street orientations were scattered in different directions
-#### pacesyntax
+#### Street Edge Bearing was calculated to classify urban patterns. The chart represents how every district of Mashhad's street orientations were scattered in different directions
+
+#### Network indexes
 
 ![depth map3](https://user-images.githubusercontent.com/104256716/176394698-3a0a8fa2-544c-4b31-8897-33807922dbf9.png)
-#### The figure shows different charts and graphs and also different maps which all connect to the spatial analysis.
+#### The figure shows network analyse indexes using SpaceSyntax.
 
 
 
