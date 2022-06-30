@@ -75,6 +75,7 @@ Distrivbution of vegetated area in city can be calculate by black and white imag
 #### pacesyntax
 
 ![depth map3](https://user-images.githubusercontent.com/104256716/176394698-3a0a8fa2-544c-4b31-8897-33807922dbf9.png)
+#### The figure shows different charts and graphs and also different maps which all connect to the spatial analysis.
 
 
 
