@@ -81,9 +81,6 @@ Distrivbution of vegetated area in city can be calculate by black and white imag
 
 
 
-#### SQL 
-#### JOSM
-
 ## Spatial Analyse using Software 
 #### Site Analysis
 
