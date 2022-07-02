@@ -1,5 +1,4 @@
 
-<img src="https://user-images.githubusercontent.com/104256716/176730777-1b6b79d6-be63-4311-9d6a-7233bf3f1cd2.jpg" width="150" height="150">
 # About
 
 #### G-mail Address : kimia.chenaari@gmail.com
