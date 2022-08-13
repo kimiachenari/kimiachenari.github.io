@@ -102,6 +102,9 @@ Distrivbution of vegetated area in city can be calculate by black and white imag
 #### The figure represents neibourhood design with analysing the urban indexes using SketchUp and AutoCAD softwares.
 
 
+#### Cartography of Jangal city
+![image2](https://user-images.githubusercontent.com/104256716/184503586-3a16427d-8745-47c5-b535-fa405b52b038.png)
+
 # Publication
 #### Kimia Chenari; S.Mohammad Reza Moussavi.A; Azadeh Lak. 2022. 'The Role of Urban Street Patterns to Mitigate Urban Heat Island: Using G.E.E., and Python libraries in Mashhad, Iran'. Journal of the Urban Planning and Development Division. (Under-review)
 
