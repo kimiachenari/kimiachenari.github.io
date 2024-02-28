@@ -1,13 +1,13 @@
 
 # About
 
-#### G-mail Address : kimia.chenaari@gmail.com
+#### G-mail Address : kimia.chenary@yahoo.com
 #### Website : https://kimiachenari.github.io/
-#### Linkdin : Kimia Chenari
+#### Linkdin : Kimia Chenary
 
 ### EDUCATION 
-#### B.Sc. in Urban Planning from Art Department, Bojnourd university, Bojnourd, Iran with GPA of 17.17 /20  or 3.6/4.
-#### Thesis Title: “The Role of Urban Street Patterns to Mitigate Urban Heat Island: Using G.E.E., and Python libraries in Mashhad, Iran“
+#### B.Sc. in Urban Planning from Art Department, Bojnourd university, Bojnourd, Iran with GPA of 17.17 /20  or 3.55/4.
+#### Thesis Title: “Street network patterns for mitigating urban heat islands in arid climates“
 
 
 
@@ -15,7 +15,7 @@
 #### Urban Spatial Planning & analyzing | Urban Data Science | Developing GIS
 
 ### Programming Skills 
-#### Python | SQL | JavaScript
+#### Python | R  |  SQL | JavaScript
 
 ### Open-source tools 
 #### Google Earth Engine (GEE) | Spyder & Jupiter Notebook | JOSM | PostgreSQL
@@ -106,7 +106,10 @@ Distrivbution of vegetated area in city can be calculate by black and white imag
 ![image2](https://user-images.githubusercontent.com/104256716/184503586-3a16427d-8745-47c5-b535-fa405b52b038.png)
 
 # Publication
-#### Kimia Chenari; S.Mohammad Reza Moussavi.A; Azadeh Lak. 2022. 'The Role of Urban Street Patterns to Mitigate Urban Heat Island: Using G.E.E., and Python libraries in Mashhad, Iran'. Journal of the Urban Planning and Development Division. (Under-review)
+#### 1.	Kimia Chenary, Ali Soltani & Ayyoob Sharifi (2023) Street network patterns for mitigating urban heat islands in arid climates, International Journal of Digital Earth, 16:1, 3145-3161, DOI: 10.1080/17538947.2023.2243901.
+####2.	Kimia Chenary, MohamadHamed Abdi (2024)  Cities, Arid Climate and Cooling; Indigenous Persian Urban Design Responds, Springer Nature, Persian vernacular architecture boockchapter. (Initial acceptation).
+####3.  Kimia Chenary, Omid Pirian Kalat & Ayyoob Sharifi (2024)  Forecast the global SDG scores by 2030 using machine learning models with AI-influenced predictors,  Sustainable Development.(Under review)
+
 
 # Hobbies
 #### I have [lifeguard certificate](https://drive.google.com/file/d/1-5OWfm4TUT4oiEl5B1yroG0FV7lg_3n2/view) from Iran lifesaving and diving federation. I play guitar and Keyboard in my free time. I am curious and enjoy learning new thing and be master in them :)
