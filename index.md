@@ -1,9 +1,9 @@
 
 # About
 
-#### G-mail Address : kimia.chenary@yahoo.com
+#### Mail Address : kimia.chenary@yahoo.com
 #### Website : https://kimiachenari.github.io/
-#### Linkdin : Kimia Chenary
+#### LinkedIn : Kimia Chenary
 
 ### EDUCATION 
 #### B.Sc. in Urban Planning from Art Department, Bojnourd university, Bojnourd, Iran with GPA of 17.17 /20  or 3.55/4.
