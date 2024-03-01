@@ -107,8 +107,8 @@ Distrivbution of vegetated area in city can be calculate by black and white imag
 
 # Publication
 #### 1.	Kimia Chenary, Ali Soltani & Ayyoob Sharifi (2023) Street network patterns for mitigating urban heat islands in arid climates, International Journal of Digital Earth, 16:1, 3145-3161, DOI: 10.1080/17538947.2023.2243901.
-####2.	Kimia Chenary, MohamadHamed Abdi (2024)  Cities, Arid Climate and Cooling; Indigenous Persian Urban Design Responds, Springer Nature, Persian vernacular architecture boockchapter. (Initial acceptation).
-####3.  Kimia Chenary, Omid Pirian Kalat & Ayyoob Sharifi (2024)  Forecast the global SDG scores by 2030 using machine learning models with AI-influenced predictors,  Sustainable Development.(Under review)
+#### 2.	Kimia Chenary, MohamadHamed Abdi (2024)  Cities, Arid Climate and Cooling; Indigenous Persian Urban Design Responds, Springer Nature, Persian vernacular architecture boockchapter. (Initial acceptation).
+#### 3.  Kimia Chenary, Omid Pirian Kalat & Ayyoob Sharifi (2024)  Forecast the global SDG scores by 2030 using machine learning models with AI-influenced predictors,  Sustainable Development.(Under review)
 
 
 # Hobbies
