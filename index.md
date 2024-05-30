@@ -106,12 +106,13 @@ Distrivbution of vegetated area in city can be calculate by black and white imag
 ![image2](https://user-images.githubusercontent.com/104256716/184503586-3a16427d-8745-47c5-b535-fa405b52b038.png)
 
 # Publication
-#### 1.	Kimia Chenary, Ali Soltani & Ayyoob Sharifi (2023) Street network patterns for mitigating urban heat islands in arid climates, International Journal of Digital Earth, 16:1, 3145-3161, DOI: 10.1080/17538947.2023.2243901.
-#### 2.	Kimia Chenary, MohamadHamed Abdi (2024)  Cities, Arid Climate and Cooling; Indigenous Persian Urban Design Responds, Springer Nature, Persian vernacular architecture boockchapter. (Initial acceptation).
-#### 3.  Kimia Chenary, Omid Pirian Kalat & Ayyoob Sharifi (2024)  Forecast the global SDG scores by 2030 using machine learning models with AI-influenced predictors,  Sustainable Development.(Under review)
+#### 1.	Chenary, K., Pirian Kalat, O., & Sharifi, A. (2024). Forecasting sustainable development goals scores by 2030 using machine learning models. Sustainable Development, 1–19. https://doi.org/10.1002/sd.3037
+#### 2.	Chenary, K., Soltani, A., & Sharifi, A. (2023). Street network patterns for mitigating urban heat islands in arid climates. International Journal of Digital Earth, 16(1), 3145–3161. https://doi.org/10.1080/17538947.2023.2243901
+#### 3.  Chenary, K., Abdi, M. (2024). Cities, Arid Climate and Cooling; Indigenous Persian Urban Design Responds, Springer Nature, Persian vernacular architecture (Initial acceptance.)
+#### 4. Pirian Kalat, O., Chenary, K., Ghaffarianhoseini, A. (2024). The impact of key SDG indicators on sustainability scores, The International Conference of Smart and Sustainable Built Environment (Initial acceptance.)
 
 
 # Hobbies
-#### I have [lifeguard certificate](https://drive.google.com/file/d/1-5OWfm4TUT4oiEl5B1yroG0FV7lg_3n2/view) from Iran lifesaving and diving federation. I play guitar and Keyboard in my free time. I am curious and enjoy learning new thing and be master in them :)
+#### I have [lifeguard certificate](https://drive.google.com/file/d/1-5OWfm4TUT4oiEl5B1yroG0FV7lg_3n2/view) from Iran lifesaving and diving federation. I play guitar in my free time. I am curious and enjoy learning new thing and be master in them :)
 
 
