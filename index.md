@@ -4,21 +4,21 @@
 ##### Mail Address : kimia.chenary@yahoo.com | Website : https://kimiachenari.github.io/ | LinkedIn : Kimia Chenary
 
 ### EDUCATION 
-#### Bachelor degree in urban planning from Art Department, Bojnourd university, Bojnourd, Iran with GPA of 17.17 /20  or 3.55/4.
-#### Thesis Title: “Street network patterns for mitigating urban heat islands in arid climates“
-#### Master degree in urban planning from Art Department, Bojnourd university, Bojnourd, Iran with GPA of 17.37/20 or 3.6/4
-#### Thesis Title: “prediction of urban and population growth using deep learning in Mashhad city“ 
-#### As an urban planner, my interests lie in urban sustainable development, particularly in :
-#### Urban Spatial Planning & analyzing | Urban Data Science | Developing GIS
+##### Bachelor degree in urban planning from Art Department, Bojnourd university, Bojnourd, Iran with GPA of 17.17 /20  or 3.55/4.
+##### Thesis Title: “Street network patterns for mitigating urban heat islands in arid climates“
+##### Master degree in urban planning from Art Department, Bojnourd university, Bojnourd, Iran with GPA of 17.37/20 or 3.6/4
+##### Thesis Title: “prediction of urban and population growth using deep learning in Mashhad city“ 
+##### As an urban planner, my interests lie in urban sustainable development, particularly in :
+##### Urban Spatial Planning & analyzing | Urban Data Science | Developing GIS
 
 ### Programming Skills 
 #### Python | R  |  SQL | JavaScript
 
 ### Open-source tools 
-#### Google Earth Engine (GEE) | Spyder & Jupiter Notebook | JOSM | PostgreSQL
+#### Google Earth Engine (GEE) | Spyder & Jupiter Notebook | AnyLogic |JOSM | PostgreSQL
 
 ### Software Skills 
-#### ArcGIS | AutoCAD | Photoshop | SketchUp 
+#### ArcGIS | QGIS | Space Syntax| AutoCAD | Photoshop 
 
 # self Projects
 ## Climate change visualizations using Open-source Tools 
@@ -43,7 +43,7 @@
 ![LST, NDVI, and Housing Price Distributions across 22 Tehran Districts](https://github.com/kimiachenari/images/blob/main/Untitled-1.jpg)
 
 
-## Network Analyse using Open-source Tools 
+## Network Analyse using Python
 
 #### Network Closeness using Momepy Python library
 ![Closenessn](https://user-images.githubusercontent.com/104256716/176389458-251bece2-051e-4f2e-8ecd-7369699eb506.png)
@@ -60,13 +60,13 @@
 ![depth map3](https://user-images.githubusercontent.com/104256716/176394698-3a0a8fa2-544c-4b31-8897-33807922dbf9.png)
 #### The figure shows network analyse indexes using SpaceSyntax in Sareban neighborhood of Bojnourd city of Iran.
 
-## spatial analyse using Image processing (OpenCV Python library) 
-#### NDVI Distribution
+## spatial analyse using Image processing 
+#### NDVI Distribution (OpenCV Python library)
 ![ndvi dis2](https://user-images.githubusercontent.com/104256716/176740202-0e4ab348-8a85-488e-b115-3c2ab1257c41.png)
 
 Distrivbution of vegetated area in city can be calculate by black and white image range. Acording to the map image with higher rage of black area has higher distribution in green areas. (c) and (d) represented the high and least vegetation distribution.
 
-#### Shade distribution 
+#### Shade distribution (OpenCV Python library)
 
 ![final3](https://github.com/kimiachenari/kimiachenari.github.io/assets/104256716/750f74d9-428b-4716-a044-84c02527f4cf)
 
