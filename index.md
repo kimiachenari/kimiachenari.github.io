@@ -21,13 +21,8 @@
 ### Software Skills 
 #### ArcGIS | AutoCAD | Photoshop | SketchUp 
 
-
-![Sustainable development rankings of Iran and its neighboring countries](https://github.com/kimiachenari/images/blob/main/2.jpg)
-![LST, NDVI, and Housing Price Distributions across 22 Tehran Districts](https://github.com/kimiachenari/images/blob/main/Untitled-1.jpg)
-
-![final3](https://github.com/kimiachenari/images/blob/main/final3.jpg)
 # self Projects
-## Spatial Analyse using Open-source Tools 
+## Climate change visualizations using Open-source Tools 
 #### Urban Heat Island using Google Earth Engine (GEE) 
 ![LST from 2013 to 2021 (Mashhad)](https://user-images.githubusercontent.com/104256716/173180442-6d1f4537-8b47-4a04-b46d-029930684e73.png)
 ##### The map shows the mean temperature of Mashhad city in Iran between the years 2013 to 2021 using Google Earth Engine (GEE) image collection of Landsat-8 top-of-the-atmosphere (TOA) with scale of 100 m.
@@ -45,10 +40,19 @@
 ![vizc](https://user-images.githubusercontent.com/104256716/176497581-33b62462-2768-4fc5-bcb7-ada8630c4017.png)
 ##### The data was gathered from free air data source and was visualized using Altair Python library. For more informations please visit : https://www.meteoblue.com/ 
 
+#### LST, NDVI, and Housing Price Distributions across 22 Tehran Districts
+![LST, NDVI, and Housing Price Distributions across 22 Tehran Districts](https://github.com/kimiachenari/images/blob/main/Untitled-1.jpg)
+
+## Image processing using OpenCV Python library 
 #### NDVI Distribution
 ![ndvi dis2](https://user-images.githubusercontent.com/104256716/176740202-0e4ab348-8a85-488e-b115-3c2ab1257c41.png)
 
 Distrivbution of vegetated area in city can be calculate by black and white image range. Acording to the map image with higher rage of black area has higher distribution in green areas. (c) and (d) represented the high and least vegetation distribution.
+
+#### Shade distribution 
+
+![final3](https://github.com/kimiachenari/kimiachenari.github.io/assets/104256716/750f74d9-428b-4716-a044-84c02527f4cf)
+
 
 #### Covid-19
 ![176381924-6818dc57-2997-4746-9522-5fc832b3831d](https://user-images.githubusercontent.com/104256716/176382083-f54f431e-3c75-4725-b7b1-50a1d8cdd458.png)
@@ -59,12 +63,12 @@ Distrivbution of vegetated area in city can be calculate by black and white imag
 
 ## Network Analyse using Open-source Tools 
 
-#### Network Closeness
+#### Network Closeness using Momepy Python library
 ![Closenessn](https://user-images.githubusercontent.com/104256716/176389458-251bece2-051e-4f2e-8ecd-7369699eb506.png)
 #### The brighter color represented the higher closeness value. The highest curve of (d) among all chosen districts resulted from a comparison between the four districts in terms of local closeness_centrality frequencies. (b) provided an almost normal curve which presented a symmetrical distribution. (c) and (e) had nearly identical skew distributions. 
 
 
-#### Network Edge Bearing
+#### Network Edge Bearing using OSMnx Python library
 
 ![edge](https://user-images.githubusercontent.com/104256716/176389728-714e7d7e-649b-4c74-b297-cec7ea989e6a.png)
 #### Street Edge Bearing was calculated to classify urban patterns. The chart represents how every district of Mashhad's street orientations were scattered in different directions
