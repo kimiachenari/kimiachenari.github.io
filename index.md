@@ -58,9 +58,10 @@
 #### This figure depicts network indices calculated using SpaceSyntax for the Sareban neighborhood in Bojnourd city, Iran.
 
 
-https://github.com/kimiachenari/kimiachenari.github.io/assets/104256716/7d12f9f1-8777-4f69-b1db-b4ad679ac381
 
 
+
+![hey](https://github.com/kimiachenari/kimiachenari.github.io/assets/104256716/9d6d47e7-18ab-430e-b6e5-16c7d9023a17)
 
 
 ## spatial analyse using Image processing 
