@@ -3,7 +3,7 @@
 
 # About
 
-#### Mail Address : kimia.chenary@yahoo.com #### Website : https://kimiachenari.github.io/ #### LinkedIn : Kimia Chenary
+##### Mail Address : kimia.chenary@yahoo.com | Website : https://kimiachenari.github.io/ | LinkedIn : Kimia Chenary
 
 ### EDUCATION 
 #### B.Sc. in Urban Planning from Art Department, Bojnourd university, Bojnourd, Iran with GPA of 17.17 /20  or 3.55/4.
@@ -22,6 +22,11 @@
 
 ### Software Skills 
 #### ArcGIS | AutoCAD | Photoshop | SketchUp 
+
+
+![Sustainable development rankings of Iran and its neighboring countries](https://github.com/kimiachenari/images/blob/main/2.jpg)
+![LST, NDVI, and Housing Price Distributions across 22 Tehran Districts](https://github.com/kimiachenari/images/blob/main/Untitled-1.jpg)
+
 
 # self Projects
 ## Spatial Analyse using Open-source Tools 
