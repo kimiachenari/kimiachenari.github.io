@@ -61,7 +61,7 @@
 
 ![Screenshot 2024-07-02 090042](https://github.com/kimiachenari/kimiachenari.github.io/assets/104256716/5bdb818e-9ab2-4be9-914b-0684982767c0)
 
-During my undergraduate studies, I created a basic model of traffic lights' cotrol, operating traffic flow in sigle street using AnyLogic: https://drive.google.com/file/d/1AB_y-NpQ4RkZrg37bEdhMbL1L51FP2vX/view?usp=sharing
+During my undergraduate studies, I created a basic model of traffic lights' cotrol and operating traffic flow in a street using AnyLogic: https://drive.google.com/file/d/1AB_y-NpQ4RkZrg37bEdhMbL1L51FP2vX/view?usp=sharing
 
 ## spatial analyse using Image processing 
 #### NDVI Distribution (OpenCV Python library)
