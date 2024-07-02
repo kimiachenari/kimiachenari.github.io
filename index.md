@@ -18,8 +18,8 @@
 ### Software Skills 
 #### ArcGIS | QGIS | Space Syntax| AutoCAD | Photoshop 
 
-# self Projects
-## Climate change visualizations using Open-source Tools 
+# Projects
+## Climate change visualizations using Google Earth Engine (GEE) and Python
 #### Urban Heat Island using Google Earth Engine (GEE) 
 ![LST from 2013 to 2021 (Mashhad)](https://user-images.githubusercontent.com/104256716/173180442-6d1f4537-8b47-4a04-b46d-029930684e73.png)
 ##### The map depicts the mean land surface temperature (LST) of Mashhad city, Iran, from 2013 to 2021. The data source is a Landsat-8 TOA (Top-of-Atmosphere) image collection processed using Google Earth Engine (GEE) at a 100-meter scale.
@@ -58,10 +58,6 @@
 #### This figure depicts network indices calculated using SpaceSyntax for the Sareban neighborhood in Bojnourd city, Iran.
 
 
-
-
-
-![hey](https://github.com/kimiachenari/kimiachenari.github.io/assets/104256716/9d6d47e7-18ab-430e-b6e5-16c7d9023a17.mp4)
 
 
 ## spatial analyse using Image processing 
