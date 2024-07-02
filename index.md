@@ -1,8 +1,6 @@
 # Kimia Chenary 
 # Spatial analyzer. Data Scientist. Researcher
 
-# About
-
 ##### Mail Address : kimia.chenary@yahoo.com | Website : https://kimiachenari.github.io/ | LinkedIn : Kimia Chenary
 
 ### EDUCATION 
@@ -27,7 +25,7 @@
 ![Sustainable development rankings of Iran and its neighboring countries](https://github.com/kimiachenari/images/blob/main/2.jpg)
 ![LST, NDVI, and Housing Price Distributions across 22 Tehran Districts](https://github.com/kimiachenari/images/blob/main/Untitled-1.jpg)
 
-
+![](https://github.com/kimiachenari/chenariproject.github.io/blob/main/final3.jpg)
 # self Projects
 ## Spatial Analyse using Open-source Tools 
 #### Urban Heat Island using Google Earth Engine (GEE) 
