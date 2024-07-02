@@ -91,9 +91,14 @@ The distribution of shade and bright colors in Yazd's vernacular architecture is
 ![house des](https://user-images.githubusercontent.com/104256716/176484529-0a874034-e43f-4b83-a1e7-2ce1eee650a0.png)
 #### The figure represents house Design using AutoCAD software.  
 
-
+## Work expreineces
 #### Cartography of Jangal city
 ![image2](https://user-images.githubusercontent.com/104256716/184503586-3a16427d-8745-47c5-b535-fa405b52b038.png)
+
+#### Online teaching
+![processed-171ddb2e-a8d3-45b6-b924-fe350839cb18_JtI08CSQ](https://github.com/kimiachenari/kimiachenari.github.io/assets/104256716/05308413-031a-4769-9d2f-f0a4e5ccc927)
+
+I have an online teaching session. You can find the details here: https://girs.ir/author/kimiachenary/
 
 # Publication
 #### 1.	Chenary, K., Pirian Kalat, O., & Sharifi, A. (2024). Forecasting sustainable development goals scores by 2030 using machine learning models. Sustainable Development, 1–19. https://doi.org/10.1002/sd.3037
@@ -103,6 +108,6 @@ The distribution of shade and bright colors in Yazd's vernacular architecture is
 #### 4. Soltani, A., Chenary, K., & Mirzaei, R. (2024).  Vulnerability of Housing Prices to Climate Change in Tehran.  Journal of urban management (under review.)
 
 # Hobbies
-#### I have ![naji](https://github.com/kimiachenari/kimiachenari.github.io/assets/104256716/0c67a0dd-afd1-4ace-98dc-772248895359) from Iran lifesaving and diving federation. I play guitar in my free time. I am curious and enjoy learning new thing and be master in them :)
-
+#### I have from Iran lifesaving and diving federation. I play guitar in my free time. I am curious and enjoy learning new thing and be master in them :)
+![naji](https://github.com/kimiachenari/kimiachenari.github.io/assets/104256716/0c67a0dd-afd1-4ace-98dc-772248895359) 
 
