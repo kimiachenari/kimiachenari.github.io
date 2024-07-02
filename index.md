@@ -28,10 +28,6 @@
 #### Urban Heat Island using Google Earth Engine (GEE) 
 ![LST from 2013 to 2021 (Mashhad)](https://user-images.githubusercontent.com/104256716/173180442-6d1f4537-8b47-4a04-b46d-029930684e73.png)
 ##### The map shows the mean temperature of Mashhad city in Iran between the years 2013 to 2021 using Google Earth Engine (GEE) image collection of Landsat-8 top-of-the-atmosphere (TOA) with scale of 100 m.
-![LST](https://user-images.githubusercontent.com/104256716/176388471-13c63749-f8eb-4915-8bd1-fdeeeb36fc32.png)
-
-##### The same range of the L.S.T. value was adopted for all chosen districts from 10℃ to 26℃. The lowest average temperature belonged to district 1 (b), while district 10 (d) reflected the highest average temperature. 
-
 
 ![NDVI](https://user-images.githubusercontent.com/104256716/176388635-6a30bb8e-c91f-45d3-9c1b-a7e8c31d2e53.png)
 ##### All N.D.V.I. values presented the same range from -0.5 to 0.7. Typically, built-up and bare soil areas indicated low N.D.V.I. values, while the vegetated area indicated moderate. According to boxplot, the most significant value of median N.D.V.I. belonged to districts 6 (c) and 10 (d), while districts 11 (e) and 1 (b) showed lower median N.D.V.I.
@@ -64,9 +60,6 @@ Distrivbution of vegetated area in city can be calculate by black and white imag
 ![Closenessn](https://user-images.githubusercontent.com/104256716/176389458-251bece2-051e-4f2e-8ecd-7369699eb506.png)
 #### The brighter color represented the higher closeness value. The highest curve of (d) among all chosen districts resulted from a comparison between the four districts in terms of local closeness_centrality frequencies. (b) provided an almost normal curve which presented a symmetrical distribution. (c) and (e) had nearly identical skew distributions. 
 
-#### Network Straightness
-![Straightnessn](https://user-images.githubusercontent.com/104256716/176389262-f966f94c-6b88-427b-a978-8ca3b3299a63.png)
-#### (b) represented a more balance in the bell curve than (e), which emphasized that (b) had a moderate-grid type while (e) had a pure-grid form. (c) skewed to the right, while (d) skewed to the left, but both included a  low curve. 
 
 #### Network Edge Bearing
 
@@ -94,13 +87,6 @@ Distrivbution of vegetated area in city can be calculate by black and white imag
 ![house des](https://user-images.githubusercontent.com/104256716/176484529-0a874034-e43f-4b83-a1e7-2ce1eee650a0.png)
 #### The figure represents house Design using AutoCAD software.  
 
-#### Neibourhood Design
-![des](https://user-images.githubusercontent.com/104256716/176472099-40927fa8-0262-498e-aa45-84f47f9e7bd7.png)
-
-![des2](https://user-images.githubusercontent.com/104256716/176472597-aa74f062-3948-4b92-a83b-36dc4dc65d61.png)
-
-#### The figure represents neibourhood design with analysing the urban indexes using SketchUp and AutoCAD softwares.
-
 
 #### Cartography of Jangal city
 ![image2](https://user-images.githubusercontent.com/104256716/184503586-3a16427d-8745-47c5-b535-fa405b52b038.png)
@@ -108,9 +94,9 @@ Distrivbution of vegetated area in city can be calculate by black and white imag
 # Publication
 #### 1.	Chenary, K., Pirian Kalat, O., & Sharifi, A. (2024). Forecasting sustainable development goals scores by 2030 using machine learning models. Sustainable Development, 1–19. https://doi.org/10.1002/sd.3037
 #### 2.	Chenary, K., Soltani, A., & Sharifi, A. (2023). Street network patterns for mitigating urban heat islands in arid climates. International Journal of Digital Earth, 16(1), 3145–3161. https://doi.org/10.1080/17538947.2023.2243901
-#### 3.  Chenary, K., Abdi, M. (2024). Cities, Arid Climate and Cooling; Indigenous Persian Urban Design Responds, Springer Nature, Persian vernacular architecture (Initial acceptance.)
-#### 4. Pirian Kalat, O., Chenary, K., Ghaffarianhoseini, A. (2024). The impact of key SDG indicators on sustainability scores, The International Conference of Smart and Sustainable Built Environment (Initial acceptance.)
-
+#### 3. Chenary, K., Abdi, M. (2024). Cities, Arid Climate and shading: Vernacular Persian Built Environment Design Responds, Springer Nature, Persian vernacular architecture (will be published online in August.)
+#### 4.	Pirian Kalat, O., Chenary, K., Ghaffarianhoseini, A. (2024). The impact of key SDG indicators on sustainability scores, The International Conference of Smart and Sustainable Built Environment (Initial acceptance.)
+#### 4. Soltani, A., Chenary, K., & Mirzaei, R. (2024).  Vulnerability of Housing Prices to Climate Change in Tehran.  Journal of urban management (under review.)
 
 # Hobbies
 #### I have [lifeguard certificate](https://drive.google.com/file/d/1-5OWfm4TUT4oiEl5B1yroG0FV7lg_3n2/view) from Iran lifesaving and diving federation. I play guitar in my free time. I am curious and enjoy learning new thing and be master in them :)
