@@ -103,6 +103,6 @@ The distribution of shade and bright colors in Yazd's vernacular architecture is
 #### 4. Soltani, A., Chenary, K., & Mirzaei, R. (2024).  Vulnerability of Housing Prices to Climate Change in Tehran.  Journal of urban management (under review.)
 
 # Hobbies
-#### I have [lifeguard certificate](https://drive.google.com/file/d/1-5OWfm4TUT4oiEl5B1yroG0FV7lg_3n2/view) from Iran lifesaving and diving federation. I play guitar in my free time. I am curious and enjoy learning new thing and be master in them :)
+#### I have ![naji](https://github.com/kimiachenari/kimiachenari.github.io/assets/104256716/0c67a0dd-afd1-4ace-98dc-772248895359) from Iran lifesaving and diving federation. I play guitar in my free time. I am curious and enjoy learning new thing and be master in them :)
 
 
