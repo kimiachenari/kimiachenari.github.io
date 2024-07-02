@@ -58,7 +58,7 @@
 #### This figure depicts network indices calculated using SpaceSyntax for the Sareban neighborhood in Bojnourd city, Iran.
 
 #### AnyLogic
-During my undergraduate studies, I created a basic model in AnyLogic: https://drive.google.com/file/d/1AB_y-NpQ4RkZrg37bEdhMbL1L51FP2vX/view?usp=sharing
+During my undergraduate studies, I created a basic model in AnyLogic: ![any](https://drive.google.com/file/d/1AB_y-NpQ4RkZrg37bEdhMbL1L51FP2vX/view?usp=sharing)
 
 ## spatial analyse using Image processing 
 #### NDVI Distribution (OpenCV Python library)
@@ -85,11 +85,7 @@ The distribution of shade and bright colors in Yazd's vernacular architecture is
 #### Site Selection using ArcGIS
 ![site selection](https://user-images.githubusercontent.com/104256716/176395207-ee15e693-2114-455d-bf5e-cd76e056c4bb.png)
 #### This figure presents a series of maps created to identify the most suitable location for a new city near Bojnourd, Iran.
-## Design
 
-#### House Design 
-![house des](https://user-images.githubusercontent.com/104256716/176484529-0a874034-e43f-4b83-a1e7-2ce1eee650a0.png)
-#### The figure represents house Design using AutoCAD software.  
 
 ## Work expreineces
 #### Cartography of Jangal city
@@ -99,6 +95,10 @@ The distribution of shade and bright colors in Yazd's vernacular architecture is
 ![processed-171ddb2e-a8d3-45b6-b924-fe350839cb18_JtI08CSQ](https://github.com/kimiachenari/kimiachenari.github.io/assets/104256716/05308413-031a-4769-9d2f-f0a4e5ccc927)
 
 I have an online teaching session. You can find the details here: https://girs.ir/author/kimiachenary/
+
+#### House Design 
+![house des](https://user-images.githubusercontent.com/104256716/176484529-0a874034-e43f-4b83-a1e7-2ce1eee650a0.png)
+#### The figure represents house Design using AutoCAD software.  
 
 # Publication
 #### 1.	Chenary, K., Pirian Kalat, O., & Sharifi, A. (2024). Forecasting sustainable development goals scores by 2030 using machine learning models. Sustainable Development, 1–19. https://doi.org/10.1002/sd.3037
