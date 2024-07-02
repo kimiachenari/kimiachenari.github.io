@@ -24,15 +24,15 @@
 ## Climate change visualizations using Open-source Tools 
 #### Urban Heat Island using Google Earth Engine (GEE) 
 ![LST from 2013 to 2021 (Mashhad)](https://user-images.githubusercontent.com/104256716/173180442-6d1f4537-8b47-4a04-b46d-029930684e73.png)
-##### The map shows the mean temperature of Mashhad city in Iran between the years 2013 to 2021 using Google Earth Engine (GEE) image collection of Landsat-8 top-of-the-atmosphere (TOA) with scale of 100 m.
+##### The map depicts the mean land surface temperature (LST) of Mashhad city, Iran, from 2013 to 2021. The data source is a Landsat-8 TOA (Top-of-Atmosphere) image collection processed using Google Earth Engine (GEE) at a 100-meter scale.
 
 ![NDVI](https://user-images.githubusercontent.com/104256716/176388635-6a30bb8e-c91f-45d3-9c1b-a7e8c31d2e53.png)
-##### All N.D.V.I. values presented the same range from -0.5 to 0.7. Typically, built-up and bare soil areas indicated low N.D.V.I. values, while the vegetated area indicated moderate. According to boxplot, the most significant value of median N.D.V.I. belonged to districts 6 (c) and 10 (d), while districts 11 (e) and 1 (b) showed lower median N.D.V.I.
+##### All NDVI values fell within the same range, from -0.5 to 0.7. Typically, areas with low NDVI values represent built-up areas and bare soil, while vegetated areas have moderate values.  According to the boxplot, districts 6 (c) and 10 (d) exhibited the highest median NDVI, while districts 11 (e) and 1 (b) had lower median NDVI values.
 
 #### Visualizing Temperature's Data using Altair Python library 
 #### Land Surface Temperature (LST)
 ![lst2](https://user-images.githubusercontent.com/104256716/176609541-74284575-5554-4804-bb4b-9fbf8ba76659.png)
-##### The data was gathered and export from GEE then was visualized using Altair Python library. As we can see, between 2020 and 2021 which was the Corona pandamic the maximum temperature was lower than years before.
+##### The data was collected and exported from Google Earth Engine (GEE) before being visualized using the Altair Python library. Interestingly, the maximum temperature between 2020 and 2021, which coincided with the COVID-19 pandemic, was lower than in previous years.
 
 #### Air Temperature
 
@@ -41,50 +41,49 @@
 
 #### LST, NDVI, and Housing Price Distributions across 22 Tehran Districts
 ![LST, NDVI, and Housing Price Distributions across 22 Tehran Districts](https://github.com/kimiachenari/images/blob/main/Untitled-1.jpg)
-
+##### This plot visualizes the distribution rank across 22 Tehran districts for three variables: Land Surface Temperature (LST), Normalized Difference Vegetation Index (NDVI), and Housing Price.
 
 ## Network Analyse using Python
 
 #### Network Closeness using Momepy Python library
 ![Closenessn](https://user-images.githubusercontent.com/104256716/176389458-251bece2-051e-4f2e-8ecd-7369699eb506.png)
-#### The brighter color represented the higher closeness value. The highest curve of (d) among all chosen districts resulted from a comparison between the four districts in terms of local closeness_centrality frequencies. (b) provided an almost normal curve which presented a symmetrical distribution. (c) and (e) had nearly identical skew distributions. 
-
+#### Closeness centrality is a concept in graph theory that measures a node's average distance to all other nodes in the network. In this context, nodes likely represent street intersections, and edges represent connecting streets. A higher closeness centrality value indicates that an intersection is, on average, closer to other intersections.
 
 #### Network Edge Bearing using OSMnx Python library
 
 ![edge](https://user-images.githubusercontent.com/104256716/176389728-714e7d7e-649b-4c74-b297-cec7ea989e6a.png)
-#### Street Edge Bearing was calculated to classify urban patterns. The chart represents how every district of Mashhad's street orientations were scattered in different directions
+#### Street edge bearing was used to classify urban patterns in Mashhad. This chart visualizes the distribution of street orientations across all districts in the city.
 
 #### Network indexes
 
 ![depth map3](https://user-images.githubusercontent.com/104256716/176394698-3a0a8fa2-544c-4b31-8897-33807922dbf9.png)
-#### The figure shows network analyse indexes using SpaceSyntax in Sareban neighborhood of Bojnourd city of Iran.
+#### This figure depicts network indices calculated using SpaceSyntax for the Sareban neighborhood in Bojnourd city, Iran.
 
 ## spatial analyse using Image processing 
 #### NDVI Distribution (OpenCV Python library)
 ![ndvi dis2](https://user-images.githubusercontent.com/104256716/176740202-0e4ab348-8a85-488e-b115-3c2ab1257c41.png)
 
-Distrivbution of vegetated area in city can be calculate by black and white image range. Acording to the map image with higher rage of black area has higher distribution in green areas. (c) and (d) represented the high and least vegetation distribution.
+The distribution of vegetation in a city cannot be reliably calculated solely based on the black and white range of an image.  While darker areas in a black and white image might suggest more vegetation, other factors like soil type and shadows can influence the image.
 
 #### Shade distribution (OpenCV Python library)
 
 ![final3](https://github.com/kimiachenari/kimiachenari.github.io/assets/104256716/750f74d9-428b-4716-a044-84c02527f4cf)
-
+The distribution of shade and bright colors in Yazd's vernacular architecture is surprising. This is because these traditional buildings are designed to create distributed shade, resulting in a relatively even balance of shade and sunlight throughout neighborhoods.
 
 #### Covid-19
 ![176381924-6818dc57-2997-4746-9522-5fc832b3831d](https://user-images.githubusercontent.com/104256716/176382083-f54f431e-3c75-4725-b7b1-50a1d8cdd458.png)
 
-##### The map shows how Corona virus my spread in Iran. It began in Qum provice and then spread in the capital city of Iran, Tehran. The map Created using Geopandas and Matplotlib libraries. 
+##### This map depicts the spread of the COVID-19 virus across Iran. It likely originated in Qom province before reaching the capital city, Tehran. The map was created using geospatial libraries GeoPandas and Matplotlib.
 
 
 ## Spatial Analyse using Software 
 #### Site Analysis
 
 ![site analysis3](https://user-images.githubusercontent.com/104256716/176394727-40da3f75-2e0e-40f8-880e-8444600e3e0e.png)
-#### The figure analysed diffrent urban indexes using ArcGIS, SketchUp and Photoshop softwares in Sareban neighborhood of Bojnourd city of Iran.
+#### This figure analyzes various urban design indexes for the Sareban neighborhood in Bojnourd city, Iran. ArcGIS was likely used for spatial analysis, while SketchUp and Photoshop are better suited for 3D modeling and image editing, respectively.
 #### Site Selection using ArcGIS
 ![site selection](https://user-images.githubusercontent.com/104256716/176395207-ee15e693-2114-455d-bf5e-cd76e056c4bb.png)
-#### The figure shows several maps which created to select the best place for new city around Bojnourd city of Iran.
+#### This figure presents a series of maps created to identify the most suitable location for a new city near Bojnourd, Iran.
 ## Design
 
 #### House Design 
