@@ -57,6 +57,12 @@
 ![depth map3](https://user-images.githubusercontent.com/104256716/176394698-3a0a8fa2-544c-4b31-8897-33807922dbf9.png)
 #### This figure depicts network indices calculated using SpaceSyntax for the Sareban neighborhood in Bojnourd city, Iran.
 
+
+https://github.com/kimiachenari/kimiachenari.github.io/assets/104256716/7d12f9f1-8777-4f69-b1db-b4ad679ac381
+
+
+
+
 ## spatial analyse using Image processing 
 #### NDVI Distribution (OpenCV Python library)
 ![ndvi dis2](https://user-images.githubusercontent.com/104256716/176740202-0e4ab348-8a85-488e-b115-3c2ab1257c41.png)
