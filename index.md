@@ -4,11 +4,10 @@
 ##### Mail Address : kimia.chenary@yahoo.com | Website : https://kimiachenari.github.io/ | LinkedIn : Kimia Chenary
 
 ### EDUCATION 
-#### B.Sc. in Urban Planning from Art Department, Bojnourd university, Bojnourd, Iran with GPA of 17.17 /20  or 3.55/4.
+#### Bachelor degree in urban planning from Art Department, Bojnourd university, Bojnourd, Iran with GPA of 17.17 /20  or 3.55/4.
 #### Thesis Title: “Street network patterns for mitigating urban heat islands in arid climates“
-
-
-
+#### Master degree in urban planning from Art Department, Bojnourd university, Bojnourd, Iran with GPA of 17.37/20 or 3.6/4
+#### Thesis Title: “prediction of urban and population growth using deep learning in Mashhad city“ 
 #### As an urban planner, my interests lie in urban sustainable development, particularly in :
 #### Urban Spatial Planning & analyzing | Urban Data Science | Developing GIS
 
@@ -43,23 +42,6 @@
 #### LST, NDVI, and Housing Price Distributions across 22 Tehran Districts
 ![LST, NDVI, and Housing Price Distributions across 22 Tehran Districts](https://github.com/kimiachenari/images/blob/main/Untitled-1.jpg)
 
-## Image processing using OpenCV Python library 
-#### NDVI Distribution
-![ndvi dis2](https://user-images.githubusercontent.com/104256716/176740202-0e4ab348-8a85-488e-b115-3c2ab1257c41.png)
-
-Distrivbution of vegetated area in city can be calculate by black and white image range. Acording to the map image with higher rage of black area has higher distribution in green areas. (c) and (d) represented the high and least vegetation distribution.
-
-#### Shade distribution 
-
-![final3](https://github.com/kimiachenari/kimiachenari.github.io/assets/104256716/750f74d9-428b-4716-a044-84c02527f4cf)
-
-
-#### Covid-19
-![176381924-6818dc57-2997-4746-9522-5fc832b3831d](https://user-images.githubusercontent.com/104256716/176382083-f54f431e-3c75-4725-b7b1-50a1d8cdd458.png)
-
-##### The map shows how Corona virus my spread in Iran. It began in Qum provice and then spread in the capital city of Iran, Tehran. The map Created using Geopandas and Matplotlib libraries. 
-
-
 
 ## Network Analyse using Open-source Tools 
 
@@ -78,6 +60,21 @@ Distrivbution of vegetated area in city can be calculate by black and white imag
 ![depth map3](https://user-images.githubusercontent.com/104256716/176394698-3a0a8fa2-544c-4b31-8897-33807922dbf9.png)
 #### The figure shows network analyse indexes using SpaceSyntax in Sareban neighborhood of Bojnourd city of Iran.
 
+## spatial analyse using Image processing (OpenCV Python library) 
+#### NDVI Distribution
+![ndvi dis2](https://user-images.githubusercontent.com/104256716/176740202-0e4ab348-8a85-488e-b115-3c2ab1257c41.png)
+
+Distrivbution of vegetated area in city can be calculate by black and white image range. Acording to the map image with higher rage of black area has higher distribution in green areas. (c) and (d) represented the high and least vegetation distribution.
+
+#### Shade distribution 
+
+![final3](https://github.com/kimiachenari/kimiachenari.github.io/assets/104256716/750f74d9-428b-4716-a044-84c02527f4cf)
+
+
+#### Covid-19
+![176381924-6818dc57-2997-4746-9522-5fc832b3831d](https://user-images.githubusercontent.com/104256716/176382083-f54f431e-3c75-4725-b7b1-50a1d8cdd458.png)
+
+##### The map shows how Corona virus my spread in Iran. It began in Qum provice and then spread in the capital city of Iran, Tehran. The map Created using Geopandas and Matplotlib libraries. 
 
 
 ## Spatial Analyse using Software 
