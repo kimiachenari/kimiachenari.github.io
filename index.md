@@ -4,10 +4,8 @@
 ##### Mail Address : kimia.chenary@yahoo.com | Website : https://kimiachenari.github.io/ | LinkedIn : Kimia Chenary
 
 ### EDUCATION 
-##### Bachelor degree in urban planning from Art Department, Bojnourd university, Bojnourd, Iran with GPA of 17.17 /20  or 3.55/4.
-##### Thesis Title: “Street network patterns for mitigating urban heat islands in arid climates“
-##### Master degree in urban planning from Art Department, Bojnourd university, Bojnourd, Iran with GPA of 17.37/20 or 3.6/4
-##### Thesis Title: “prediction of urban and population growth using deep learning in Mashhad city“ 
+##### Bachelor degree in urban planning from Art Department, Bojnourd university, Bojnourd, Iran with GPA of 17.17 /20  or 3.55/4. (Thesis Title: “Street network patterns for mitigating urban heat islands in arid climates“)
+##### Master degree in urban planning from Art Department, Bojnourd university, Bojnourd, Iran with GPA of 17.37/20 or 3.6/4 (Thesis Title: “prediction of urban and population growth using deep learning in Mashhad city“ )
 ##### As an urban planner, my interests lie in urban sustainable development, particularly in :
 ##### Urban Spatial Planning & analyzing | Urban Data Science | Developing GIS
 
