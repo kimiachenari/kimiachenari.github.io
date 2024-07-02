@@ -58,7 +58,10 @@
 #### This figure depicts network indices calculated using SpaceSyntax for the Sareban neighborhood in Bojnourd city, Iran.
 
 #### AnyLogic
-During my undergraduate studies, I created a basic model in AnyLogic: ![any](https://drive.google.com/file/d/1AB_y-NpQ4RkZrg37bEdhMbL1L51FP2vX/view?usp=sharing)
+
+![Screenshot 2024-07-02 090042](https://github.com/kimiachenari/kimiachenari.github.io/assets/104256716/5bdb818e-9ab2-4be9-914b-0684982767c0)
+
+During my undergraduate studies, I created a basic model of traffic lights' cotrol in AnyLogic: ![any](https://drive.google.com/file/d/1AB_y-NpQ4RkZrg37bEdhMbL1L51FP2vX/view?usp=sharing)
 
 ## spatial analyse using Image processing 
 #### NDVI Distribution (OpenCV Python library)
