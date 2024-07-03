@@ -1,7 +1,7 @@
 # Kimia Chenary 
 #### Spatial analyzer. Data Scientist. Researcher
 
-##### Mail Address : kimiachenary1@gmail.com | Website : https://kimiachenari.github.io/ | LinkedIn : https://www.linkedin.com/in/kimiachenary/
+##### kimiachenary1@gmail.com | Website : https://kimiachenari.github.io/ | LinkedIn : https://www.linkedin.com/in/kimiachenary/
 
 ### EDUCATION 
 ##### Bachelor degree in urban planning from Art Department, Bojnourd university, Bojnourd, Iran with GPA of 17.17 /20  or 3.55/4. (Thesis Title: “Street network patterns for mitigating urban heat islands in arid climates“)
