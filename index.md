@@ -111,6 +111,6 @@ I have an online teaching session. You can find the details here: https://girs.i
 #### 4. Soltani, A., Chenary, K., & Mirzaei, R. (2024).  Vulnerability of Housing Prices to Climate Change in Tehran.  Journal of urban management (under review.)
 
 # Hobbies
-#### I have from Iran lifesaving and diving federation. I play guitar in my free time. I am curious and enjoy learning new thing and be master in them :)
+#### I obtained a lifeguard certification from the Iran Lifesaving and Diving Federation. I play the guitar in my free time. I am curious and enjoy learning new things and becoming proficient in them. :)
 ![naji](https://github.com/kimiachenari/kimiachenari.github.io/assets/104256716/0c67a0dd-afd1-4ace-98dc-772248895359) 
 
