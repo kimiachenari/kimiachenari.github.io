@@ -98,8 +98,10 @@ I have an online teaching session. You can find the details here: https://girs.i
 # Publication
 #### 1.	Chenary, K., Pirian Kalat, O., & Sharifi, A. (2024). Forecasting sustainable development goals scores by 2030 using machine learning models. Sustainable Development, 1–19. https://doi.org/10.1002/sd.3037
 #### 2.	Chenary, K., Soltani, A., & Sharifi, A. (2023). Street network patterns for mitigating urban heat islands in arid climates. International Journal of Digital Earth, 16(1), 3145–3161. https://doi.org/10.1080/17538947.2023.2243901
-#### 3. Chenary, K., Abdi, M. (2024). Cities, Arid Climate and shading: Vernacular Persian Built Environment Design Responds, Springer Nature, Persian vernacular architecture (will be published online in August.)
-#### 4.	Pirian Kalat, O., Chenary, K., Ghaffarianhoseini, A. (2024). The impact of key SDG indicators on sustainability scores, The International Conference of Smart and Sustainable Built Environment (Initial acceptance.)
+#### 3. Chenary, K., Abdi, M. (2024). Cities, Arid Climate and shading: Vernacular Persian Built Environment Design Responds, Springer Nature, Persian vernacular architecture.(Under production.) https://link.springer.com/book/9789819611157
+#### 4.	Pirian Kalat, O., Chenary, K., Ghaffarianhoseini, A. (2024). The impact of key SDG indicators on sustainability scores, The International Conference of Smart and Sustainable Built Environment (Accepted.)
+![certificate_conference](https://github.com/user-attachments/assets/67d051d3-72e1-474b-b901-6a1ffb14c96c)
+
 #### 4. Soltani, A., Chenary, K., & Mirzaei, R. (2024).  Vulnerability of Housing Prices to Climate Change in Tehran.  Journal of urban management (under review.)
 
 # Hobbies
