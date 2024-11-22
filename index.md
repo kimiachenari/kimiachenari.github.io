@@ -99,10 +99,14 @@ I have an online teaching session. You can find the details here: https://girs.i
 #### 1.	Chenary, K., Pirian Kalat, O., & Sharifi, A. (2024). Forecasting sustainable development goals scores by 2030 using machine learning models. Sustainable Development, 1–19. https://doi.org/10.1002/sd.3037
 #### 2.	Chenary, K., Soltani, A., & Sharifi, A. (2023). Street network patterns for mitigating urban heat islands in arid climates. International Journal of Digital Earth, 16(1), 3145–3161. https://doi.org/10.1080/17538947.2023.2243901
 #### 3. Chenary, K., Abdi, M. (2024). Cities, Arid Climate and shading: Vernacular Persian Built Environment Design Responds, Springer Nature, Persian vernacular architecture.(Under production.) https://link.springer.com/book/9789819611157
-#### 4.	Pirian Kalat, O., Chenary, K., Ghaffarianhoseini, A. (2024). TQuantitative Impact of Key SDG Indicators on National Sustainability Scores in West Asia: A Comprehensive Analysis, The International Conference of Smart and Sustainable Built Environment (Accepted.)
+#### 4.	Pirian Kalat, O., Chenary, K., Ghaffarianhoseini, A. (2024). TQuantitative Impact of Key SDG Indicators on National Sustainability Scores in West Asia: A Comprehensive Analysis, The International Conference of Smart and Sustainable Built Environment (Accepted.) https://www.sdsbe2024.com/
 ![certificate_conference](https://github.com/user-attachments/assets/67d051d3-72e1-474b-b901-6a1ffb14c96c)
 
 #### 4. Soltani, A., Chenary, K., & Mirzaei, R. (2024).  Vulnerability of Housing Prices to Climate Change in Tehran.  Journal of urban management (under review.)
+
+# Peer review
+#### I reviewed manuscript titled " Machine Learning Assisted Approach to Optimize Flood Mitigation Strategies" for [Natural Hazards Review] (2024) 
+![davari](https://github.com/user-attachments/assets/65cc9abb-bd5b-46c7-94f7-5410b23809ff)
 
 # Hobbies
 #### I obtained a lifeguard certification from the Iran Lifesaving and Diving Federation. I play the guitar in my free time. I am curious and enjoy learning new things and becoming proficient in them. :)
