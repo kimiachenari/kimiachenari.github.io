@@ -13,7 +13,10 @@
 # Projects
 ## Climate change visualizations using Google Earth Engine (GEE) and Python
 #### Urban Heat Island using Google Earth Engine (GEE) 
-![LST from 2013 to 2021 (Mashhad)](https://user-images.githubusercontent.com/104256716/173180442-6d1f4537-8b47-4a04-b46d-029930684e73.png)
+![2](https://github.com/user-attachments/assets/3250f089-f757-433c-9115-055e9106f889)
+![mean seasonal lst](https://github.com/user-attachments/assets/d40bec36-a9e8-41d0-a3fa-d600596aa550)
+![mean seasonal ndvi](https://github.com/user-attachments/assets/92102645-c46d-484a-8109-33eb5d0d3d49)
+
 ##### The map depicts the mean land surface temperature (LST) of Mashhad city, Iran, from 2013 to 2021. The data source is a Landsat-8 TOA (Top-of-Atmosphere) image collection processed using Google Earth Engine (GEE) at a 100-meter scale.
 
 ![NDVI](https://user-images.githubusercontent.com/104256716/176388635-6a30bb8e-c91f-45d3-9c1b-a7e8c31d2e53.png)
@@ -38,6 +41,8 @@
 #### Network Closeness using Momepy Python library
 ![Closenessn](https://user-images.githubusercontent.com/104256716/176389458-251bece2-051e-4f2e-8ecd-7369699eb506.png)
 #### Closeness centrality is a concept in graph theory that measures a node's average distance to all other nodes in the network. In this context, nodes likely represent street intersections, and edges represent connecting streets. A higher closeness centrality value indicates that an intersection is, on average, closer to other intersections.
+
+![1](https://github.com/user-attachments/assets/09eca804-9ae7-462f-980b-80874b00f527)
 
 #### Network Edge Bearing using OSMnx Python library
 
