@@ -26,6 +26,7 @@
 #### Land Surface Temperature (LST)
 ![lst2](https://user-images.githubusercontent.com/104256716/176609541-74284575-5554-4804-bb4b-9fbf8ba76659.png)
 ##### The data was collected and exported from Google Earth Engine (GEE) before being visualized using the Altair Python library. Interestingly, the maximum temperature between 2020 and 2021, which coincided with the COVID-19 pandemic, was lower than in previous years.
+![ndvi2c](https://github.com/user-attachments/assets/4eab3f8f-5e02-4602-9b07-d86653fe4bf3)
 
 #### Air Temperature
 
