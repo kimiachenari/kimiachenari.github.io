@@ -87,6 +87,9 @@ The distribution of shade and bright colors in Yazd's vernacular architecture is
 ![site selection](https://user-images.githubusercontent.com/104256716/176395207-ee15e693-2114-455d-bf5e-cd76e056c4bb.png)
 #### This figure presents a series of maps created to identify the most suitable location for a new city near Bojnourd, Iran.
 
+## SQL
+![IMG_20250111_195003_099](https://github.com/user-attachments/assets/a2205619-1715-4dec-8b50-027274b9887c)
+
 
 ## Work expreineces
 #### Cartography of Jangal city
