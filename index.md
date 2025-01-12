@@ -1,5 +1,16 @@
 # Kimia Chenary 
 #### Spatial analyzer. Data Scientist. Researcher
+##### Greetings! I’m Kimia Chenary, a researcher passionate about addressing urban challenges. My work harnesses both big and small data alongside innovative computational methods such as programming and open-source tools to promote smart, sustainable, and equitable urban systems. I have had the privilege of collaborating with esteemed scholars from Japan, Australia, and New Zealand, gaining valuable experience and insights through these partnerships.
+
+#### I am deeply committed to tackling city-related problems and focusing on topics that offer novelty, enhanced by advanced methodologies, ensuring the research is valuable for future generations and cities. 
+
+#### My research involves:  
+#### 1. Collecting and managing big and small data using data science techniques.  
+#### 2. Analyzing the current situation through spatial analysis methods, including Python and Google Earth Engine.  
+#### 3. Forecasting future scenarios using machine learning or simulation techniques.  
+#### 4. Modeling interactions within urban systems, encompassing urban environments, transport networks, and human movements.  
+
+####  I am particularly interested in exploring the interactions between various factors within cities to forecast, optimize, and enhance urban functionality for smarter living.
 
 ### Programming Skills 
 #### Python | R  |  SQL | JavaScript
