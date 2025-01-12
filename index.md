@@ -1,15 +1,9 @@
 # Kimia Chenary 
 #### Spatial analyzer. Data Scientist. Researcher
-##### Greetings! I’m Kimia Chenary, a researcher passionate about addressing urban challenges. My work harnesses both big and small data alongside innovative computational methods such as programming and open-source tools to promote smart, sustainable, and equitable urban systems. I have had the privilege of collaborating with esteemed scholars from Japan, Australia, and New Zealand, gaining valuable experience and insights through these partnerships.
-
+#### Greetings! I’m Kimia Chenary, a researcher passionate about addressing urban challenges. My work harnesses both big and small data alongside innovative computational methods such as programming and open-source tools to promote smart, sustainable, and equitable urban systems. I have had the privilege of collaborating with esteemed scholars from Japan, Australia, and New Zealand, gaining valuable experience and insights through these partnerships.
 #### I am deeply committed to tackling city-related problems and focusing on topics that offer novelty, enhanced by advanced methodologies, ensuring the research is valuable for future generations and cities. 
-
 #### My research involves:  
-#### 1. Collecting and managing big and small data using data science techniques.  
-#### 2. Analyzing the current situation through spatial analysis methods, including Python and Google Earth Engine.  
-#### 3. Forecasting future scenarios using machine learning or simulation techniques.  
-#### 4. Modeling interactions within urban systems, encompassing urban environments, transport networks, and human movements.  
-
+#### 1. Collecting and managing big and small data using data science techniques. 2. Analyzing the current situation through spatial analysis methods, including Python and Google Earth Engine. 3. Forecasting future scenarios using machine learning or simulation techniques. 4. Modeling interactions within urban systems, encompassing urban environments, transport networks, and human movements.  
 ####  I am particularly interested in exploring the interactions between various factors within cities to forecast, optimize, and enhance urban functionality for smarter living.
 
 ### Programming Skills 
@@ -48,7 +42,7 @@
 ![LST, NDVI, and Housing Price Distributions across 22 Tehran Districts](https://github.com/kimiachenari/images/blob/main/Untitled-1.jpg)
 ##### This plot visualizes the distribution rank across 22 Tehran districts for three variables: Land Surface Temperature (LST), Normalized Difference Vegetation Index (NDVI), and Housing Price.
 
-## Network Analyse using Python and AnyLogic
+## Network Analyse using Python
 
 #### Network Closeness using Momepy Python library
 ![Closenessn](https://user-images.githubusercontent.com/104256716/176389458-251bece2-051e-4f2e-8ecd-7369699eb506.png)
@@ -66,7 +60,7 @@
 ![depth map3](https://user-images.githubusercontent.com/104256716/176394698-3a0a8fa2-544c-4b31-8897-33807922dbf9.png)
 #### This figure depicts network indices calculated using SpaceSyntax for the Sareban neighborhood in Bojnourd city, Iran.
 
-#### AnyLogic
+## Traffic flow modeling using AnyLogic
 
 ![Screenshot 2024-07-02 090042](https://github.com/kimiachenari/kimiachenari.github.io/assets/104256716/5bdb818e-9ab2-4be9-914b-0684982767c0)
 
