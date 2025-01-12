@@ -92,13 +92,8 @@ The distribution of shade and bright colors in Yazd's vernacular architecture is
 ![site selection](https://user-images.githubusercontent.com/104256716/176395207-ee15e693-2114-455d-bf5e-cd76e056c4bb.png)
 #### This figure presents a series of maps created to identify the most suitable location for a new city near Bojnourd, Iran.
 
-## SQL
-![IMG_20250111_195003_099](https://github.com/user-attachments/assets/a2205619-1715-4dec-8b50-027274b9887c)
-
 
 ## Work expreineces
-#### Cartography of Jangal city
-![image2](https://user-images.githubusercontent.com/104256716/184503586-3a16427d-8745-47c5-b535-fa405b52b038.png)
 
 #### Online teaching
 ![processed-171ddb2e-a8d3-45b6-b924-fe350839cb18_JtI08CSQ](https://github.com/kimiachenari/kimiachenari.github.io/assets/104256716/05308413-031a-4769-9d2f-f0a4e5ccc927)
@@ -118,11 +113,8 @@ I have an online teaching session. You can find the details here: https://girs.i
 
 #### 4. Soltani, A., Chenary, K., & Mirzaei, R. (2024).  Vulnerability of Housing Prices to Climate Change in Tehran.  Journal of urban management (under review.)
 
-# Peer review
-#### I reviewed manuscript titled " Machine Learning Assisted Approach to Optimize Flood Mitigation Strategies" for [Natural Hazards Review] (2024) 
-![davari](https://github.com/user-attachments/assets/65cc9abb-bd5b-46c7-94f7-5410b23809ff)
 
-# Hobbies
-#### I obtained a lifeguard certification from the Iran Lifesaving and Diving Federation. I play the guitar in my free time. I am curious and enjoy learning new things and becoming proficient in them. :)
+# Sport
+#### I obtained a lifeguard certification from the Iran Lifesaving and Diving Federation. I am curious and enjoy learning new things and becoming proficient in them. :)
 ![naji](https://github.com/kimiachenari/kimiachenari.github.io/assets/104256716/0c67a0dd-afd1-4ace-98dc-772248895359) 
 
