@@ -1,6 +1,6 @@
 # Kimia Chenary 
 #### Spatial analyzer. Data Scientist. Researcher
-##### Greetings! I’m Kimia Chenary, a researcher passionate about addressing urban challenges. My work harnesses both big and small data alongside innovative computational methods such as programming and open-source tools to promote smart, sustainable, and equitable urban systems. I have had the privilege of collaborating with esteemed scholars from Japan, Australia, and New Zealand, gaining valuable experience and insights through these partnerships.
+##### <p style="color: blue;">Greetings! I’m Kimia Chenary, a researcher passionate about addressing urban challenges. My work harnesses both big and small data alongside innovative computational methods such as programming and open-source tools to promote smart, sustainable, and equitable urban systems. I have had the privilege of collaborating with esteemed scholars from Japan, Australia, and New Zealand, gaining valuable experience and insights through these partnerships.
 
 #### I am deeply committed to tackling city-related problems and focusing on topics that offer novelty, enhanced by advanced methodologies, ensuring the research is valuable for future generations and cities. 
 
