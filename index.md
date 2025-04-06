@@ -1,4 +1,60 @@
 # Kimia Chenary 
+
+# Kimia-Chenary
+# 🌍 Spatial Analyst & Data Scientist | Sustainable Development • Urban Resilience • Machine Learning
+
+Welcome! I'm a spatial data scientist focused on leveraging data-driven insights for sustainable development, urban resilience, and disaster risk reduction. With expertise in **Big Data Analytics**, **Time Series Forecasting**, **Machine Learning**, and **Geospatial Analysis**, I work at the intersection of technology and real-world impact.
+
+---
+
+## 🔧 Skills & Tools
+
+- **Spatial Analysis** (Google Earth Engine, GIS, Remote Sensing, Network Analysis)
+- **Machine Learning & Forecasting** (Python, Scikit-learn, XGBoost, Time Series Models)
+- **Big Data Analytics** (SQL, Python)
+- **Disaster Analysis** (Climate Vulnerability, Risk Mapping, Vulnerability and Social Inequity)
+- **Sustainable Development Assessment** (SDG Metrics, Sustainability Forecasting)
+- **Tools & Languages**: Python, R, QGIS, ArcGIS, PostgreSQL/PostGIS, Jupyter
+
+---
+
+## 🔍 Current Interests
+
+- AI for Disaster Preparedness & Resilient Infrastructure  
+- Urban Heat Mitigation in Arid & Semi-Arid Regions  
+- Geospatial Intelligence for Sustainable Development  
+- Time Series Analysis of Environmental & Socioeconomic Indicators  
+
+---
+
+## 🤝 Let’s Collaborate
+
+I’m always open to research collaborations, innovative projects, or consulting opportunities in the fields of sustainability, spatial analysis, and AI for social good.
+
+📫 **Get in Touch**: [kimiachenary1@gmail.com]  
+🌐 **More**: [Your LinkedIn or personal website]
+
+---
+
+⭐ **Feel free to explore my repositories, and don’t forget to star what inspires you!**
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #### Spatial analyzer. Data Scientist. Researcher
 #### Greetings! I’m Kimia Chenary, a researcher passionate about addressing urban challenges. My work harnesses both big and small data alongside innovative computational methods such as programming and open-source tools to promote smart, sustainable, and equitable urban systems. I have had the privilege of collaborating with esteemed scholars from Japan, Australia, and New Zealand, gaining valuable experience and insights through these partnerships.
 #### I am deeply committed to tackling city-related problems and focusing on topics that offer novelty, enhanced by advanced methodologies, ensuring the research is valuable for future generations and cities. 
