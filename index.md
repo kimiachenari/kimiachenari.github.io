@@ -1,4 +1,3 @@
-# Kimia Chenary 
 
 # Kimia-Chenary
 # 🌍 Spatial Analyst & Data Scientist | Sustainable Development • Urban Resilience • Machine Learning
@@ -15,11 +14,6 @@ Welcome! I'm a spatial data scientist focused on leveraging data-driven insights
 - **Disaster Analysis** (Climate Vulnerability, Risk Mapping, Vulnerability and Social Inequity)
 - **Sustainable Development Assessment** (SDG Metrics, Sustainability Forecasting)
 - **Tools & Languages**: Python, R, QGIS, ArcGIS, PostgreSQL/PostGIS, Jupyter
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/44529f86-6021-48dd-a32c-9f88d8f958b9" width="200" height="80" style="margin: 5px;"/>
-  <img src="https://github.com/user-attachments/assets/c94555d4-91a3-456d-bb91-f67c635a2bc8" width="200" height="80" style="margin: 5px;"/>
-</p>
 
 
 ---
