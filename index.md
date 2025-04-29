@@ -15,7 +15,7 @@ Welcome! I'm a spatial data scientist focused on leveraging data-driven insights
 - **Sustainable Development Assessment** (SDG Metrics, Sustainability Forecasting)
 - **Tools & Languages**: Python, R, QGIS, ArcGIS, PostgreSQL/PostGIS, Jupyter
 
-
+![vid](https://github.com/user-attachments/assets/60ab2699-28fe-4929-8964-6b86264e35c3)
 ---
 
 ## 🔍 Current Interests
