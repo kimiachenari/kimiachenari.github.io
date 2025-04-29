@@ -16,7 +16,6 @@ Welcome! I'm a spatial data scientist focused on leveraging data-driven insights
 
 ---
 ![vid](https://github.com/user-attachments/assets/60ab2699-28fe-4929-8964-6b86264e35c3)
-![430727389-c94555d4-91a3-456d-bb91-f67c635a2bc8](https://github.com/user-attachments/assets/286e6fa0-3992-4918-85a9-fcbae85818d3)
 
 
 ## 🔍 Current Interests
