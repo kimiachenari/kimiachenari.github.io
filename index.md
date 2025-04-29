@@ -14,9 +14,40 @@ Welcome! I'm a spatial data scientist focused on leveraging data-driven insights
 - **Disaster Analysis** (Climate Vulnerability, Risk Mapping, Vulnerability and Social Inequity)
 - **Sustainable Development Assessment** (SDG Metrics, Sustainability Forecasting)
 - **Tools & Languages**: Python, R, QGIS, ArcGIS, PostgreSQL/PostGIS, Jupyter
+Sure! Here's a more polished version of your tools section:
+
+---
+
+## 🔧 **Tools**
+
+- **Data Science Tools**: Python, R, SQL (4 years of experience)  
+- **Spatial Analysis - Open-Source Tools**: Google Earth Engine, Python, R (4 years of experience)  
+- **Spatial Analysis Software**: QGIS, ArcGIS (6 years of experience)
+
+---
+
 
 ![vid](https://github.com/user-attachments/assets/60ab2699-28fe-4929-8964-6b86264e35c3)
+
+
 ---
+
+## **Spatial Analysis & Remote Sensing**
+
+- **Network Mapping**: Street pattern analysis, street form assessment
+- **Agent-Based Modeling**: Traffic flow modeling, flood simulation
+- **Climate Mapping**: Land Surface Temperature (LST), air pollution analysis
+- **Urban & Spatial Mapping**: NDVI, NDBI, land cover classification, land-use prediction using deep learning and machine learning, natural hazard mapping
+
+---
+
+## **Data Science**
+
+- **Machine Learning & Forecasting**: Time Series Models
+- **Big Data Management**: Data preprocessing, cleaning, and forecasting, with a focus on identifying interconnections in both large and small datasets
+
+---
+
 
 ## 🔍 Current Interests
 
