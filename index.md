@@ -39,9 +39,3 @@ I’m always open to research collaborations, innovative projects, or consulting
 ⭐ **Feel free to explore my repositories, and don’t forget to star what inspires you!**
 
 
-
-
-# Sport
-#### I obtained a lifeguard certification from the Iran Lifesaving and Diving Federation. I am curious and enjoy learning new things and becoming proficient in them. :)
-![naji](https://github.com/kimiachenari/kimiachenari.github.io/assets/104256716/0c67a0dd-afd1-4ace-98dc-772248895359) 
-
