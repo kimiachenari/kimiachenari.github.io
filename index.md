@@ -20,21 +20,22 @@ Welcome! I'm a spatial data scientist focused on leveraging data-driven insights
 
 ## **🌍 Spatial Analysis & Remote Sensing**
 
-1. **🗺️ Network Mapping**  
+1. **🗺️ Street Network Analysis**  
    - Analyzed **street patterns** and assessed **street forms** that influence **surface temperature**.  
    - Utilized **Python’s multi-processing techniques** to optimize performance in large-scale **network analysis**.  
    - Analyzed **connectivity** and **traffic volume**, identifying **key areas**.  
    - Identified **urban functionality** through the relationship between **streets** and **buildings**.
 
-2. **🌡️ Climate & Natural Hazard Mapping**  
-   - Mapped **Land Surface Temperature (LST)** and improved the scaling of multiple **observation maps**.  
-   - Mapped **air pollution** to identify **environmental risks**.  
-   - Conducted **natural hazard mapping** to evaluate **risks** and assist in **disaster preparedness**.
+2. **🌡️ Climate & Natural Hazard Analysis**  
+   - visualized **Land Surface Temperature (LST)** and improved the scaling of multiple **observation maps**.  
+   - visualized **air pollution** to identify **environmental risks**.  
+   - visualized **flood vulnerability** to evaluate **risks** and assist in **disaster preparedness**.
 
-3. **🏙️ Urban & Spatial Mapping**  
+3. **🏙️ Urban & GeoSpatial Data Science**  
    - Applied **NDVI**, **NDBI**, and **land cover classification** to assess **land use** and **environmental health**.  
    - Predicted **land use patterns** using **deep learning** and **machine learning techniques**.  
-   - Developed **3D models** to visualize **building density** and **infrastructure**, providing insights into **walkability** and **vehicular access**.  
+   - Developed **3D models** to visualize **building density** and **infrastructure**, providing insights into **walkability** and **vehicular access**.
+   - pedestrian **accessibility** issues due to **inadequate** crossings.
    - Conducted a comprehensive **site selection analysis** for **residential construction**, considering critical factors such as **elevation**, **slope**, **proximity to urban areas**, **roads**, **power networks**, and **rivers**; applied a **weighted binary comparison matrix** to identify and select the most suitable **sites for development**.
 
 4. **🚗 Agent-Based Modeling**  
