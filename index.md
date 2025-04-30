@@ -184,6 +184,44 @@ Let me know if you'd like to further customize this!
    <span style="font-size: 14px; color: black;">- Identified and analyzed <strong>interconnections</strong> across diverse <strong>data types</strong>.</span>  
    <span style="font-size: 14px; color: black;">- Developed optimal strategies for forecasting <strong>large datasets</strong> with numerous <strong>columns</strong> and limited <strong>rows</strong>, addressing real-world challenges like <strong>missing data</strong> and <strong>inconsistencies</strong>.</span>
 
+
+## <span style="font-size: 18px; color: black;">**🌍 Spatial Analysis & Remote Sensing**</span>
+
+1. **🗺️ Network Mapping**  
+   <span style="font-size: 16px; color: black;">• Analyzed <strong>street patterns</strong> and assessed <strong>street forms</strong> that influence <strong>surface temperature</strong>.</span>  
+   <span style="font-size: 16px; color: black;">• Utilized <strong>Python’s multi-processing techniques</strong> to optimize performance in large-scale <strong>network analysis</strong>.</span>  
+   <span style="font-size: 16px; color: black;">• Analyzed <strong>connectivity</strong> and <strong>traffic volume</strong>, identifying <strong>key areas</strong>.</span>  
+   <span style="font-size: 16px; color: black;">• Identified <strong>urban functionality</strong> through the relationship between <strong>streets</strong> and <strong>buildings</strong>.</span>
+
+2. **🌡️ Climate & Natural Hazard Mapping**  
+   <span style="font-size: 16px; color: black;">• Mapped <strong>Land Surface Temperature (LST)</strong> and improved the scaling of multiple <strong>observation maps</strong>.</span>  
+   <span style="font-size: 16px; color: black;">• Mapped <strong>air pollution</strong> to identify <strong>environmental risks</strong>.</span>  
+   <span style="font-size: 16px; color: black;">• Conducted <strong>natural hazard mapping</strong> to evaluate <strong>risks</strong> and assist in <strong>disaster preparedness</strong>.</span>
+
+3. **🏙️ Urban & Spatial Mapping**  
+   <span style="font-size: 16px; color: black;">• Applied <strong>NDVI</strong>, <strong>NDBI</strong>, and <strong>land cover classification</strong> to assess <strong>land use</strong> and <strong>environmental health</strong>.</span>  
+   <span style="font-size: 16px; color: black;">• Predicted <strong>land use patterns</strong> using <strong>deep learning</strong> and <strong>machine learning techniques</strong>.</span>  
+   <span style="font-size: 16px; color: black;">• Developed <strong>3D models</strong> to visualize <strong>building density</strong> and <strong>infrastructure</strong>, providing insights into <strong>walkability</strong> and <strong>vehicular access</strong>.</span>  
+   <span style="font-size: 16px; color: black;">• Conducted a comprehensive <strong>site selection analysis</strong> for <strong>residential construction</strong>, considering critical factors such as <strong>elevation</strong>, <strong>slope</strong>, <strong>proximity to urban areas</strong>, <strong>roads</strong>, <strong>power networks</strong>, and <strong>rivers</strong>; applied a <strong>weighted binary comparison matrix</strong> to identify and select the most suitable <strong>sites for development</strong>.</span>
+
+4. **🚗 Agent-Based Modeling**  
+   <span style="font-size: 16px; color: black;">• Developed models for <strong>traffic flow</strong>.</span>  
+   <span style="font-size: 16px; color: black;">• Created <strong>flood simulations</strong> to assess <strong>evacuation strategies</strong> during <strong>floods</strong>.</span>
+
+## <span style="font-size: 18px; color: black;">**📊 Data Science**</span>
+
+1. **🤖 Machine Learning & Forecasting**  
+   <span style="font-size: 16px; color: black;">• Built and applied <strong>time series models</strong> to improve <strong>forecasting accuracy</strong>.</span>  
+   <span style="font-size: 16px; color: black;">• Enhanced <strong>regression time series predictions</strong> using <strong>Holt-Winters’ multiplicative smoothing</strong>.</span>  
+   <span style="font-size: 16px; color: black;">• Improved <strong>ARIMA time series predictions</strong> by incorporating <strong>external variables</strong>.</span>
+
+2. **💾 Big Data Management**  
+   <span style="font-size: 16px; color: black;">• Managed and predicted outcomes using <strong>small datasets</strong> with numerous <strong>columns</strong> and limited <strong>rows</strong>.</span>  
+   <span style="font-size: 16px; color: black;">• Preprocessed, cleaned, and handled <strong>large datasets</strong>, ensuring <strong>data integrity</strong> for analysis.</span>  
+   <span style="font-size: 16px; color: black;">• Identified and analyzed <strong>interconnections</strong> across diverse <strong>data types</strong>.</span>  
+   <span style="font-size: 16px; color: black;">• Developed optimal strategies for forecasting <strong>large datasets</strong> with numerous <strong>columns</strong> and limited <strong>rows</strong>, addressing real-world challenges like <strong>missing data</strong> and <strong>inconsistencies</strong>.</span>
+
+
 ## 🔍 Current Interests
 
 - AI for Disaster Preparedness & Resilient Infrastructure  
