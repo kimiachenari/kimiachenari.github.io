@@ -23,21 +23,22 @@ Welcome! I'm an urban planner focused on leveraging data-driven insights With ex
    <span style="font-size: 15px; color: #666666;">- Analyzed **connectivity** and **traffic volume**, identifying key areas.  
    <span style="font-size: 15px; color: #666666;">- Identified **urban functionality** through the relationship between streets and buildings.
    <span style="font-size: 15px; color: #666666;">- Visualized **street orientation** and street geometry in ancient and hesitant area.
+   
    <span style="font-size: 15px; color: #666666;">- pedestrian **accessibility** issues due to **inadequate** crossings.
    
-2. <span style="font-size: 20px; color: black;">**🌡️ Climate & Natural Hazard Analysis**  
-   - visualized **Land Surface Temperature (LST)** and improved the scaling of multiple observation maps.  
-   - visualized **air pollution** to identify environmental risks.  
-   - visualized **flood vulnerability** to evaluate risks and assist in disaster preparedness.
+3. <span style="font-size: 20px; color: black;">**🌡️ Climate & Natural Hazard Analysis**  
+   <span style="font-size: 15px; color: #666666;">- visualized **Land Surface Temperature (LST)** and improved the scaling of multiple observation maps.  
+   <span style="font-size: 15px; color: #666666;">- visualized **air pollution** to identify environmental risks.  
+   <span style="font-size: 15px; color: #666666;">- visualized **flood vulnerability** to evaluate risks and assist in disaster preparedness.
 
-3. <span style="font-size: 20px; color: black;">**🏙️ Urban & GeoSpatial Data Science**  
-   - Applied **NDVI**, **NDBI**, and **land cover classification** to assess **land use** and **environmental health**.  
-   - Predicted **land use patterns** using **deep learning** and **machine learning techniques**.  
-   - Developed **3D models** to visualize **building density** and infrastructure, providing insights into walkability and vehicular access.
+4. <span style="font-size: 20px; color: black;">**🏙️ Urban & GeoSpatial Data Science**  
+   <span style="font-size: 15px; color: #666666;">- Applied **NDVI**, **NDBI**, and **land cover classification** to assess **land use** and **environmental health**.  
+   <span style="font-size: 15px; color: #666666;">- Predicted **land use patterns** using **deep learning** and **machine learning techniques**.  
+   <span style="font-size: 15px; color: #666666;">- Developed **3D models** to visualize **building density** and infrastructure, providing insights into walkability and vehicular access.
    - Conducted a comprehensive **site selection analysis** for **residential construction**, considering critical factors such as elevation, slope, proximity to urban areas, roads, power network, and rivers; applied a weighted binary comparison matrix to identify and select the most suitable sites for development.
    -  visualized the **spread of COVID-19** in various regions of Iran over several weeks.
 
-4. <span style="font-size: 20px; color: black;">**🚗 Agent-Based Modeling**  
+5. <span style="font-size: 20px; color: black;">**🚗 Agent-Based Modeling**  
    - Developed models for **traffic flow**.  
    - Created **flood simulations** to assess evacuation strategies during floods.
 
