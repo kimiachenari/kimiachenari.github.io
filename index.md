@@ -26,7 +26,8 @@ Welcome! I'm a spatial data scientist focused on leveraging data-driven insights
    - Analyzed **connectivity** and **traffic volume**, identifying **key areas**.  
    - Identified **urban functionality** through the relationship between **streets** and **buildings**.
    - Visualized street orientation and street geometry in ancient and hesitant area.
-
+   - pedestrian **accessibility** issues due to **inadequate** crossings.
+   
 2. **🌡️ Climate & Natural Hazard Analysis**  
    - visualized **Land Surface Temperature (LST)** and improved the scaling of multiple **observation maps**.  
    - visualized **air pollution** to identify **environmental risks**.  
@@ -36,7 +37,6 @@ Welcome! I'm a spatial data scientist focused on leveraging data-driven insights
    - Applied **NDVI**, **NDBI**, and **land cover classification** to assess **land use** and **environmental health**.  
    - Predicted **land use patterns** using **deep learning** and **machine learning techniques**.  
    - Developed **3D models** to visualize **building density** and **infrastructure**, providing insights into **walkability** and **vehicular access**.
-   - pedestrian **accessibility** issues due to **inadequate** crossings.
    - Conducted a comprehensive **site selection analysis** for **residential construction**, considering critical factors such as **elevation**, **slope**, **proximity to urban areas**, **roads**, **power networks**, and **rivers**; applied a **weighted binary comparison matrix** to identify and select the most suitable **sites for development**.
    -  visualized the spread of COVID-19 in various regions of Iran over several weeks.
 
@@ -47,7 +47,7 @@ Welcome! I'm a spatial data scientist focused on leveraging data-driven insights
 ## **📊 Data Science**
 
 1. **🤖 Machine Learning & Forecasting**  
-   - Built and applied **time series models** to improve **forecasting accuracy**.  
+   - Built and applied **time series models** to improve **forecasting accuracy** with a global scale dataset.  
    - Enhanced **regression time series predictions** using **Holt-Winters’ multiplicative smoothing**.  
    - Improved **ARIMA time series predictions** by incorporating **external variables**.
 
