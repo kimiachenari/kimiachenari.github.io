@@ -11,7 +11,9 @@ Welcome! I'm a spatial data scientist focused on leveraging data-driven insights
 - **Spatial Analysis Software**: QGIS, ArcGIS (6 years of experience)
 - 
 ---
+
 ![vid](https://github.com/user-attachments/assets/60ab2699-28fe-4929-8964-6b86264e35c3)
+
 ---
 
 ## **🌍 Spatial Analysis & Remote Sensing**
