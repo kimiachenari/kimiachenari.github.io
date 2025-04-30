@@ -1,6 +1,6 @@
 # 🌍 Geospatial analyzer & Data scientist
 
-Welcome! I'm a spatial data scientist focused on leveraging data-driven insights for understanding Geospatial & Remote sensing analysis, Climate Mitigation, Natural Hazard managements, Street Network Analysis, Urban Modeling and Simulation, Big data science, Machine learning With expertise in **Street Network analysis**, **Big Data Analytics**, **Time Series Forecasting**, **Machine Learning**, and **Geospatial Analysis**, I work at the intersection of technology and real-world impact.
+Welcome! I'm a urban planner focused on leveraging data-driven insights With expertise in **Street Network analysis**, **Big Data Analytics**, **Time Series Forecasting**, **Machine Learning**, and **Geospatial Analysis**.
 
 ## 🔧 **Tools**
 
