@@ -7,8 +7,8 @@ Welcome! I'm a spatial data scientist focused on leveraging data-driven insights
 ## 🔧 **Tools**
 
 - **Data Science Tools**: Python, R, SQL (4 years of experience)  
-- **Spatial Analysis - Open-Source Tools**: Google Earth Engine, Python, R (4 years of experience)  
-- **Spatial Analysis Software**: QGIS, ArcGIS (6 years of experience)
+- **Goespatial Analysis - Open-Source Tools**: Google Earth Engine, Python, R (4 years of experience)  
+- **Geospatial Analysis Software**: QGIS, ArcGIS (6 years of experience)
 
 ---
 
@@ -25,6 +25,7 @@ Welcome! I'm a spatial data scientist focused on leveraging data-driven insights
    - Utilized **Python’s multi-processing techniques** to optimize performance in large-scale **network analysis**.  
    - Analyzed **connectivity** and **traffic volume**, identifying **key areas**.  
    - Identified **urban functionality** through the relationship between **streets** and **buildings**.
+   - Visualized street orientation and street geometry in ancient and hesitant area.
 
 2. **🌡️ Climate & Natural Hazard Analysis**  
    - visualized **Land Surface Temperature (LST)** and improved the scaling of multiple **observation maps**.  
