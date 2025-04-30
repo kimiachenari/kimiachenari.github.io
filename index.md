@@ -1,4 +1,3 @@
-# 🌍 Geospatial analyzer & Data scientist
 
 Welcome! I'm a urban planner focused on leveraging data-driven insights With expertise in **Street Network analysis**, **Big Data Analytics**, **Time Series Forecasting**, **Machine Learning**, and **Geospatial Analysis**.
 
