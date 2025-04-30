@@ -24,30 +24,30 @@ Welcome! I'm a urban planner focused on leveraging data-driven insights With exp
    - Visualized **street orientation** and street geometry in ancient and hesitant area.
    - pedestrian **accessibility** issues due to **inadequate** crossings.
    
-2. **🌡️ Climate & Natural Hazard Analysis**  
+2. <span style="font-size: 20px; color: black;">**🌡️ Climate & Natural Hazard Analysis**  
    - visualized **Land Surface Temperature (LST)** and improved the scaling of multiple observation maps.  
    - visualized **air pollution** to identify environmental risks.  
    - visualized **flood vulnerability** to evaluate risks and assist in disaster preparedness.
 
-3. **🏙️ Urban & GeoSpatial Data Science**  
+3. <span style="font-size: 20px; color: black;">**🏙️ Urban & GeoSpatial Data Science**  
    - Applied **NDVI**, **NDBI**, and **land cover classification** to assess **land use** and **environmental health**.  
    - Predicted **land use patterns** using **deep learning** and **machine learning techniques**.  
    - Developed **3D models** to visualize **building density** and infrastructure, providing insights into walkability and vehicular access.
    - Conducted a comprehensive **site selection analysis** for **residential construction**, considering critical factors such as elevation, slope, proximity to urban areas, roads, power network, and rivers; applied a weighted binary comparison matrix to identify and select the most suitable sites for development.
    -  visualized the **spread of COVID-19** in various regions of Iran over several weeks.
 
-4. **🚗 Agent-Based Modeling**  
+4. <span style="font-size: 20px; color: black;">**🚗 Agent-Based Modeling**  
    - Developed models for **traffic flow**.  
    - Created **flood simulations** to assess evacuation strategies during floods.
 
 ## **📊 Data Science**
 
-1. **🤖 Machine Learning & Forecasting**  
+1. <span style="font-size: 20px; color: black;">**🤖 Machine Learning & Forecasting**  
    - Built and applied **time series models** to improve **forecasting accuracy** with a global scale dataset.  
    - Enhanced **regression** time series predictions using **Holt-Winters’ multiplicative smoothing**.  
    - Improved **ARIMA** time series predictions by incorporating **external variables**.
 
-2. **💾 Big Data Management**  
+2. <span style="font-size: 20px; color: black;">**💾 Big Data Management**  
    - Managed and predicted outcomes using **real-world datasets** with numerous columns and limited rows.  
    - Preprocessed, cleaned, and handled **large datasets**, ensuring data integrity for analysis.  
    - Identified and analyzed **interconnections** across diverse data types.  
