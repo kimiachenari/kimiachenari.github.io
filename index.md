@@ -1,14 +1,17 @@
 
-Welcome! I'm an urban planner focused on leveraging data-driven insights With expertise in **Street Network analysis**, **Big Data Analytics**, **Time Series Forecasting**, **Machine Learning**, and **Geospatial Analysis**.
+<span style="font-size: 15px; color: #666666;">
+    Welcome! I'm an urban planner focused on leveraging data-driven insights with expertise in **Street Network analysis**, **Big Data Analytics**, **Time Series Forecasting**, **Machine Learning**, and **Geospatial Analysis**.
+</span>
+
 
 ---
 
 ## **Tools**
-
-- **Data Science Tools**: Python, R (4 years of experience), SQL (1 years of experience)  
-- **Goespatial Analysis - Open-Source Tools**: Google Earth Engine, Python, R (4 years of experience)  
-- **Geospatial Analysis Software**: QGIS, ArcGIS (6 years of experience)
-
+<span style="font-size: 15px; color: #666666;">
+    - **Data Science Tools**: Python, R (4 years of experience), SQL (1 year of experience)  
+    - **Geospatial Analysis - Open-Source Tools**: Google Earth Engine, Python, R (4 years of experience)  
+    - **Geospatial Analysis Software**: QGIS, ArcGIS (6 years of experience)
+</span>
 ---
 
 ![vid](https://github.com/user-attachments/assets/60ab2699-28fe-4929-8964-6b86264e35c3)
