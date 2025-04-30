@@ -2,6 +2,8 @@
 
 Welcome! I'm a urban planner focused on leveraging data-driven insights With expertise in **Street Network analysis**, **Big Data Analytics**, **Time Series Forecasting**, **Machine Learning**, and **Geospatial Analysis**.
 
+---
+
 ## 🔧 **Tools**
 
 - **Data Science Tools**: Python, R (4 years of experience), SQL (1 years of experience)  
@@ -16,7 +18,7 @@ Welcome! I'm a urban planner focused on leveraging data-driven insights With exp
 ---
 
 ## 🔧 **Skills**
-<span style="font-size: 24px; color: black;">## **🌍 Spatial Analysis & Remote Sensing**
+<span style="font-size: 24px; color: blue;"> **🌍 Spatial Analysis & Remote Sensing**
 
 1. <span style="font-size: 20px; color: black;">**🗺️Street Network Analysis**  
    - Analyzed **street patterns** and assessed **street forms** that influence **surface temperature**.  
