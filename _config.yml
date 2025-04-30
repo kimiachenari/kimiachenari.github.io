@@ -6,7 +6,7 @@ plugins:
 
 /* Change text color to blue and font size */
 body {
-    font-family: 'Arial', sans-serif; /* Specify the font family */
+    font-family: 'Times New Roman', sans-serif; /* Specify the font family */
     font-size: 16px; /* Set the base font size */
     color: #333333; /* Set the text color */
 }
