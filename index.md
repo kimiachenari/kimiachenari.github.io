@@ -37,6 +37,7 @@ Welcome! I'm a spatial data scientist focused on leveraging data-driven insights
    - Developed **3D models** to visualize **building density** and **infrastructure**, providing insights into **walkability** and **vehicular access**.
    - pedestrian **accessibility** issues due to **inadequate** crossings.
    - Conducted a comprehensive **site selection analysis** for **residential construction**, considering critical factors such as **elevation**, **slope**, **proximity to urban areas**, **roads**, **power networks**, and **rivers**; applied a **weighted binary comparison matrix** to identify and select the most suitable **sites for development**.
+   -  visualized the spread of COVID-19 in various regions of Iran over several weeks.
 
 4. **🚗 Agent-Based Modeling**  
    - Developed models for **traffic flow**.  
