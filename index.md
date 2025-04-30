@@ -57,6 +57,26 @@ Welcome! I'm a spatial data scientist focused on leveraging data-driven insights
 ---
 
 
+## **🌍 Spatial Analysis & Remote Sensing**
+
+1. **🗺️ _Network Mapping_**  
+   - Analyzed **_street patterns_** and assessed **_street forms_** that influence **surface temperature**.  
+   - Utilized `Python`’s multi-processing techniques to optimize performance in large-scale **network analysis**.  
+   - Analyzed **connectivity** and **traffic volume**, identifying **key areas**.  
+   - Identified **urban functionality** through the relationship between **streets** and **buildings**.
+
+2. **🌡️ _Climate & Natural Hazard Mapping_**  
+   - Mapped **Land Surface Temperature (LST)** and improved the scaling of multiple **observation maps**.  
+   - Mapped **air pollution** to identify **environmental risks**.  
+   - Conducted **natural hazard mapping** to evaluate **risks** and assist in **disaster preparedness**.
+
+3. **🏙️ _Urban & Spatial Mapping_**  
+   - Applied **NDVI**, **NDBI**, and **land cover classification** to assess **land use** and **environmental health**.  
+   - Predicted **land use patterns** using **deep learning** and **machine learning techniques**.  
+   - Developed **3D models** to visualize **building density** and **infrastructure**, providing insights into **walkability** and **vehicular access**.
+   - Conducted a comprehensive **site selection analysis** for **residential construction**, considering critical factors such as **elevation**, **slope**, **proximity to urban areas**, **roads**, **power networks**, and **rivers**; applied a **weighted binary comparison matrix** to identify and select the most suitable **sites for development**.
+
+
 ## 🔍 Current Interests
 
 - AI for Disaster Preparedness & Resilient Infrastructure  
