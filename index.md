@@ -29,22 +29,41 @@ Sure! Here's a more polished version of your tools section:
 
 ![vid](https://github.com/user-attachments/assets/60ab2699-28fe-4929-8964-6b86264e35c3)
 
-
 ---
 
 ## **Spatial Analysis & Remote Sensing**
 
-- **Network Mapping**: Street pattern analysis, street form assessment
-- **Agent-Based Modeling**: Traffic flow modeling, flood simulation
-- **Climate Mapping**: Land Surface Temperature (LST), air pollution analysis
-- **Urban & Spatial Mapping**: NDVI, NDBI, land cover classification, land-use prediction using deep learning and machine learning, natural hazard mapping
+1. **Network Mapping**: 
+   - Analyzed street patterns and assessed street forms, identifying key factors like street straightness and proximity that influence surface temperature.
+   - Utilized Python’s multi-processing techniques to optimize performance in large-scale network analysis.
+  
+2. **Agent-Based Modeling**: 
+   - Developed models for traffic flow.
+   - Created flood simulations to assess evacuation strategies during floods.
+  
+3. **Climate Mapping**: 
+   - Mapped Land Surface Temperature (LST) and improved the scaling of multiple observation maps.
+   - Mapped air pollution to identify environmental risks.
+  
+4. **Urban & Spatial Mapping**: 
+   - Applied NDVI, NDBI, and land cover classification to assess land use and environmental health.
+   - Predicted land use patterns using deep learning and machine learning techniques.
+   - Conducted natural hazard mapping to evaluate risks and assist in disaster preparedness.
 
 ---
 
 ## **Data Science**
 
-- **Machine Learning & Forecasting**: Time Series Models
-- **Big Data Management**: Data preprocessing, cleaning, and forecasting, with a focus on identifying interconnections in both large and small datasets
+1. **Machine Learning & Forecasting**: 
+   - Built and applied time series models to improve forecasting accuracy.
+   - Enhanced regression time series prediction using Holt-Winters’ multiplicative smoothing.
+   - Improved ARIMA time series predictions by incorporating external variables.
+
+2. **Big Data Management**: 
+   - Managed and predicted outcomes using small datasets with numerous columns and limited rows.
+   - Preprocessed, cleaned, and handled large datasets, ensuring data integrity for analysis.
+   - Identified and analyzed interconnections across diverse data types.
+   - Developed optimal strategies for forecasting large datasets with numerous columns and limited rows, addressing real-world challenges like missing data and inconsistencies.
 
 ---
 
