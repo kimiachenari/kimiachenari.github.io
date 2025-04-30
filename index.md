@@ -1,5 +1,5 @@
 
-Welcome! I'm Kimia chenary, an urban planner focused on leveraging data-driven insights With expertise in **Street Network analysis**, **Big Data Analytics**, **Time Series Forecasting**, **Machine Learning**, and **Geospatial Analysis**.
+Welcome! I'm an urban planner focused on leveraging data-driven insights With expertise in **Street Network analysis**, **Big Data Analytics**, **Time Series Forecasting**, **Machine Learning**, and **Geospatial Analysis**.
 
 ---
 
