@@ -27,12 +27,12 @@
 <span style="font-size: 15px; color: #666666;">- Addressed pedestrian **accessibility** issues due to **inadequate** crossings.</span>
 
    
-3. <span style="font-size: 20px; color: black;">**🌡️ Climate & Natural Hazard Analysis**  
+3. <span style="font-size: 20px; color: #333333;">**🌡️ Climate & Natural Hazard Analysis**  
    <span style="font-size: 15px; color: #666666;">- visualized **Land Surface Temperature (LST)** and improved the scaling of multiple observation maps.  
    <span style="font-size: 15px; color: #666666;">- visualized **air pollution** to identify environmental risks.  
    <span style="font-size: 15px; color: #666666;">- visualized **flood vulnerability** to evaluate risks and assist in disaster preparedness.
 
-4. <span style="font-size: 20px; color: black;">**🏙️ Urban & GeoSpatial Data Science**  
+4. <span style="font-size: 20px; color: #333333;">**🏙️ Urban & GeoSpatial Data Science**  
 <span style="font-size: 15px; color: #666666;">- Applied **NDVI**, **NDBI**, and **land cover classification** to assess **land use** and **environmental health**.</span>  
 <span style="font-size: 15px; color: #666666;">- Predicted **land use patterns** using **deep learning** and **machine learning techniques**.</span>  
 <span style="font-size: 15px; color: #666666;">- Developed **3D models** to visualize **building density** and infrastructure, providing insights into walkability and vehicular access.</span>  
@@ -40,18 +40,18 @@
 <span style="font-size: 15px; color: #666666;">- Visualized the **spread of COVID-19** in various regions of Iran over several weeks.</span>
 
 
-5. <span style="font-size: 20px; color: black;">**🚗 Agent-Based Modeling**  
+5. <span style="font-size: 20px; color: #333333;">**🚗 Agent-Based Modeling**  
    <span style="font-size: 15px; color: #666666;">- Developed models for **traffic flow**.  
    <span style="font-size: 15px; color: #666666;">- Created **flood simulations** to assess evacuation strategies during floods.
 
 ## **📊 Data Science**
 
-1. <span style="font-size: 20px; color: black;">**🤖 Machine Learning & Forecasting**  
+1. <span style="font-size: 20px; color: #333333;">**🤖 Machine Learning & Forecasting**  
    <span style="font-size: 15px; color: #666666;">- Built and applied **time series models** to improve **forecasting accuracy** with a global scale dataset.  
    <span style="font-size: 15px; color: #666666;">- Enhanced **regression** time series predictions using **Holt-Winters’ multiplicative smoothing**.  
    <span style="font-size: 15px; color: #666666;">- Improved **ARIMA** time series predictions by incorporating **external variables**.
 
-2. <span style="font-size: 20px; color: black;">**💾 Big Data Management**  
+2. <span style="font-size: 20px; color: #333333;">**💾 Big Data Management**  
    <span style="font-size: 15px; color: #666666;">- Managed and predicted outcomes using **real-world datasets** with numerous columns and limited rows.  
    <span style="font-size: 15px; color: #666666;">- Preprocessed, cleaned, and handled **large datasets**, ensuring data integrity for analysis.  
    <span style="font-size: 15px; color: #666666;">- Identified and analyzed **interconnections** across diverse data types.  
