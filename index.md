@@ -41,21 +41,21 @@
 
 
 5. <span style="font-size: 20px; color: black;">**🚗 Agent-Based Modeling**  
-   - Developed models for **traffic flow**.  
-   - Created **flood simulations** to assess evacuation strategies during floods.
+   <span style="font-size: 15px; color: #666666;">- Developed models for **traffic flow**.  
+   <span style="font-size: 15px; color: #666666;">- Created **flood simulations** to assess evacuation strategies during floods.
 
 ## **📊 Data Science**
 
 1. <span style="font-size: 20px; color: black;">**🤖 Machine Learning & Forecasting**  
-   - Built and applied **time series models** to improve **forecasting accuracy** with a global scale dataset.  
-   - Enhanced **regression** time series predictions using **Holt-Winters’ multiplicative smoothing**.  
-   - Improved **ARIMA** time series predictions by incorporating **external variables**.
+   <span style="font-size: 15px; color: #666666;">- Built and applied **time series models** to improve **forecasting accuracy** with a global scale dataset.  
+   <span style="font-size: 15px; color: #666666;">- Enhanced **regression** time series predictions using **Holt-Winters’ multiplicative smoothing**.  
+   <span style="font-size: 15px; color: #666666;">- Improved **ARIMA** time series predictions by incorporating **external variables**.
 
 2. <span style="font-size: 20px; color: black;">**💾 Big Data Management**  
-   - Managed and predicted outcomes using **real-world datasets** with numerous columns and limited rows.  
-   - Preprocessed, cleaned, and handled **large datasets**, ensuring data integrity for analysis.  
-   - Identified and analyzed **interconnections** across diverse data types.  
-   - Developed optimal strategies for forecasting **large datasets**, addressing real-world challenges like **missing data** and **inconsistencies**.
+   <span style="font-size: 15px; color: #666666;">- Managed and predicted outcomes using **real-world datasets** with numerous columns and limited rows.  
+   <span style="font-size: 15px; color: #666666;">- Preprocessed, cleaned, and handled **large datasets**, ensuring data integrity for analysis.  
+   <span style="font-size: 15px; color: #666666;">- Identified and analyzed **interconnections** across diverse data types.  
+   <span style="font-size: 15px; color: #666666;">- Developed optimal strategies for forecasting **large datasets**, addressing real-world challenges like **missing data** and **inconsistencies**.
 
 ---
 
