@@ -3,7 +3,7 @@ Welcome! I'm an urban planner focused on leveraging data-driven insights With ex
 
 ---
 
-## 🔧 **Tools**
+## **Tools**
 
 - **Data Science Tools**: Python, R (4 years of experience), SQL (1 years of experience)  
 - **Goespatial Analysis - Open-Source Tools**: Google Earth Engine, Python, R (4 years of experience)  
@@ -16,7 +16,7 @@ Welcome! I'm an urban planner focused on leveraging data-driven insights With ex
 
 ---
 
-## 🔧 **Skills**
+## **Skills**
 <span style="font-size: 24px; color: black;"> **🌍 Spatial Analysis & Remote Sensing**
 1. <span style="font-size: 20px; color: black;">**🗺️Street Network Analysis**  
    <span style="font-size: 15px; color: black;">- Analyzed **street patterns** and assessed **street forms** that influence **surface temperature**.  
