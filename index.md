@@ -48,6 +48,7 @@ Welcome! I'm a spatial data scientist focused on leveraging data-driven insights
    - Preprocessed, cleaned, and handled large datasets, ensuring data integrity for analysis.
    - Identified and analyzed interconnections across diverse data types.
    - Developed optimal strategies for forecasting large datasets with numerous columns and limited rows, addressing real-world challenges like missing data and inconsistencies.
+   
 ---
 
 ## 🔍 Current Interests
