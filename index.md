@@ -19,7 +19,7 @@
 
 
 ## **Skills**
-<span style="font-size: 24px; color: black;"> **🌍 Spatial Analysis & Remote Sensing**
+## **🌍 Spatial Analysis & Remote Sensing**
 1. <span style="font-size: 20px; color: #333333;">**🗺️Street Network Analysis**  
 <span style="font-size: 15px; color: #666666;">- Analyzed **street patterns** and assessed **street forms** that influence **surface temperature**.</span>  
 <span style="font-size: 15px; color: #666666;">- Analyzed **connectivity** and **traffic volume**, identifying key areas.</span>  
