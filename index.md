@@ -32,11 +32,12 @@ Welcome! I'm an urban planner focused on leveraging data-driven insights With ex
    <span style="font-size: 15px; color: #666666;">- visualized **flood vulnerability** to evaluate risks and assist in disaster preparedness.
 
 4. <span style="font-size: 20px; color: black;">**🏙️ Urban & GeoSpatial Data Science**  
-   <span style="font-size: 15px; color: #666666;">- Applied **NDVI**, **NDBI**, and **land cover classification** to assess **land use** and **environmental health**.  
-   <span style="font-size: 15px; color: #666666;">- Predicted **land use patterns** using **deep learning** and **machine learning techniques**.  
-   <span style="font-size: 15px; color: #666666;">- Developed **3D models** to visualize **building density** and infrastructure, providing insights into walkability and vehicular access.
-   - Conducted a comprehensive **site selection analysis** for **residential construction**, considering critical factors such as elevation, slope, proximity to urban areas, roads, power network, and rivers; applied a weighted binary comparison matrix to identify and select the most suitable sites for development.
-   -  visualized the **spread of COVID-19** in various regions of Iran over several weeks.
+<span style="font-size: 15px; color: #666666;">- Applied **NDVI**, **NDBI**, and **land cover classification** to assess **land use** and **environmental health**.</span>  
+<span style="font-size: 15px; color: #666666;">- Predicted **land use patterns** using **deep learning** and **machine learning techniques**.</span>  
+<span style="font-size: 15px; color: #666666;">- Developed **3D models** to visualize **building density** and infrastructure, providing insights into walkability and vehicular access.</span>  
+<span style="font-size: 15px; color: #666666;">- Conducted a comprehensive **site selection analysis** for **residential construction**, considering critical factors such as elevation, slope, proximity to urban areas, roads, power network, and rivers; applied a weighted binary comparison matrix to identify and select the most suitable sites for development.</span>  
+<span style="font-size: 15px; color: #666666;">- Visualized the **spread of COVID-19** in various regions of Iran over several weeks.</span>
+
 
 5. <span style="font-size: 20px; color: black;">**🚗 Agent-Based Modeling**  
    - Developed models for **traffic flow**.  
