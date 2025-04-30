@@ -13,7 +13,46 @@ Welcome! I'm a spatial data scientist focused on leveraging data-driven insights
 ---
 ![vid](https://github.com/user-attachments/assets/60ab2699-28fe-4929-8964-6b86264e35c3)
 ---
+Certainly! Here's a more visually appealing version for your GitHub profile with improved formatting and clean structure:
 
+---
+
+## **🌍 Spatial Analysis & Remote Sensing**
+
+1. **🗺️ Network Mapping**  
+   - Analyzed street patterns and assessed street forms, identifying key factors like street straightness and proximity that influence surface temperature.  
+   - Leveraged Python’s multi-processing techniques to optimize performance in large-scale network analysis.
+  
+2. **🚗 Agent-Based Modeling**  
+   - Developed models for traffic flow and created flood simulations to assess evacuation strategies during floods.
+  
+3. **🌡️ Climate Mapping**  
+   - Mapped Land Surface Temperature (LST) and improved the scaling of multiple observation maps.  
+   - Mapped air pollution to identify environmental risks and support urban planning.
+
+4. **🏙️ Urban & Spatial Mapping**  
+   - Applied NDVI, NDBI, and land cover classification to assess land use and environmental health.  
+   - Predicted land use patterns using deep learning and machine learning techniques.  
+   - Conducted natural hazard mapping to evaluate risks and improve disaster preparedness.
+
+---
+
+## **📊 Data Science**
+
+1. **🤖 Machine Learning & Forecasting**  
+   - Built and applied time series models to improve forecasting accuracy.  
+   - Enhanced regression time series predictions using Holt-Winters’ multiplicative smoothing.  
+   - Improved ARIMA time series predictions by incorporating external variables.
+
+2. **💾 Big Data Management**  
+   - Managed and predicted outcomes using small datasets with numerous columns and limited rows.  
+   - Preprocessed, cleaned, and handled large datasets, ensuring data integrity for in-depth analysis.  
+   - Identified and analyzed interconnections across diverse data types.  
+   - Developed strategies for forecasting large datasets with many columns and limited rows, addressing challenges like missing data and inconsistencies.
+
+---
+
+This version utilizes **icons**, **bold headings**, and **emojis** to break down the sections visually, making it more attractive and easier to navigate on GitHub. Let me know if you’d like to make any more adjustments!
 ## 🔧 Skills
 ## **Spatial Analysis & Remote Sensing**
 
