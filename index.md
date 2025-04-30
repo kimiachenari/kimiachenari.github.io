@@ -12,7 +12,6 @@ Welcome! I'm a urban planner focused on leveraging data-driven insights With exp
 
 ---
 
-![vid](https://github.com/user-attachments/assets/60ab2699-28fe-4929-8964-6b86264e35c3)
 
 
 ---
