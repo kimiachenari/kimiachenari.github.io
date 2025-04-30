@@ -17,11 +17,11 @@ Welcome! I'm a urban planner focused on leveraging data-driven insights With exp
 
 ## **🌍 Spatial Analysis & Remote Sensing**
 
-1. **🗺️ Street Network Analysis**  
+1. **🗺️<span style="font-size: 14px">Street Network Analysis**  
    - Analyzed **street patterns** and assessed **street forms** that influence **surface temperature**.  
    - Analyzed **connectivity** and **traffic volume**, identifying key areas.  
    - Identified **urban functionality** through the relationship between streets and buildings.
-   - Visualized street orientation and street geometry in ancient and hesitant area.
+   - Visualized **street orientation** and street geometry in ancient and hesitant area.
    - pedestrian **accessibility** issues due to **inadequate** crossings.
    
 2. **🌡️ Climate & Natural Hazard Analysis**  
