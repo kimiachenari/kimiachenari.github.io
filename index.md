@@ -9,6 +9,7 @@ Welcome! I'm a spatial data scientist focused on leveraging data-driven insights
 - **Data Science Tools**: Python, R, SQL (4 years of experience)  
 - **Spatial Analysis - Open-Source Tools**: Google Earth Engine, Python, R (4 years of experience)  
 - **Spatial Analysis Software**: QGIS, ArcGIS (6 years of experience)
+
 ---
 
 ![vid](https://github.com/user-attachments/assets/60ab2699-28fe-4929-8964-6b86264e35c3)
