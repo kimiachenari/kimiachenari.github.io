@@ -7,7 +7,7 @@
 ---
 
 ## **Tools**
-    <span style="font-size: 15px; color: #666666;">- **Data Science Tools**: Python, R (4 years of experience), SQL (1 year of experience)  
+<span style="font-size: 15px; color: #666666;">- **Data Science Tools**: Python, R (4 years of experience), SQL (1 year of experience)  
 <span style="font-size: 15px; color: #666666;">- **Geospatial Analysis - Open-Source Tools**: Google Earth Engine, Python, R (4 years of experience)  
 <span style="font-size: 15px; color: #666666;">- **Geospatial Analysis Software**: QGIS, ArcGIS (6 years of experience)
 ---
