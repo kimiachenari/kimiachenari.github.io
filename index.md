@@ -1,5 +1,5 @@
 
-Welcome! I'm a urban planner focused on leveraging data-driven insights With expertise in **Street Network analysis**, **Big Data Analytics**, **Time Series Forecasting**, **Machine Learning**, and **Geospatial Analysis**.
+Welcome! I'm Kimia chenary, an urban planner focused on leveraging data-driven insights With expertise in **Street Network analysis**, **Big Data Analytics**, **Time Series Forecasting**, **Machine Learning**, and **Geospatial Analysis**.
 
 ---
 
@@ -19,7 +19,7 @@ Welcome! I'm a urban planner focused on leveraging data-driven insights With exp
 ## 🔧 **Skills**
 <span style="font-size: 24px; color: black;"> **🌍 Spatial Analysis & Remote Sensing**
 1. <span style="font-size: 20px; color: black;">**🗺️Street Network Analysis**  
-   - Analyzed **street patterns** and assessed **street forms** that influence **surface temperature**.  
+   <span style="font-size: 15px; color: black;">- Analyzed **street patterns** and assessed **street forms** that influence **surface temperature**.  
    - Analyzed **connectivity** and **traffic volume**, identifying key areas.  
    - Identified **urban functionality** through the relationship between streets and buildings.
    - Visualized **street orientation** and street geometry in ancient and hesitant area.
