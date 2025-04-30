@@ -2,27 +2,3 @@ remote_theme: pages-themes/modernist@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
-/* Custom Styles for Text Color, Font Family, and Font Size */
-
-/* Change text color to blue and font size */
-body {
-    font-family: 'Times New Roman', sans-serif; /* Specify the font family */
-    font-size: 7px; /* Set the base font size */
-    color: #333333; /* Set the text color */
-}
-
-/* Example for headings */
-h1, h2, h3, h4, h5, h6 {
-    color: #0056b3; /* Set color for all headers */
-    font-size: 2rem; /* Set larger font size for headers */
-}
-
-/* Example for links */
-a {
-    color: #007bff; /* Link color */
-    text-decoration: none; /* Remove underline */
-}
-
-a:hover {
-    text-decoration: underline; /* Add underline on hover */
-}
