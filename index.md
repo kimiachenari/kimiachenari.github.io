@@ -18,12 +18,12 @@ Welcome! I'm an urban planner focused on leveraging data-driven insights With ex
 
 ## **Skills**
 <span style="font-size: 24px; color: black;"> **🌍 Spatial Analysis & Remote Sensing**
-1. <span style="font-size: 20px; color: #666666;">**🗺️Street Network Analysis**  
-   <span style="font-size: 15px; color:  #333333;">- Analyzed **street patterns** and assessed **street forms** that influence **surface temperature**.  
-   - Analyzed **connectivity** and **traffic volume**, identifying key areas.  
-   - Identified **urban functionality** through the relationship between streets and buildings.
-   - Visualized **street orientation** and street geometry in ancient and hesitant area.
-   - pedestrian **accessibility** issues due to **inadequate** crossings.
+1. <span style="font-size: 20px; color: #333333;">**🗺️Street Network Analysis**  
+   <span style="font-size: 15px; color: #666666;">- Analyzed **street patterns** and assessed **street forms** that influence **surface temperature**.  
+   <span style="font-size: 15px; color: #666666;">- Analyzed **connectivity** and **traffic volume**, identifying key areas.  
+   <span style="font-size: 15px; color: #666666;">- Identified **urban functionality** through the relationship between streets and buildings.
+   <span style="font-size: 15px; color: #666666;">- Visualized **street orientation** and street geometry in ancient and hesitant area.
+   <span style="font-size: 15px; color: #666666;">- pedestrian **accessibility** issues due to **inadequate** crossings.
    
 2. <span style="font-size: 20px; color: black;">**🌡️ Climate & Natural Hazard Analysis**  
    - visualized **Land Surface Temperature (LST)** and improved the scaling of multiple observation maps.  
