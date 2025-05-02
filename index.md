@@ -87,21 +87,39 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HTML Image Map Example</title>
+    <title>Interactive World Map</title>
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    
+    <style>
+        #map {
+            height: 100vh;
+        }
+    </style>
 </head>
 <body>
-    <h1>Clickable Image Map</h1>
-    
-    <img src="your-image.jpg" usemap="#image-map" alt="Map Image" width="600" height="400">
+    <div id="map"></div>
 
-    <map name="image-map">
-        <area shape="rect" coords="34,44,270,350" alt="Home" href="https://example.com/home" />
-        <area shape="circle" coords="400,150,50" alt="Contact" href="https://example.com/contact" />
-        <area shape="poly" coords="500,200,600,220,570,300,520,290" alt="About" href="https://example.com/about" />
-    </map>
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 
+    <script>
+        // Initialize the map and set its view to the geographical center of the world
+        var map = L.map('map').setView([0, 0], 2);  // Latitude: 0, Longitude: 0, Zoom level: 2
+
+        // Add OpenStreetMap tile layer
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+        
+        // You can add markers to the map
+        var marker = L.marker([51.5, -0.09]).addTo(map);
+        marker.bindPopup("<b>Hello world!</b><br>I am a popup.").openPopup();
+    </script>
 </body>
 </html>
+
 
 
 ---
