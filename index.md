@@ -119,17 +119,18 @@
             attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         }).addTo(map);
 
-        // Add marker for Australia
-        var markerAustralia = L.marker([25.2744, 133.7751]).addTo(map); // Australia coordinates
-        markerAustralia.bindPopup("<b>Australia</b><br>Welcome to Australia!");
+        // Add marker for Australia (Correct coordinates)
+        var markerAustralia = L.marker([-24.357355, 140.187420]).addTo(map); // Australia coordinates
+        markerAustralia.bindPopup("<b>Australia</b><br>This is Australia!");
 
-        // Add marker for New Zealand
-        var markerNewZealand = L.marker([40.9006, 174.8869]).addTo(map); // New Zealand coordinates
-        markerNewZealand.bindPopup("<b>New Zealand</b><br>Welcome to New Zealand!");
+        // Add marker for New Zealand (Correct coordinates)
+        var markerNewZealand = L.marker([-44.719250, 170.039250]).addTo(map); // New Zealand coordinates
+        markerNewZealand.bindPopup("<b>New Zealand</b><br>This is New Zealand!");
     </script>
 
 </body>
 </html>
+
 
 
 
