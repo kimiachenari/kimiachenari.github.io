@@ -21,7 +21,7 @@
 ## **Skills**
 ## **🌍 Spatial Analysis & Remote Sensing**
 1. <span style="font-size: 20px; color: #333333;">**🗺️Street Network Analysis**  
-<span style="font-size: 15px; color: #666666;">- Analyzed <strong><a href="https://github.com/kimiachenari/Street-Local-Closeness-Centrality" target="_blank">street patterns</a></strong> and assessed <strong>street forms</strong> that influence <strong>surface temperature</strong>..</span> 
+<span style="font-size: 15px; color: #666666;">- Analyzed <strong><a href="https://github.com/kimiachenari/Street-Local-Closeness-Centrality" target="_blank">street patterns</a></strong> and assessed <strong>street forms</strong> that influence <strong>surface temperature</strong>.</span> 
 <span style="font-size: 15px; color: #666666;">- Analyzed <strong>connectivity</strong> and <strong><a href="https://drive.google.com/file/d/1jCpSZJXIlY-nwgJuFbM0bVg_qmiTyci6/view?usp=drive_link" target="_blank">pedestrian accessibility</a></strong>, identifying key areas.</span>  
 <span style="font-size: 15px; color: #666666;">- Identified <strong><a href="https://drive.google.com/file/d/1P1z3yVRvJF-PVSSUbdoa2BHqScWEiLXS/view?usp=drive_link" target="_blank">urban functionality</a></strong> through the relationship between streets and buildings.</span>  
 <span style="font-size: 15px; color: #666666;">- Visualized <strong><a href="https://github.com/kimiachenari/Street-Edge-Bearing" target="_blank">street orientation</a></strong> and street geometry in ancient and hesitant areas.</span>  
