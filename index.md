@@ -57,6 +57,7 @@
    <span style="font-size: 15px; color: #666666;">- Preprocessed, cleaned, and handled **large datasets**, ensuring data integrity for analysis.  
    <span style="font-size: 15px; color: #666666;">- Identified and analyzed **interconnections** across diverse data types.  
    <span style="font-size: 15px; color: #666666;">- Developed optimal strategies for forecasting **large datasets**, addressing real-world challenges like **missing data** and **inconsistencies**.
+Built and applied <strong>time series models</strong> to improve <strong><a href="https://github.com/kimiachenari/Machine-learning-Time-series-models" target="_blank">forecasting accuracy</a></strong> with a global scale dataset.
 
 ---
 
