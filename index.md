@@ -72,10 +72,10 @@
 
 ## 🤝 Let’s Collaborate
 
-I’m always open to research collaborations, innovative projects, or consulting opportunities in the fields of sustainability, spatial analysis, and AI for social good.
+I have had the opportunity to work with experts from Iran, Japan, Australia, and New Zealand. I’m always open to research collaborations, innovative projects, or consulting opportunities. 
 
 📫 **Get in Touch**: [kimiachenary1@gmail.com]  
-🌐 **More**: [Your LinkedIn or personal website]
+🌐 **More**: [www.linkedin.com/in/kimiachenary]
 
 ---
 
