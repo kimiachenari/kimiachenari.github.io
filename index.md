@@ -43,8 +43,9 @@
 
 
 5. <span style="font-size: 20px; color: #333333;">**🚗 Agent-Based Modeling**  
-   <span style="font-size: 15px; color: #666666;">- Developed models for **traffic flow**.  
-   <span style="font-size: 15px; color: #666666;">- Created **flood simulations** to assess evacuation strategies during floods.
+<span style="font-size: 15px; color: #666666;">- Developed models for <strong><a href="https://drive.google.com/file/d/1iWqzuRzhdxCAdTL2YYrFY-OjUfVzf_56/view?usp=drive_link" target="_blank">traffic flow</a></strong>.</span><br>
+<span style="font-size: 15px; color: #666666;">- Created <strong><a href="https://drive.google.com/file/d/1lImpxn-DMrVTXZ1V26Q0K-Np0ZwqIRIy/view?usp=drive_link" target="_blank">flood simulations</a></strong> to assess evacuation strategies during floods.</span>
+
 
 ## **📊 Data Science**
 
