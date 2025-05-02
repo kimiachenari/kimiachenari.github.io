@@ -74,6 +74,9 @@
 
 I have had the opportunity to work with experts from Iran, Japan, Australia, and New Zealand. I’m always open to research collaborations, innovative projects, or consulting opportunities. 
 
+![collabration](https://github.com/user-attachments/assets/6e6440a0-72a6-4285-a5fb-139f925c2376)
+
+
 📫 **Get in Touch**: [kimiachenary1@gmail.com]  
 🌐 **More**: [www.linkedin.com/in/kimiachenary]
 
