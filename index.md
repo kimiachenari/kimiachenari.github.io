@@ -96,9 +96,9 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
 
     <style>
-        /* Ensure the map has a height */
+        /* Make the map container smaller */
         #map {
-            height: 100vh; /* 100% of the viewport height */
+            height: 80vh; /* 80% of the viewport height */
         }
     </style>
 </head>
@@ -111,7 +111,7 @@
     <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 
     <script>
-        // Initialize the map and set its view to the geographical center of the world
+        // Initialize the map with a center and zoom level
         var map = L.map('map').setView([0, 0], 2);  // Latitude: 0, Longitude: 0, Zoom level: 2
 
         // Add OpenStreetMap tile layer
@@ -138,11 +138,22 @@
         // Marker for Belgium
         var markerBelgium = L.marker([50.609892, 5.128422]).addTo(map); 
         markerBelgium.bindPopup("<b>Belgium</b><br>This is Belgium!");
+
+        // Automatically adjust the map's view to fit all markers
+        var bounds = L.latLngBounds([
+            [-44.719250, 170.039250], // New Zealand
+            [-24.357355, 140.187420], // Australia
+            [33.560856, 55.737042],   // Iran
+            [36.000864, 138.739163],  // Japan
+            [50.609892, 5.128422]     // Belgium
+        ]);
+
+        // Use fitBounds to adjust the map to include all markers
+        map.fitBounds(bounds);
     </script>
 
 </body>
 </html>
-
 
 
 
