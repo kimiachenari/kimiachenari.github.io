@@ -66,10 +66,10 @@
 
 ## 🔍 Current Interests
 
-<span style="font-size: 15px; color: #666666;">- Big Data Analytics for Mobility and Health.</span>
-<span style="font-size: 15px; color: #666666;">- Sustainable and Equitable Transportation Solutions.</span>
-<span style="font-size: 15px; color: #666666;">- Socio-Economic Inequalities in Transportation Access.</span>
-<span style="font-size: 15px; color: #666666;">- Geospatial Intelligence for Sustainable Development.</span>
+<span style="font-size: 15px; color: #666666;">- Big Data Analytics for Mobility and Health.</span><br>
+<span style="font-size: 15px; color: #666666;">- Sustainable and Equitable Transportation Solutions.</span><br>
+<span style="font-size: 15px; color: #666666;">- Socio-Economic Inequalities in Transportation Access.</span><br>
+<span style="font-size: 15px; color: #666666;">- Geospatial Intelligence for Sustainable Development.</span><br>
 <span style="font-size: 15px; color: #666666;">- Time Series Analysis of Environmental & Socioeconomic Indicators.</span>
 
 
