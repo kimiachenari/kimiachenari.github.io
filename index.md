@@ -82,23 +82,27 @@
 </div>
 
 
+---
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Interactive World Map</title>
-    
+
     <!-- Leaflet CSS -->
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
-    
+
     <style>
+        /* Ensure the map has a height */
         #map {
-            height: 100vh;
+            height: 100vh; /* 100% of the viewport height */
         }
     </style>
 </head>
 <body>
+
+    <!-- Map container -->
     <div id="map"></div>
 
     <!-- Leaflet JS -->
@@ -112,13 +116,15 @@
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
             attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         }).addTo(map);
-        
-        // You can add markers to the map
-        var marker = L.marker([51.5, -0.09]).addTo(map);
+
+        // You can add a marker to check the functionality
+        var marker = L.marker([51.5, -0.09]).addTo(map); // London coordinates
         marker.bindPopup("<b>Hello world!</b><br>I am a popup.").openPopup();
     </script>
+
 </body>
 </html>
+
 
 
 
