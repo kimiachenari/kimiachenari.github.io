@@ -66,10 +66,12 @@
 
 ## 🔍 Current Interests
 
-- AI for Disaster Preparedness & Resilient Infrastructure  
-- Urban Heat Mitigation in Arid & Semi-Arid Regions  
-- Geospatial Intelligence for Sustainable Development  
-- Time Series Analysis of Environmental & Socioeconomic Indicators  
+<span style="font-size: 15px; color: #666666;">- Big Data Analytics for Mobility and Health
+<span style="font-size: 15px; color: #666666;">- Sustainable and Equitable Transportation Solutions
+<span style="font-size: 15px; color: #666666;">- Socio-Economic Inequalities in Transportation Access
+<span style="font-size: 15px; color: #666666;">- Geospatial Intelligence for Sustainable Development
+<span style="font-size: 15px; color: #666666;">- Time Series Analysis of Environmental & Socioeconomic Indicators  
+
 
 ---
 
@@ -117,9 +119,13 @@
             attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         }).addTo(map);
 
-        // You can add a marker to check the functionality
-        var marker = L.marker([51.5, -0.09]).addTo(map); // London coordinates
-        marker.bindPopup("<b>Hello world!</b><br>I am a popup.").openPopup();
+        // Add marker for Australia
+        var markerAustralia = L.marker([25.2744, 133.7751]).addTo(map); // Australia coordinates
+        markerAustralia.bindPopup("<b>Australia</b><br>Welcome to Australia!");
+
+        // Add marker for New Zealand
+        var markerNewZealand = L.marker([40.9006, 174.8869]).addTo(map); // New Zealand coordinates
+        markerNewZealand.bindPopup("<b>New Zealand</b><br>Welcome to New Zealand!");
     </script>
 
 </body>
