@@ -66,11 +66,11 @@
 
 ## 🔍 Current Interests
 
-<span style="font-size: 15px; color: #666666;">- Big Data Analytics for Mobility and Health
-<span style="font-size: 15px; color: #666666;">- Sustainable and Equitable Transportation Solutions
-<span style="font-size: 15px; color: #666666;">- Socio-Economic Inequalities in Transportation Access
-<span style="font-size: 15px; color: #666666;">- Geospatial Intelligence for Sustainable Development
-<span style="font-size: 15px; color: #666666;">- Time Series Analysis of Environmental & Socioeconomic Indicators  
+<span style="font-size: 15px; color: #666666;">- Big Data Analytics for Mobility and Health.
+<span style="font-size: 15px; color: #666666;">- Sustainable and Equitable Transportation Solutions.
+<span style="font-size: 15px; color: #666666;">- Socio-Economic Inequalities in Transportation Access.
+<span style="font-size: 15px; color: #666666;">- Geospatial Intelligence for Sustainable Development.
+<span style="font-size: 15px; color: #666666;">- Time Series Analysis of Environmental & Socioeconomic Indicators.
 
 
 ---
@@ -119,13 +119,25 @@
             attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         }).addTo(map);
 
-        // Add marker for Australia (Correct coordinates)
-        var markerAustralia = L.marker([-24.357355, 140.187420]).addTo(map); // Australia coordinates
+        // Marker for Australia
+        var markerAustralia = L.marker([-24.357355, 140.187420]).addTo(map); 
         markerAustralia.bindPopup("<b>Australia</b><br>This is Australia!");
 
-        // Add marker for New Zealand (Correct coordinates)
-        var markerNewZealand = L.marker([-44.719250, 170.039250]).addTo(map); // New Zealand coordinates
+        // Marker for New Zealand
+        var markerNewZealand = L.marker([-44.719250, 170.039250]).addTo(map); 
         markerNewZealand.bindPopup("<b>New Zealand</b><br>This is New Zealand!");
+
+        // Marker for Iran
+        var markerIran = L.marker([33.560856, 55.737042]).addTo(map); 
+        markerIran.bindPopup("<b>Iran</b><br>This is Iran!");
+
+        // Marker for Japan
+        var markerJapan = L.marker([36.000864, 138.739163]).addTo(map); 
+        markerJapan.bindPopup("<b>Japan</b><br>This is Japan!");
+
+        // Marker for Belgium
+        var markerBelgium = L.marker([50.609892, 5.128422]).addTo(map); 
+        markerBelgium.bindPopup("<b>Belgium</b><br>This is Belgium!");
     </script>
 
 </body>
