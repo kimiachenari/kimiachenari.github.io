@@ -50,9 +50,10 @@
 ## **📊 Data Science**
 
 1. <span style="font-size: 20px; color: #333333;">**🤖 Machine Learning & Forecasting**  
-   <span style="font-size: 15px; color: #666666;">- Built and applied <strong>time series models</strong> to improve <strong><a href="https://github.com/kimiachenari/Machine-learning-Time-series-models" target="_blank">forecasting accuracy</a></strong> with a global scale dataset.</span><br>
-   <span style="font-size: 15px; color: #666666;">- Enhanced **regression** time series predictions using **Holt-Winters’ multiplicative smoothing**.  
-   <span style="font-size: 15px; color: #666666;">- Improved **ARIMA** time series predictions by incorporating **external variables**.
+ <span style="font-size: 15px; color: #666666;">- Built and applied <strong>time series models</strong> to improve <strong><a href="https://github.com/kimiachenari/Machine-learning-Time-series-models" target="_blank">forecasting accuracy</a></strong> with a global scale dataset.</span><br>
+<span style="font-size: 15px; color: #666666;">- Enhanced <strong>regression</strong> time series predictions using <strong><a href="https://github.com/kimiachenari/Machine-learning-Time-series-models" target="_blank">Holt-Winters’ multiplicative smoothing</a></strong>.</span><br>
+<span style="font-size: 15px; color: #666666;">- Improved <strong>ARIMA</strong> time series predictions by incorporating <strong>external variables</strong>.</span>
+
 
 2. <span style="font-size: 20px; color: #333333;">**💾 Big Data Management**  
    <span style="font-size: 15px; color: #666666;">- Managed and predicted outcomes using **real-world datasets** with numerous columns and limited rows.  
