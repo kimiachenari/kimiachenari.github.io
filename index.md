@@ -75,18 +75,41 @@
 
 ## 🤝 Let’s Collaborate
 
-I have had the opportunity to work with experts from Iran, Japan, Australia, and New Zealand. I’m always open to research collaborations, innovative projects, or consulting opportunities. 
+<span style="font-size: 15px; color: #666666;">I have had the opportunity to work with experts from Iran, Japan, Australia, and New Zealand. I’m always open to research collaborations, innovative projects, or consulting opportunities. 
 
 <div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/6e6440a0-72a6-4285-a5fb-139f925c2376" alt="collaboration" width="500"/>
 </div>
 
 
-📫 **Get in Touch**: [kimiachenary1@gmail.com]  
-🌐 **More**: [www.linkedin.com/in/kimiachenary]
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HTML Image Map Example</title>
+</head>
+<body>
+    <h1>Clickable Image Map</h1>
+    
+    <img src="your-image.jpg" usemap="#image-map" alt="Map Image" width="600" height="400">
+
+    <map name="image-map">
+        <area shape="rect" coords="34,44,270,350" alt="Home" href="https://example.com/home" />
+        <area shape="circle" coords="400,150,50" alt="Contact" href="https://example.com/contact" />
+        <area shape="poly" coords="500,200,600,220,570,300,520,290" alt="About" href="https://example.com/about" />
+    </map>
+
+</body>
+</html>
+
+
+---
+<span style="font-size: 15px; color: #666666;">📫 **Get in Touch**: [kimiachenary1@gmail.com]  
+<span style="font-size: 15px; color: #666666;">🌐 **More**: [www.linkedin.com/in/kimiachenary]
 
 ---
 
-⭐ **Feel free to explore my repositories, and don’t forget to star what inspires you!**
+<span style="font-size: 15px; color: #666666;">⭐ **Feel free to explore my repositories, and don’t forget to star what inspires you!**
 
 
