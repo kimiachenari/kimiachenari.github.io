@@ -56,10 +56,11 @@
 
 
 2. <span style="font-size: 20px; color: #333333;">**💾 Big Data Management**  
-   <span style="font-size: 15px; color: #666666;">- Managed and predicted outcomes using **real-world datasets** with numerous columns and limited rows.  
-   <span style="font-size: 15px; color: #666666;">- Preprocessed, cleaned, and handled **large datasets**, ensuring data integrity for analysis.  
-   <span style="font-size: 15px; color: #666666;">- Identified and analyzed **interconnections** across diverse data types.  
-   <span style="font-size: 15px; color: #666666;">- Developed optimal strategies for forecasting **large datasets**, addressing real-world challenges like **missing data** and **inconsistencies**.
+<span style="font-size: 15px; color: #666666;">- Managed and predicted outcomes using <strong>real-world datasets</strong> with numerous columns and limited rows.</span><br>
+<span style="font-size: 15px; color: #666666;">- Preprocessed, cleaned, and handled <strong><a href="https://github.com/kimiachenari/kimiachenari/tree/main" target="_blank">large datasets</a></strong>, ensuring data integrity for analysis.</span><br>
+<span style="font-size: 15px; color: #666666;">- Identified and analyzed <strong>interconnections</strong> across diverse data types.</span><br>
+<span style="font-size: 15px; color: #666666;">- Developed optimal strategies for forecasting <strong>large datasets</strong>, addressing real-world challenges like <strong>missing data</strong> and <strong>inconsistencies</strong>.</span>
+
 
 
 ---
@@ -75,7 +76,6 @@
 <span style="font-size: 15px; color: #666666;">- Socio-Economic Inequalities in Transportation Access.</span><br>
 <span style="font-size: 15px; color: #666666;">- Geospatial Intelligence for Sustainable Development.</span><br>
 <span style="font-size: 15px; color: #666666;">- Time Series Analysis of Environmental & Socioeconomic Indicators.</span>
-
 
 
 ---
