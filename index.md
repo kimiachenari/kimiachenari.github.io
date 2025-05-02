@@ -121,23 +121,23 @@
 
         // Marker for Australia
         var markerAustralia = L.marker([-24.357355, 140.187420]).addTo(map); 
-        markerAustralia.bindPopup("<b>Australia</b><br>This is Australia!");
+        markerAustralia.bindPopup("<b>Dr. Ali Soltani, Australia</b><br>Street network patterns for mitigating urban heat islands in arid climates");
 
         // Marker for New Zealand
         var markerNewZealand = L.marker([-44.719250, 170.039250]).addTo(map); 
-        markerNewZealand.bindPopup("<b>New Zealand</b><br>This is New Zealand!");
+        markerNewZealand.bindPopup("<b>Dr. Ali GhaffarianHoseini, New Zealand</b><br>Quantitative Impact of Key SDG Indicators on National Sustainability Scores in West Asia: A Comprehensive Analysis");
 
         // Marker for Iran
         var markerIran = L.marker([33.560856, 55.737042]).addTo(map); 
-        markerIran.bindPopup("<b>Iran</b><br>This is Iran!");
+        markerIran.bindPopup("<b>Dr. Ali Asghar Pilehvar, Iran</b><br>I have served as his teaching assistant");
 
         // Marker for Japan
         var markerJapan = L.marker([36.000864, 138.739163]).addTo(map); 
-        markerJapan.bindPopup("<b>Japan</b><br>Forecasting sustainable development goals scores by 2030 using machine learning models!");
+        markerJapan.bindPopup("<b>Dr. Ayyoob Sharifi, Japan</b><br>Forecasting sustainable development goals scores by 2030 using machine learning models");
 
         // Marker for Belgium
         var markerBelgium = L.marker([50.609892, 5.128422]).addTo(map); 
-        markerBelgium.bindPopup("<b>Belgium</b><br>This is Belgium!");
+        markerBelgium.bindPopup("<b>Dr. Mohammad Hamed Abdi, Belgium</b><br>Cities, Arid Climates and Shading: Persian Vernacular Building Responses");
 
         // Automatically adjust the map's view to fit all markers
         var bounds = L.latLngBounds([
