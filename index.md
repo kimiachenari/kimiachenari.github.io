@@ -60,6 +60,9 @@
 
 ---
 
+![عکس پروفایل](https://github.com/user-attachments/assets/ba8858fe-99ac-440c-913c-66138a873a33)
+
+---
 
 ## 🔍 Current Interests
 
