@@ -66,11 +66,12 @@
 
 ## 🔍 Current Interests
 
-<span style="font-size: 15px; color: #666666;">- Big Data Analytics for Mobility and Health.
-<span style="font-size: 15px; color: #666666;">- Sustainable and Equitable Transportation Solutions.
-<span style="font-size: 15px; color: #666666;">- Socio-Economic Inequalities in Transportation Access.
-<span style="font-size: 15px; color: #666666;">- Geospatial Intelligence for Sustainable Development.
-<span style="font-size: 15px; color: #666666;">- Time Series Analysis of Environmental & Socioeconomic Indicators.
+<span style="font-size: 15px; color: #666666;">- Big Data Analytics for Mobility and Health.</span>
+<span style="font-size: 15px; color: #666666;">- Sustainable and Equitable Transportation Solutions.</span>
+<span style="font-size: 15px; color: #666666;">- Socio-Economic Inequalities in Transportation Access.</span>
+<span style="font-size: 15px; color: #666666;">- Geospatial Intelligence for Sustainable Development.</span>
+<span style="font-size: 15px; color: #666666;">- Time Series Analysis of Environmental & Socioeconomic Indicators.</span>
+
 
 
 ---
@@ -78,10 +79,6 @@
 ## 🤝 Let’s Collaborate
 
 <span style="font-size: 15px; color: #666666;">I have had the opportunity to work with experts from Iran, Japan, Australia, Belgium, and New Zealand. I’m always open to research collaborations, innovative projects, or consulting opportunities. 
-
-<div style="text-align: center;">
-  <img src="https://github.com/user-attachments/assets/6e6440a0-72a6-4285-a5fb-139f925c2376" alt="collaboration" width="500"/>
-</div>
 
 
 ---
