@@ -35,7 +35,7 @@
 
 
 4. <span style="font-size: 20px; color: #333333;">**🏙️ Urban & GeoSpatial Data Science**  
-<span style="font-size: 15px; color: #666666;">- Applied **NDVI**, **NDBI**, and **land cover classification** to assess **land use** and **environmental health**.</span>  
+<span style="font-size: 15px; color: #666666;">- Applied <strong><a href="https://github.com/kimiachenari/NDVI-EVI-Analysis" target="_blank">NDVI</a></strong>, <strong><a href="https://github.com/kimiachenari/NDBI" target="_blank">NDBI</a></strong>, and <strong><a href="https://github.com/kimiachenari/Land-Cover-Classification-using-Landsat-5-and-Landsat-8" target="_blank">land cover classification</a></strong> to assess <strong>land use</strong> and <strong>environmental health</strong>.</span>
 <span style="font-size: 15px; color: #666666;">- Predicted **land use patterns** using **deep learning** and **machine learning techniques**.</span>  
 <span style="font-size: 15px; color: #666666;">- Developed **3D models** to visualize **building density** and infrastructure, providing insights into walkability and vehicular access.</span>  
 <span style="font-size: 15px; color: #666666;">- Conducted a comprehensive **site selection analysis** for **residential construction**, considering critical factors such as elevation, slope, proximity to urban areas, roads, power network, and rivers; applied a weighted binary comparison matrix to identify and select the most suitable sites for development.</span>  
