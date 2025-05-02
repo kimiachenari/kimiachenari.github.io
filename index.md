@@ -89,49 +89,39 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Interactive World Map</title>
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+
     <style>
-        body {
-            font-family: Arial, sans-serif;
-        }
-        #world-map {
-            width: 100%;
-            max-width: 900px;
-            margin: 0 auto;
-            display: block;
-        }
-        .country {
-            fill: #ccc;
-            stroke: #fff;
-            cursor: pointer;
-        }
-        .country:hover {
-            fill: #f90;
+        /* Ensure the map has a height */
+        #map {
+            height: 100vh; /* 100% of the viewport height */
         }
     </style>
 </head>
 <body>
-    <h1>Click a Country</h1>
-    <div>
-        <svg id="world-map" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500">
-            <!-- Insert your SVG World Map here -->
-            <path class="country" id="country-usa" d="M250,150 L300,200 L250,250 L200,200 Z" data-name="USA" />
-            <path class="country" id="country-canada" d="M150,100 L200,150 L150,200 L100,150 Z" data-name="Canada" />
-            <!-- More countries go here -->
-        </svg>
-    </div>
 
-    <div id="country-name">
-        <p>Click on a country to see its name!</p>
-    </div>
+    <!-- Map container -->
+    <div id="map"></div>
+
+    <!-- Leaflet JS -->
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
 
     <script>
-        document.querySelectorAll('.country').forEach(country => {
-            country.addEventListener('click', function() {
-                let countryName = this.getAttribute('data-name');
-                document.getElementById('country-name').innerHTML = `<p>You clicked: ${countryName}</p>`;
-            });
-        });
+        // Initialize the map and set its view to the geographical center of the world
+        var map = L.map('map').setView([0, 0], 2);  // Latitude: 0, Longitude: 0, Zoom level: 2
+
+        // Add OpenStreetMap tile layer
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+        }).addTo(map);
+
+        // You can add a marker to check the functionality
+        var marker = L.marker([51.5, -0.09]).addTo(map); // London coordinates
+        marker.bindPopup("<b>Hello world!</b><br>I am a popup.").openPopup();
     </script>
+
 </body>
 </html>
 
