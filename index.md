@@ -88,7 +88,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Interactive World Map with Markers</title>
+    <title>Interactive World Map</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -107,31 +107,16 @@
         .country:hover {
             fill: #f90;
         }
-        .marker {
-            fill: red;
-            cursor: pointer;
-        }
     </style>
 </head>
 <body>
     <h1>Click a Country</h1>
     <div>
         <svg id="world-map" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500">
-            <!-- Example country paths, replace with your actual paths -->
+            <!-- Insert your SVG World Map here -->
             <path class="country" id="country-usa" d="M250,150 L300,200 L250,250 L200,200 Z" data-name="USA" />
             <path class="country" id="country-canada" d="M150,100 L200,150 L150,200 L100,150 Z" data-name="Canada" />
-            <!-- Add more countries here as per your map -->
-
-            <!-- Australia -->
-            <circle class="marker" cx="320" cy="340" r="5" data-name="Australia" />
-            <!-- New Zealand -->
-            <circle class="marker" cx="170" cy="420" r="5" data-name="New Zealand" />
-            <!-- Japan -->
-            <circle class="marker" cx="600" cy="180" r="5" data-name="Japan" />
-            <!-- Iran -->
-            <circle class="marker" cx="640" cy="250" r="5" data-name="Iran" />
-            <!-- Belgium -->
-            <circle class="marker" cx="480" cy="130" r="5" data-name="Belgium" />
+            <!-- More countries go here -->
         </svg>
     </div>
 
@@ -144,14 +129,6 @@
             country.addEventListener('click', function() {
                 let countryName = this.getAttribute('data-name');
                 document.getElementById('country-name').innerHTML = `<p>You clicked: ${countryName}</p>`;
-            });
-        });
-
-        // Add event listener for markers
-        document.querySelectorAll('.marker').forEach(marker => {
-            marker.addEventListener('click', function() {
-                let markerName = this.getAttribute('data-name');
-                document.getElementById('country-name').innerHTML = `<p>Marker for: ${markerName}</p>`;
             });
         });
     </script>
