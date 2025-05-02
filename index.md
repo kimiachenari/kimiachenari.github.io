@@ -92,11 +92,10 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            text-align: center;
         }
         #world-map {
             width: 100%;
-            max-width: 1000px;
+            max-width: 900px;
             margin: 0 auto;
             display: block;
         }
@@ -118,19 +117,21 @@
     <h1>Click a Country</h1>
     <div>
         <svg id="world-map" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500">
-            <!-- Example: Replace the below paths with the actual SVG paths -->
-            <path class="country" id="country-australia" d="M420,320 L440,340 L420,360 L400,340 Z" data-name="Australia" />
-            <path class="country" id="country-newzealand" d="M150,380 L170,400 L150,420 L130,400 Z" data-name="New Zealand" />
-            <path class="country" id="country-japan" d="M600,150 L620,170 L600,190 L580,170 Z" data-name="Japan" />
-            <path class="country" id="country-iran" d="M640,210 L660,230 L640,250 L620,230 Z" data-name="Iran" />
-            <path class="country" id="country-belgium" d="M500,110 L520,130 L500,150 L480,130 Z" data-name="Belgium" />
+            <!-- Example country paths, replace with your actual paths -->
+            <path class="country" id="country-usa" d="M250,150 L300,200 L250,250 L200,200 Z" data-name="USA" />
+            <path class="country" id="country-canada" d="M150,100 L200,150 L150,200 L100,150 Z" data-name="Canada" />
+            <!-- Add more countries here as per your map -->
 
-            <!-- Markers for specific countries -->
-            <circle class="marker" cx="420" cy="340" r="5" data-name="Australia" />
-            <circle class="marker" cx="160" cy="400" r="5" data-name="New Zealand" />
-            <circle class="marker" cx="610" cy="170" r="5" data-name="Japan" />
-            <circle class="marker" cx="650" cy="230" r="5" data-name="Iran" />
-            <circle class="marker" cx="510" cy="130" r="5" data-name="Belgium" />
+            <!-- Australia -->
+            <circle class="marker" cx="320" cy="340" r="5" data-name="Australia" />
+            <!-- New Zealand -->
+            <circle class="marker" cx="170" cy="420" r="5" data-name="New Zealand" />
+            <!-- Japan -->
+            <circle class="marker" cx="600" cy="180" r="5" data-name="Japan" />
+            <!-- Iran -->
+            <circle class="marker" cx="640" cy="250" r="5" data-name="Iran" />
+            <!-- Belgium -->
+            <circle class="marker" cx="480" cy="130" r="5" data-name="Belgium" />
         </svg>
     </div>
 
@@ -146,6 +147,7 @@
             });
         });
 
+        // Add event listener for markers
         document.querySelectorAll('.marker').forEach(marker => {
             marker.addEventListener('click', function() {
                 let markerName = this.getAttribute('data-name');
@@ -155,6 +157,7 @@
     </script>
 </body>
 </html>
+
 
 
 ---
