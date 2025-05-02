@@ -59,8 +59,8 @@
    <span style="font-size: 15px; color: #666666;">- Developed optimal strategies for forecasting **large datasets**, addressing real-world challenges like **missing data** and **inconsistencies**.
 
 ---
+![عکس پروفایل2](https://github.com/user-attachments/assets/18f4f914-519d-40c4-b290-5fb1082cd983)
 
-![عکس پروفایل](https://github.com/user-attachments/assets/ba8858fe-99ac-440c-913c-66138a873a33)
 
 ---
 
