@@ -96,9 +96,11 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
 
     <style>
-        /* Make the map container smaller */
+        /* Make the map container smaller in size */
         #map {
-            height: 80vh; /* 80% of the viewport height */
+            height: 50vh;  /* 50% of the viewport height */
+            width: 70vw;   /* 70% of the viewport width */
+            margin: auto;  /* Center the map on the page */
         }
     </style>
 </head>
@@ -154,8 +156,6 @@
 
 </body>
 </html>
-
-
 
 ---
 <span style="font-size: 15px; color: #666666;">📫 **Get in Touch**: [kimiachenary1@gmail.com]  
