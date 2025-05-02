@@ -96,11 +96,9 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
 
     <style>
-        /* Make the map container smaller in size */
+        /* Make the map container smaller */
         #map {
-            height: 50vh;  /* 50% of the viewport height */
-            width: 70vw;   /* 70% of the viewport width */
-            margin: auto;  /* Center the map on the page */
+            height: 80vh; /* 80% of the viewport height */
         }
     </style>
 </head>
@@ -135,7 +133,7 @@
 
         // Marker for Japan
         var markerJapan = L.marker([36.000864, 138.739163]).addTo(map); 
-        markerJapan.bindPopup("<b>Japan</b><br>This is Japan!");
+        markerJapan.bindPopup("<b>Japan</b><br>Forecasting sustainable development goals scores by 2030 using machine learning models!");
 
         // Marker for Belgium
         var markerBelgium = L.marker([50.609892, 5.128422]).addTo(map); 
@@ -156,6 +154,7 @@
 
 </body>
 </html>
+
 
 ---
 <span style="font-size: 15px; color: #666666;">📫 **Get in Touch**: [kimiachenary1@gmail.com]  
