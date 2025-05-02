@@ -29,9 +29,10 @@
 
    
 3. <span style="font-size: 20px; color: #333333;">**🌡️ Climate & Natural Hazard Analysis**  
-   <span style="font-size: 15px; color: #666666;">- Visualized <strong><a href="https://github.com/kimiachenari/Land-Surface-Temperature-LST-" target="_blank">Land Surface Temperature (LST)</a></strong> and improved the scaling of multiple observation maps.</span>
-   <span style="font-size: 15px; color: #666666;">- Visualized <strong><a href="https://github.com/kimiachenari/SO2-Concentration-Analysis-for-Tehran-Pre-and-Post-COVID-19" target="_blank">air pollution</a></strong> to identify environmental risks.</span>
-   <span style="font-size: 15px; color: #666666;">- Visualized <strong><a href="https://github.com/kimiachenari/Flood-Hazard-and-Water-Mapping" target="_blank">flood vulnerability</a></strong> to evaluate risks and assist in disaster preparedness.</span>
+  <span style="font-size: 15px; color: #666666;">- Visualized <strong><a href="https://github.com/kimiachenari/Land-Surface-Temperature-LST-" target="_blank">Land Surface Temperature (LST)</a></strong> and improved the scaling of multiple observation maps.</span><br>
+<span style="font-size: 15px; color: #666666;">- Visualized <strong><a href="https://github.com/kimiachenari/SO2-Concentration-Analysis-for-Tehran-Pre-and-Post-COVID-19" target="_blank">air pollution</a></strong> to identify environmental risks.</span><br>
+<span style="font-size: 15px; color: #666666;">- Visualized <strong><a href="https://github.com/kimiachenari/Flood-Hazard-and-Water-Mapping" target="_blank">flood vulnerability</a></strong> to evaluate risks and assist in disaster preparedness.</span>
+
 
 4. <span style="font-size: 20px; color: #333333;">**🏙️ Urban & GeoSpatial Data Science**  
 <span style="font-size: 15px; color: #666666;">- Applied **NDVI**, **NDBI**, and **land cover classification** to assess **land use** and **environmental health**.</span>  
