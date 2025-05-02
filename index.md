@@ -21,7 +21,7 @@
 ## **Skills**
 ## **🌍 Spatial Analysis & Remote Sensing**
 1. <span style="font-size: 20px; color: #333333;">**🗺️Street Network Analysis**  
-<span style="font-size: 15px; color: #666666;">- Analyzed **street patterns** and assessed **street forms** that influence **surface temperature**.</span>  
+<span style="font-size: 15px; color: #666666;">- Analyzed <strong><a href="https://github.com/kimiachenari/Street-Local-Closeness-Centrality" target="_blank">street patterns</a></strong> and assessed <strong>street forms</strong> that influence <strong>surface temperature</strong>. 
 <span style="font-size: 15px; color: #666666;">- Analyzed **connectivity** and **traffic volume**, identifying key areas.</span>  
 <span style="font-size: 15px; color: #666666;">- Identified **urban functionality** through the relationship between streets and buildings.</span>  
 <span style="font-size: 15px; color: #666666;">- Visualized **street orientation** and street geometry in ancient and hesitant areas.</span>  
