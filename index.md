@@ -75,7 +75,7 @@
 
 ## 🤝 Let’s Collaborate
 
-<span style="font-size: 15px; color: #666666;">I have had the opportunity to work with experts from Iran, Japan, Australia, and New Zealand. I’m always open to research collaborations, innovative projects, or consulting opportunities. 
+<span style="font-size: 15px; color: #666666;">I have had the opportunity to work with experts from Iran, Japan, Australia, Belgium, and New Zealand. I’m always open to research collaborations, innovative projects, or consulting opportunities. 
 
 <div style="text-align: center;">
   <img src="https://github.com/user-attachments/assets/6e6440a0-72a6-4285-a5fb-139f925c2376" alt="collaboration" width="500"/>
@@ -88,7 +88,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Interactive World Map</title>
+    <title>Interactive World Map with Markers</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -107,10 +107,9 @@
         .country:hover {
             fill: #f90;
         }
-        .label {
-            font-size: 14px;
-            font-weight: bold;
-            fill: #333;
+        .marker {
+            fill: red;
+            cursor: pointer;
         }
     </style>
 </head>
@@ -118,24 +117,24 @@
     <h1>Click a Country</h1>
     <div>
         <svg id="world-map" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500">
-            <!-- Example paths for countries (replace with actual SVG paths) -->
-            <!-- Australia -->
-            <path class="country" id="country-australia" d="M550,300 L600,350 L550,400 L500,350 Z" data-name="Australia" />
-            <!-- New Zealand -->
-            <path class="country" id="country-new-zealand" d="M600,450 L650,500 L600,550 L550,500 Z" data-name="New Zealand" />
-            <!-- Japan -->
-            <path class="country" id="country-japan" d="M300,120 L350,170 L300,220 L250,170 Z" data-name="Japan" />
-            <!-- Iran -->
-            <path class="country" id="country-iran" d="M450,200 L500,250 L450,300 L400,250 Z" data-name="Iran" />
-            <!-- Belgium -->
-            <path class="country" id="country-belgium" d="M100,200 L150,250 L100,300 L50,250 Z" data-name="Belgium" />
-            
-            <!-- Labels for countries -->
-            <text class="label" x="550" y="320">Australia</text>
-            <text class="label" x="620" y="470">New Zealand</text>
-            <text class="label" x="300" y="170">Japan</text>
-            <text class="label" x="470" y="240">Iran</text>
-            <text class="label" x="110" y="240">Belgium</text>
+            <!-- Example country paths, replace with your actual paths -->
+            <path class="country" id="country-australia" d="M300,300 L350,350 L300,400 L250,350 Z" data-name="Australia" />
+            <path class="country" id="country-newzealand" d="M150,400 L200,450 L150,500 L100,450 Z" data-name="New Zealand" />
+            <path class="country" id="country-japan" d="M500,150 L550,200 L500,250 L450,200 Z" data-name="Japan" />
+            <path class="country" id="country-iran" d="M600,200 L650,250 L600,300 L550,250 Z" data-name="Iran" />
+            <path class="country" id="country-belgium" d="M450,100 L500,150 L450,200 L400,150 Z" data-name="Belgium" />
+
+            <!-- Markers for specific countries -->
+            <!-- Australia Marker -->
+            <circle class="marker" cx="325" cy="325" r="5" data-name="Australia" />
+            <!-- New Zealand Marker -->
+            <circle class="marker" cx="175" cy="450" r="5" data-name="New Zealand" />
+            <!-- Japan Marker -->
+            <circle class="marker" cx="525" cy="200" r="5" data-name="Japan" />
+            <!-- Iran Marker -->
+            <circle class="marker" cx="625" cy="250" r="5" data-name="Iran" />
+            <!-- Belgium Marker -->
+            <circle class="marker" cx="475" cy="150" r="5" data-name="Belgium" />
         </svg>
     </div>
 
@@ -150,10 +149,17 @@
                 document.getElementById('country-name').innerHTML = `<p>You clicked: ${countryName}</p>`;
             });
         });
+
+        // Add event listener for markers
+        document.querySelectorAll('.marker').forEach(marker => {
+            marker.addEventListener('click', function() {
+                let markerName = this.getAttribute('data-name');
+                document.getElementById('country-name').innerHTML = `<p>Marker for: ${markerName}</p>`;
+            });
+        });
     </script>
 </body>
 </html>
-
 
 
 
