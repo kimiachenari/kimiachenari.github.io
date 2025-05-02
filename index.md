@@ -107,16 +107,35 @@
         .country:hover {
             fill: #f90;
         }
+        .label {
+            font-size: 14px;
+            font-weight: bold;
+            fill: #333;
+        }
     </style>
 </head>
 <body>
     <h1>Click a Country</h1>
     <div>
         <svg id="world-map" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 500">
-            <!-- Insert your SVG World Map here -->
-            <path class="country" id="country-usa" d="M250,150 L300,200 L250,250 L200,200 Z" data-name="USA" />
-            <path class="country" id="country-canada" d="M150,100 L200,150 L150,200 L100,150 Z" data-name="Canada" />
-            <!-- More countries go here -->
+            <!-- Example paths for countries (replace with actual SVG paths) -->
+            <!-- Australia -->
+            <path class="country" id="country-australia" d="M550,300 L600,350 L550,400 L500,350 Z" data-name="Australia" />
+            <!-- New Zealand -->
+            <path class="country" id="country-new-zealand" d="M600,450 L650,500 L600,550 L550,500 Z" data-name="New Zealand" />
+            <!-- Japan -->
+            <path class="country" id="country-japan" d="M300,120 L350,170 L300,220 L250,170 Z" data-name="Japan" />
+            <!-- Iran -->
+            <path class="country" id="country-iran" d="M450,200 L500,250 L450,300 L400,250 Z" data-name="Iran" />
+            <!-- Belgium -->
+            <path class="country" id="country-belgium" d="M100,200 L150,250 L100,300 L50,250 Z" data-name="Belgium" />
+            
+            <!-- Labels for countries -->
+            <text class="label" x="550" y="320">Australia</text>
+            <text class="label" x="620" y="470">New Zealand</text>
+            <text class="label" x="300" y="170">Japan</text>
+            <text class="label" x="470" y="240">Iran</text>
+            <text class="label" x="110" y="240">Belgium</text>
         </svg>
     </div>
 
@@ -134,6 +153,7 @@
     </script>
 </body>
 </html>
+
 
 
 
