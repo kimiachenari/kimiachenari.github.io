@@ -69,15 +69,6 @@
 
 ---
 
-## 🔍 Current Interests
-
-<span style="font-size: 15px; color: #666666;">- Big Data Analytics for Mobility and Health.</span><br>
-<span style="font-size: 15px; color: #666666;">- Sustainable and Equitable Transportation Solutions.</span><br>
-<span style="font-size: 15px; color: #666666;">- Socio-Economic Inequalities in Transportation Access.</span><br>
-<span style="font-size: 15px; color: #666666;">- Geospatial Intelligence for Sustainable Development.</span><br>
-<span style="font-size: 15px; color: #666666;">- Time Series Analysis of Environmental & Socioeconomic Indicators.</span>
-
----
 ## 📚 My Publications
 <span style="font-size: 20px; color: #333333;">Research papers</span><br>
 <span style="font-size: 15px; color: #666666;">- Chenary, K., Pirian Kalat, O., & Sharifi, A. (2024). Forecasting sustainable development goals scores by 2030 using machine learning models. Sustainable Development, 1–19. <a href="https://doi.org/10.1002/sd.3037" target="_blank">https://doi.org/10.1002/sd.3037</a>. (Q1, IF:12.91)</span><br>
