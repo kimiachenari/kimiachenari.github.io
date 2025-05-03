@@ -80,14 +80,14 @@
 ---
 ## 📚 My Publications
 <span style="font-size: 20px; color: #333333;">Research papers</span><br>
-<span style="font-size: 15px; color: #666666;">- Chenary, K., Pirian Kalat, O., & Sharifi, A. (2024). Forecasting sustainable development goals scores by 2030 using machine learning models. Sustainable Development, 1–19. https://doi.org/10.1002/sd.3037. (Q1, IF:12.91)</span><br>
-<span style="font-size: 15px; color: #666666;">- Chenary, K., Soltani, A., & Sharifi, A. (2023). Street network patterns for mitigating urban heat islands in arid climates. International Journal of Digital Earth, 16(1), 3145–3161. https://doi.org/10.1080/17538947.2023.2243901 (Q1, IF:3.7)</span><br>
+<span style="font-size: 15px; color: #666666;">- Chenary, K., Pirian Kalat, O., & Sharifi, A. (2024). Forecasting sustainable development goals scores by 2030 using machine learning models. Sustainable Development, 1–19. <a href="https://doi.org/10.1002/sd.3037" target="_blank">https://doi.org/10.1002/sd.3037</a>. (Q1, IF:12.91)</span><br>
+<span style="font-size: 15px; color: #666666;">- Chenary, K., Soltani, A., & Sharifi, A. (2023). Street network patterns for mitigating urban heat islands in arid climates. International Journal of Digital Earth, 16(1), 3145–3161. <a href="https://doi.org/10.1080/17538947.2023.2243901" target="_blank">https://doi.org/10.1080/17538947.2023.2243901</a> (Q1, IF:3.7)</span><br>
 
 <span style="font-size: 20px; color: #333333;">Book chapter</span><br>
-<span style="font-size: 15px; color: #666666;">- Chenary, K., Abdi, M.H. (2024). Cities, Arid Climates and Shading: Persian Vernacular Building Responses. In: Cheshmehzangi, A., Roaf, S. (eds) Persian Vernacular Architecture. Urban Sustainability. Springer, Singapore. https://doi.org/10.1007/978-981-96-1116-4_11</span><br>
+<span style="font-size: 15px; color: #666666;">- Chenary, K., Abdi, M.H. (2024). Cities, Arid Climates and Shading: Persian Vernacular Building Responses. In: Cheshmehzangi, A., Roaf, S. (eds) Persian Vernacular Architecture. Urban Sustainability. Springer, Singapore. <a href="https://doi.org/10.1007/978-981-96-1116-4_11" target="_blank">https://doi.org/10.1007/978-981-96-1116-4_11</a></span><br>
 
 <span style="font-size: 20px; color: #333333;">Conference paper</span><br>
-<span style="font-size: 15px; color: #666666;">- Pirian Kalat, O., Chenary, K., GhaffarianHosein, A. (2025). Quantitative Impact of Key SDG Indicators on National Sustainability Scores in West Asia: A Comprehensive Analysis. Proceedings of the International Conference on Smart and Sustainable Built Environment (SASBE 2024). SASBE 2024. Lecture Notes in Civil Engineering, vol 591. Springer, Singapore. https://doi.org/10.1007/978-981-96-4051-5_127</span>
+<span style="font-size: 15px; color: #666666;">- Pirian Kalat, O., Chenary, K., GhaffarianHosein, A. (2025). Quantitative Impact of Key SDG Indicators on National Sustainability Scores in West Asia: A Comprehensive Analysis. Proceedings of the International Conference on Smart and Sustainable Built Environment (SASBE 2024). SASBE 2024. Lecture Notes in Civil Engineering, vol 591. Springer, Singapore. <a href="https://doi.org/10.1007/978-981-96-4051-5_127" target="_blank">https://doi.org/10.1007/978-981-96-4051-5_127</a></span>
 
 
 ---
