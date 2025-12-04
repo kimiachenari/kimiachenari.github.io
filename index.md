@@ -19,7 +19,7 @@
 
 
 ## **Skills**
-## **🌍 Spatial Analysis & Remote Sensing**
+## **🌍 Spatial Analysis **
 1. <span style="font-size: 20px; color: #333333;">**🗺️Street Network Analysis**  
 <span style="font-size: 15px; color: #666666;">- Analyzed <strong><a href="https://github.com/kimiachenari/Street-Local-Closeness-Centrality" target="_blank">street patterns</a></strong> and assessed <strong>street forms</strong> that influence <strong>surface temperature</strong>.</span><br>
 <span style="font-size: 15px; color: #666666;">- Analyzed <strong>connectivity</strong> and <strong><a href="https://drive.google.com/file/d/1jCpSZJXIlY-nwgJuFbM0bVg_qmiTyci6/view?usp=drive_link" target="_blank">pedestrian accessibility</a></strong>, identifying key areas.</span>  
@@ -34,7 +34,7 @@
 <span style="font-size: 15px; color: #666666;">- Visualized <strong><a href="https://github.com/kimiachenari/Flood-Hazard-and-Water-Mapping" target="_blank">flood vulnerability</a></strong> to evaluate risks and assist in disaster preparedness.</span>
 
 
-4. <span style="font-size: 20px; color: #333333;">**🏙️ Urban & GeoSpatial Data Science**  
+4. <span style="font-size: 20px; color: #333333;">**🏙️ Urban Data Science**  
 <span style="font-size: 15px; color: #666666;">- Applied <strong><a href="https://github.com/kimiachenari/NDVI-EVI-Analysis" target="_blank">NDVI</a></strong>, <strong><a href="https://github.com/kimiachenari/NDBI" target="_blank">NDBI</a></strong>, and <strong><a href="https://github.com/kimiachenari/Land-Cover-Classification-using-Landsat-5-and-Landsat-8" target="_blank">land cover classification</a></strong> to assess <strong>land use</strong> and <strong>environmental health</strong>.</span><br>
 <span style="font-size: 15px; color: #666666;">
 <span style="font-size: 15px; color: #666666;">- Developed <strong><a href="https://drive.google.com/file/d/1jCpSZJXIlY-nwgJuFbM0bVg_qmiTyci6/view" target="_blank">3D models</a></strong> to visualize <strong>building density</strong> and infrastructure, providing insights into walkability and vehicular access.</span><br>
@@ -55,7 +55,7 @@
 <span style="font-size: 15px; color: #666666;">- Improved <strong>ARIMA</strong> time series predictions by incorporating <strong>external variables</strong>.</span>
 
 
-2. <span style="font-size: 20px; color: #333333;">**💾 Big Data Management**  
+2. <span style="font-size: 20px; color: #333333;">**💾 Data Management**  
 <span style="font-size: 15px; color: #666666;">- Managed and predicted outcomes using <strong>real-world datasets</strong> with numerous columns and limited rows.</span><br>
 <span style="font-size: 15px; color: #666666;">- Preprocessed, cleaned, and handled <strong><a href="https://github.com/kimiachenari/kimiachenari/tree/main" target="_blank">large datasets</a></strong>, ensuring data integrity for analysis.</span><br>
 <span style="font-size: 15px; color: #666666;">- Identified and analyzed <strong>interconnections</strong> across diverse data types.</span><br>
