@@ -1,6 +1,6 @@
 
 <span style="font-size: 15px; color: #666666;">
-    Welcome! I'm an urban planner focused on leveraging data-driven insights with expertise in **Street Network analysis**, **Big Data Analytics**, **Time Series Forecasting**, **Machine Learning**, and **Geospatial Analysis**.
+    Welcome! I'm an urban planner focused on leveraging data-driven insights with expertise in **Street Network analysis**, **Data Analytics**, **Time Series Forecasting**, and **Spatial Analysis**.
 </span>
 
 
