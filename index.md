@@ -19,7 +19,7 @@
 
 
 ## **Skills**
-## **🌍 Spatial Analysis **
+## **🌍 Spatial Analysis**
 1. <span style="font-size: 20px; color: #333333;">**🗺️Street Network Analysis**  
 <span style="font-size: 15px; color: #666666;">- Analyzed <strong><a href="https://github.com/kimiachenari/Street-Local-Closeness-Centrality" target="_blank">street patterns</a></strong> and assessed <strong>street forms</strong> that influence <strong>surface temperature</strong>.</span><br>
 <span style="font-size: 15px; color: #666666;">- Analyzed <strong>connectivity</strong> and <strong><a href="https://drive.google.com/file/d/1jCpSZJXIlY-nwgJuFbM0bVg_qmiTyci6/view?usp=drive_link" target="_blank">pedestrian accessibility</a></strong>, identifying key areas.</span>  
