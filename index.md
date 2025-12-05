@@ -36,7 +36,6 @@
 
 4. <span style="font-size: 20px; color: #333333;">**🏙️ Urban Data Science**  
 <span style="font-size: 15px; color: #666666;">- Applied <strong><a href="https://github.com/kimiachenari/NDVI-EVI-Analysis" target="_blank">NDVI</a></strong>, <strong><a href="https://github.com/kimiachenari/NDBI" target="_blank">NDBI</a></strong>, and <strong><a href="https://github.com/kimiachenari/Land-Cover-Classification-using-Landsat-5-and-Landsat-8" target="_blank">land cover classification</a></strong> to assess <strong>land use</strong> and <strong>environmental health</strong>.</span><br>
-<span style="font-size: 15px; color: #666666;">
 <span style="font-size: 15px; color: #666666;">- Developed <strong><a href="https://drive.google.com/file/d/1jCpSZJXIlY-nwgJuFbM0bVg_qmiTyci6/view" target="_blank">3D models</a></strong> to visualize <strong>building density</strong> and infrastructure, providing insights into walkability and vehicular access.</span><br>
 <span style="font-size: 15px; color: #666666;"></span><br>
 <span style="font-size: 15px; color: #666666;">- Visualized the <strong><a href="https://github.com/kimiachenari/-COVID-19-Spread-Visualization-in-Iran-" target="_blank">spread of COVID-19</a></strong> in various regions of Iran over several weeks.</span>
