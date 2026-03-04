@@ -26,7 +26,6 @@
 <span style="font-size: 15px; color: #666666;">- Identified <strong><a href="https://drive.google.com/file/d/1P1z3yVRvJF-PVSSUbdoa2BHqScWEiLXS/view?usp=drive_link" target="_blank">urban functionality</a></strong> through the relationship between streets and buildings.</span>  
 <span style="font-size: 15px; color: #666666;">- Visualized <strong><a href="https://github.com/kimiachenari/Street-Edge-Bearing" target="_blank">street orientation</a></strong> and street geometry in ancient and hesitant areas.</span>  
 <span style="font-size: 15px; color: #666666;">- Addressed <strong><a href="https://drive.google.com/file/d/1jCpSZJXIlY-nwgJuFbM0bVg_qmiTyci6/view?usp=drive_link" target="_blank">pedestrian accessibility</a></strong> issues due to <strong>inadequate</strong> crossings.</span>
-<br>
 <span style="font-size: 15px; color: #666666;">- Provided <strong><a href="https://drive.google.com/file/d/1TVfZBzrH4Wdvfq_8dMiR2iWkQB_1dbis/view?usp=sharing" target="_blank">visualizations and maps</a></strong> to support decision-making for residential site planning.</span>
 
    
