@@ -31,7 +31,7 @@ Residential Construction Site Selection: As part of our undergraduate coursework
 <span style="font-size: 15px; color: #666666;">- Provided <strong><a href="https://drive.google.com/file/d/1TVfZBzrH4Wdvfq_8dMiR2iWkQB_1dbis/view?usp=sharing" target="_blank">visualizations and maps</a></strong> to support decision-making for residential site planning.</span>
 
 
-1, <span style="font-size: 20px; color: #333333;">**🗺️Street Network Analysis**</span><br>
+1. <span style="font-size: 20px; color: #333333;">**🗺️Street Network Analysis**</span><br>
 <span style="font-size: 15px; color: #666666;">Residential Construction Site Selection: As part of our undergraduate coursework <strong><a href="https://drive.google.com/file/d/125aNQlv0yvtv_EMXHzDfoPfugJzX-fdw/view?usp=sharing" target="_blank">[Document]</a></strong>, we analyzed and <strong><a href="https://drive.google.com/file/d/1TVfZBzrH4Wdvfq_8dMiR2iWkQB_1dbis/view?usp=sharing" target="_blank">weighted various geographical factors</a></strong> to select the most suitable residential construction site from multiple options.</span><br>
 <span style="font-size: 15px; color: #666666;">- Analyzed <strong><a href="https://github.com/kimiachenari/Street-Local-Closeness-Centrality" target="_blank">street patterns</a></strong> and assessed <strong>street forms</strong> that influence <strong>surface temperature</strong>.</span><br>
 <span style="font-size: 15px; color: #666666;">- Analyzed <strong>connectivity</strong> and <strong><a href="https://drive.google.com/file/d/1jCpSZJXIlY-nwgJuFbM0bVg_qmiTyci6/view?usp=drive_link" target="_blank">pedestrian accessibility</a></strong>, identifying key areas.</span><br>
