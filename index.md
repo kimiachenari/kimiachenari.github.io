@@ -28,7 +28,7 @@
 <span style="font-size: 15px; color: #666666;">- Addressed <strong><a href="https://drive.google.com/file/d/1jCpSZJXIlY-nwgJuFbM0bVg_qmiTyci6/view?usp=drive_link" target="_blank">pedestrian accessibility</a></strong> issues due to <strong>inadequate</strong> crossings.</span>
 <span style="font-size: 15px; color: #666666;">- Provided <strong><a href="https://drive.google.com/file/d/1TVfZBzrH4Wdvfq_8dMiR2iWkQB_1dbis/view?usp=sharing" target="_blank">visualizations and maps</a></strong> to support decision-making for residential site planning.</span>
 
-<span style="font-size: 20px; color: #333333;">**🗺️Street Network Analysis**</span><br>
+1. <span style="font-size: 20px; color: #333333;">**🗺️Street Network Analysis**</span><br>
 <span style="font-size: 15px; color: #666666;">- Analyzed <strong><a href="https://github.com/kimiachenari/Street-Local-Closeness-Centrality" target="_blank">street patterns</a></strong> and assessed <strong>street forms</strong> that influence <strong>surface temperature</strong>.</span><br>
 <span style="font-size: 15px; color: #666666;">- Analyzed <strong>connectivity</strong> and <strong><a href="https://drive.google.com/file/d/1jCpSZJXIlY-nwgJuFbM0bVg_qmiTyci6/view?usp=drive_link" target="_blank">pedestrian accessibility</a></strong>, identifying key areas.</span><br>
 <span style="font-size: 15px; color: #666666;">- Identified <strong><a href="https://drive.google.com/file/d/1P1z3yVRvJF-PVSSUbdoa2BHqScWEiLXS/view?usp=drive_link" target="_blank">urban functionality</a></strong> through the relationship between streets and buildings.</span><br>
